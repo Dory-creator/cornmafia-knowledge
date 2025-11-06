@@ -42,8 +42,6 @@ Copy1. [🎮GAMEPLAY](/gameplay)
 Game Launcher
 =============
 
-Interact with your NFTs like never before
-
 The First Cardano & Base Blockchain Desktop NFT Wallet App
 ----------------------------------------------------------
 
@@ -111,7 +109,7 @@ The Launcher works in the background alongside the [Unreal Engine](/the-company/
 
 The Launcher will be updated and will grow into an invaluable piece of critical Cornucopias infrastructure. 
 
-[PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)Last updated 8 months ago
+[PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)Last updated 8 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
