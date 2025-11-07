@@ -58,7 +58,7 @@ Infinity Rising leverages blockchain technology, providing players complete owne
 
 The game world has been designed to be expanded upon as new features and functionality are released. Players can expect to find a world that continuously evolves with exciting new developments in the future.
 
-[PreviousINFINITY RISING](/)[NextArtwork](/gameplay/about-the-game/artwork)Last updated 9 days ago
+[PreviousINFINITY RISING](/)[NextArtwork](/gameplay/about-the-game/artwork)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
