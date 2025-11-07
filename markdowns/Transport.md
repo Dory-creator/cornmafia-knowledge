@@ -68,6 +68,3 @@ Traveling by air will be the most common way to travel, players can own their ow
 
 [PreviousTannery](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tannery)[NextFlying Vehicles](/gameplay/themed-zones/transport/flying-vehicles)Last updated 1 year ago
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
