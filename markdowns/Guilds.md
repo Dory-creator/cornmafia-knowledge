@@ -60,6 +60,3 @@ More information about guilds will be added here in the future. For now, the bes
 
 [PreviousFriends List](/gameplay/gameplay-pc/friends-list)[NextQuest and challenges](/gameplay/gameplay-pc/quest-and-challenges)Last updated 1 year ago
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
