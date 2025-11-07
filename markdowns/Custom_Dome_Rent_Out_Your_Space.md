@@ -77,7 +77,7 @@ If the custom dome NFT is sold during the rental period, we will ensure the term
 
 There are a limited number of custom domes available so this could be your chance to own a special piece of the land in the Cornucopias metaverse. 
 
-[PreviousCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)[NextCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)Last updated 26 days ago
+[PreviousCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)[NextCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
