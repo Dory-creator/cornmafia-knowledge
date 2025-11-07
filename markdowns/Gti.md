@@ -84,6 +84,3 @@ Dev Shorts
 
 [https://www.youtube.com/watch?t=68s&v=UjFaW3Nzg6kwww.youtube.com](https://www.youtube.com/watch?t=68s&v=UjFaW3Nzg6k)[PreviousGenesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)[NextGTi Javelin 2022](/blockchain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022)Last updated 1 year ago
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
