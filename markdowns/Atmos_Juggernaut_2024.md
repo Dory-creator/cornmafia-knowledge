@@ -126,7 +126,7 @@ Navy Blue - **Atmos** - Juggernaut 2024 - Common
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fpvul2k1L5dxXYHak9RmF%252FAtmos_MY.png%3Falt%3Dmedia%26token%3D682ef1b1-4dd4-416a-8052-522e1c9af3c1&width=768&dpr=4&quality=100&sign=b5c5ef64&sv=2)### COPI Leaks
 
-[PreviousAtmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)[NextBubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)Last updated 26 days ago
+[PreviousAtmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)[NextBubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
