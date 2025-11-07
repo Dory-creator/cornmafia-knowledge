@@ -80,6 +80,3 @@ In addition, there are options to [sell tickets and/or merchandise](/gameplay/ga
 
 [PreviousCustom Dome Template - NFT Art Gallery Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nft-art-gallery-experience)[NextCustom Dome Template - Business Meetings](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-business-meetings)Last updated 3 years ago
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
