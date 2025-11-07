@@ -82,7 +82,7 @@ Throughout the [Seasons](/gameplay/gameplay-pc/seasons) there will be lots of In
 
 Lots more gameplay information will be released soon...
 
-[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)Last updated 9 days ago
+[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
