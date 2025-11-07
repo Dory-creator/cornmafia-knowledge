@@ -69,7 +69,7 @@ The more players that are required to be in a custom dome at the same time, the 
 * Tier C - up to 100 players/guests.
 * Tier B - up to 500 players/guests.
 * Tier A - we can support 1000+ players/guests over multiple nodes.
-[PreviousCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)[NextCustom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)Last updated 26 days ago
+[PreviousCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)[NextCustom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
