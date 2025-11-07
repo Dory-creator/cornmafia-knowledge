@@ -55,7 +55,7 @@ Roam vast landscapes, explore vibrant settlements, and engage in a myriad of act
 
 Overall, players will find a complex and immersive universe that combines elements of a technologically advanced society and the natural magnificence of Earth. This harmonious convergence of futuristic wonders and the legacy of the old world creates an environment where every moment feels like a breathtaking adventure.
 
-[PreviousArtwork](/gameplay/about-the-game/artwork)[NextInfinity Rising Land](/gameplay/about-the-game/infinity-rising-land)Last updated 26 days ago
+[PreviousArtwork](/gameplay/about-the-game/artwork)[NextInfinity Rising Land](/gameplay/about-the-game/infinity-rising-land)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
