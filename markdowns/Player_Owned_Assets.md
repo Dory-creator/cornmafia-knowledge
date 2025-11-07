@@ -112,7 +112,7 @@ The above process should ensure that if the mint was stopped or paused part way 
 * It is possible to have 2x Mythic Assets minted one after another, but this has never been reproduced during testing. For this to happen, the randomization process would have had to place the only Mythic from 1 batch into position 100 and then place the only Mythic from the next batch at position 1. Theoretically possible but extremely rare.
 * It is impossible to have 3 Mythic Assets minted in a row.
 
-[PreviousCross Chain Assets](/blockchain/marketplace/cross-chain-assets)[NextAsset - Apparel](/blockchain/player-owned-assets/asset-apparel)Last updated 26 days ago
+[PreviousCross Chain Assets](/blockchain/marketplace/cross-chain-assets)[NextAsset - Apparel](/blockchain/player-owned-assets/asset-apparel)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
