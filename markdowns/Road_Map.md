@@ -357,5 +357,5 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 
  \*\* **NOTE:** This item may not be ready and may be postponed to/from another time
 
-[PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)Last updated 9 days ago
+[PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)Last updated 10 days ago
 
