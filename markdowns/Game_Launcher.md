@@ -107,9 +107,9 @@ The Launcher will have security as its number one priority and the code will be 
 
 The Launcher works in the background alongside the [Unreal Engine](/the-company/technology/unreal-engine-5-ue5) game to provide services such as blockchain functionality, [server connectivity,](/the-company/technology/copi-nodes) and other [API interactions](/the-company/technology/apis) that are better suited to be developed within a desktop application than a games engine. 
 
-The Launcher will be updated and will grow into an invaluable piece of critical Cornucopias infrastructure. 
+The Launcher will be updated and will grow into an invaluable piece of critical infrastructure. 
 
-[PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)Last updated 8 minutes ago
+[PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)Last updated 14 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
