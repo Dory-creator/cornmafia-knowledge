@@ -129,7 +129,7 @@ Tokenomics
 
 There is a dedicated section surrounding the [Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics) of $COPI.
 
-[PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCryptocurrency Exchanges](/blockchain/usdcopi-token/cryptocurrency-exchanges)Last updated 9 days ago
+[PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCryptocurrency Exchanges](/blockchain/usdcopi-token/cryptocurrency-exchanges)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
