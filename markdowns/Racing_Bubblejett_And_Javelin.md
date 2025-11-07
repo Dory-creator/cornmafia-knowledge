@@ -72,6 +72,3 @@ More information will appear here on how a player can create their own racetrack
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FA3vIX3L8A9EmoVRNFCIH%252Fimage.png%3Falt%3Dmedia%26token%3D9ac0ee71-a5de-4cdf-a73e-4e5643e1e8ed&width=768&dpr=4&quality=100&sign=1def41ed&sv=2)![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fjz8cqFCMj912BXnxFLG8%252Fimage.png%3Falt%3Dmedia%26token%3D5d9a73b4-1b2e-4f00-bdc3-755fcfaeeaa5&width=768&dpr=4&quality=100&sign=5ee89532&sv=2)[PreviousCustom Dome - Game Templates - PVP](/gameplay/gameplay-pc/custom-domes/custom-dome-game-templates-pvp)[NextCustom Dome - Building Kits & Gameplay Kits](/gameplay/gameplay-pc/custom-domes/custom-dome-building-kits-and-gameplay-kits)Last updated 3 years ago
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
