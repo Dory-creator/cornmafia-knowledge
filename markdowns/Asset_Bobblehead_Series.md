@@ -115,7 +115,7 @@ Red - **Common** - only 6,000 in existence
 
 The NFT Mint was a sell out over 4 tiered sales within a few hours.
 
-[PreviousBurger Barn Deluxe #1 Hat](/blockchain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)Last updated 26 days ago
+[PreviousBurger Barn Deluxe #1 Hat](/blockchain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
