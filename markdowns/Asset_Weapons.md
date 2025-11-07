@@ -55,7 +55,7 @@ There are many weapon manufacturers within Cornucopias:
 * Komaru Defense
 * Rando's Metalworks
 * Asuna
-[PreviousAsset - Seasonal Tenant Key](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)[NextRando's Metalworks - Weapons](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons)Last updated 5 months ago
+[PreviousAsset - Seasonal Tenant Key](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)[NextRando's Metalworks - Weapons](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons)Last updated 6 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
