@@ -85,7 +85,7 @@ After the rebrand a new version of the show called Café RISE began and was firs
 
 Official Infinity Rising YouTube channel
 
-[PreviousCafé RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)[NextCOPICafe - Episodes 130 - 142](/gameplay/community/copicafe-archive-videos/copicafe-episodes-130-142)Last updated 9 days ago
+[PreviousCafé RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)[NextCOPICafe - Episodes 130 - 142](/gameplay/community/copicafe-archive-videos/copicafe-episodes-130-142)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
