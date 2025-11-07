@@ -113,7 +113,7 @@ The Policy ID for all rarities of the Custom Domes is: ​9cce4bbd9f6e06ef9d67b9
 
 The NFT Sales were an incredible success with the Cornucopias in-house built NFT technology standing up to the huge demand, here are some of the headlines
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FBbJtnUbzFCcVkOr4GGJN%252Fimage.png%3Falt%3Dmedia%26token%3D8789f752-c55c-492d-9872-2dd979b1bf82&width=768&dpr=4&quality=100&sign=ddd7768a&sv=2)[PreviousAsset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)[NextAsset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)Last updated 26 days ago
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FBbJtnUbzFCcVkOr4GGJN%252Fimage.png%3Falt%3Dmedia%26token%3D8789f752-c55c-492d-9872-2dd979b1bf82&width=768&dpr=4&quality=100&sign=ddd7768a&sv=2)[PreviousAsset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)[NextAsset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
