@@ -61,7 +61,7 @@ The following Assets have been minted so far under this series:
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FsqdlRwbd68gbxnjhJCr4%252Fplots16.png%3Falt%3Dmedia%26token%3Dccb0be3d-249e-45a7-a30e-26aea3ef0bfd&width=768&dpr=4&quality=100&sign=8c12a518&sv=2)**COPICares** is a philanthropic initiative that connects the **Digital Metaverse World** with a positive impact on our **Real World**.​
 
-[PreviousRando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)[NextTree Series 1](/blockchain/player-owned-assets/asset-tree-series/tree-series-1)Last updated 9 days ago
+[PreviousRando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)[NextTree Series 1](/blockchain/player-owned-assets/asset-tree-series/tree-series-1)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
