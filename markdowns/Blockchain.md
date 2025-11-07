@@ -46,7 +46,7 @@ A blockchain wallet is a digital wallet that allows users to store and manage th
 
 Cornucopias has its own secure wallet built into the [Desktop Launcher](/gameplay/game-launcher) that comes with the PC Desktop version of the game.
 
-[PreviousMarch 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)[NextCardano World](/blockchain/cardano-world)Last updated 24 days ago
+[PreviousMarch 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)[NextCardano World](/blockchain/cardano-world)Last updated 25 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
