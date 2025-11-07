@@ -89,7 +89,7 @@ Mega Domes
 
 [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes) are a lot larger than Custom Domes, some are smaller than a Themed Zone Sector and some are bigger. The Mega Domes serve as venues for eSports and other very large events. The design of the Mega Dome environment will be built in-house to begin with followed in the future by a 'no-code' system that uses a combination of templates and land building tools for players to build upon.
 
-[PreviousGame World](/gameplay/about-the-game/game-world)[NextPlay-and-Earn](/gameplay/about-the-game/play-and-earn)Last updated 9 days ago
+[PreviousGame World](/gameplay/about-the-game/game-world)[NextPlay-and-Earn](/gameplay/about-the-game/play-and-earn)Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
