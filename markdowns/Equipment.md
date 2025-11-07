@@ -66,7 +66,7 @@ Equipment can be crafted by the player using the appropriate crafting skill.
 
 Players can be rewarded with equipment by completing [quests](/gameplay/gameplay-pc/quest-and-challenges) and discovering new points of interest. This incentivizes players to be proactive and adventurous.
 
-[PreviousMega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)[NextArmor](/gameplay/gameplay-pc/equipment/armor)Last updated 26 days ago
+[PreviousMega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)[NextArmor](/gameplay/gameplay-pc/equipment/armor)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
