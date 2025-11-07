@@ -69,7 +69,7 @@ The first Mega Dome will host the Cornucopias [Racing League](/gameplay/gameplay
 
 More information about Mega Domes will be shown here in the future.
 
-[PreviousCustom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)[NextEquipment](/gameplay/gameplay-pc/equipment)Last updated 26 days ago
+[PreviousCustom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)[NextEquipment](/gameplay/gameplay-pc/equipment)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
