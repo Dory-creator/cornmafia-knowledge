@@ -51,7 +51,7 @@ Cornucopias is teaming up with some of the best educational centers in the world
 
 Players become students and will be able to enjoy learning via our educational centers and earn rewards through playing educational mini-games. These mini-games will generate in-game currency for players. In game currency can be transferred for cryptocurrency. 
 
-[PreviousBuild-and-Earn](/gameplay/about-the-game/build-and-earn)[NextStake-and-Earn](/gameplay/about-the-game/stake-and-earn)Last updated 26 days ago
+[PreviousBuild-and-Earn](/gameplay/about-the-game/build-and-earn)[NextStake-and-Earn](/gameplay/about-the-game/stake-and-earn)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
