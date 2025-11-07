@@ -45,7 +45,7 @@ Coprnucopias respects the privacy of its players and recognizes the importance o
 
 A Data Protection Impact Analysis (DPIA) is underway to comply with the latest Data legalisation in the UK, EU & US jurisdictions. This will put Cornucopias at the forefront of global data compliance and make sure we strictly adhere to all regulations both in Europe, North America and globally. 
 
-[PreviousRando's Metalworks - Meat Grinder](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)Last updated 26 days ago
+[PreviousRando's Metalworks - Meat Grinder](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)Last updated 27 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
