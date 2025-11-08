@@ -1,66 +1,88 @@
-Infinity Rising Land | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-		- [Artwork](/gameplay/about-the-game/artwork)
-		- [Game World](/gameplay/about-the-game/game-world)
-		- [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
-		- [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
-		- [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
-		- [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
-		- [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
-		- [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-		- [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
-		- [🛣️Road Map](/gameplay/about-the-game/road-map)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+Infinity Rising Land | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* 
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+
+    - [Artwork](/gameplay/about-the-game/artwork)
+    - [Game World](/gameplay/about-the-game/game-world)
+    - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
+    - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
+    - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
+    - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
+    - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
+    - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
+    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [🛣️Road Map](/gameplay/about-the-game/road-map)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
 * [Sectors](#sectors)
 * [Zones](#zones)
 * [The City](#the-city)
 * [Custom Domes](#custom-domes)
 * [Mega Domes](#mega-domes)
 
-Copy1. [🎮GAMEPLAY](/gameplay)
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
 2. [About the game](/gameplay/about-the-game)
+
 Infinity Rising Land
 ====================
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FBvUwaKpzHB5DQmCrz393%252FGitBook_Subheads_Land.jpg%3Falt%3Dmedia%26token%3Dd9e47508-eb95-4a90-a107-b349afa243ca&width=768&dpr=4&quality=100&sign=c50171b6&sv=2)The Infinity Rising game world encompasses an expansive system of floating islands, carved from the Earth below, now levitating amidst the clouds, and encased in technologically advanced protective shields known as ‘Domes’. Not all floating islands are the same, and each is a different size and has distinct characteristics. 
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FBvUwaKpzHB5DQmCrz393%252FGitBook_Subheads_Land.jpg%3Falt%3Dmedia%26token%3Dd9e47508-eb95-4a90-a107-b349afa243ca&width=768&dpr=4&quality=100&sign=c50171b6&sv=2)
+
+The Infinity Rising game world encompasses an expansive system of floating islands, carved from the Earth below, now levitating amidst the clouds, and encased in technologically advanced protective shields known as ‘Domes’. Not all floating islands are the same, and each is a different size and has distinct characteristics.
 
 Players travel between 'Domes' using a network of flying vehicle routes that utilize the sky. Flying Vehicles come in the form of personal NFTs owned by players or public transportation vehicles that are free to use.
 
-Private floating islands can be owned by users as Non-Fungible Tokens (NFTs) in the form of the Custom Domes. Sectors are vast public Domes, but within them, players can own NFT District Land Plots which they have the power to build upon and develop. 
+Private floating islands can be owned by users as Non-Fungible Tokens (NFTs) in the form of the Custom Domes. Sectors are vast public Domes, but within them, players can own NFT District Land Plots which they have the power to build upon and develop.
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FMuWsZSSW9IrCR12p8mtT%252Fimage.png%3Falt%3Dmedia%26token%3Da15f29d1-689f-40a7-a050-8e5569b71796&width=768&dpr=4&quality=100&sign=85004682&sv=2)Sectors
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FMuWsZSSW9IrCR12p8mtT%252Fimage.png%3Falt%3Dmedia%26token%3Da15f29d1-689f-40a7-a050-8e5569b71796&width=768&dpr=4&quality=100&sign=85004682&sv=2)
+
+Sectors
 -------
 
 A Sector is a vast island, levitating amidst the clouds, and encased in an advanced protective shield known as a Dome. There are copious Sectors across Cornucopias and each is carved from a different part of Earth. Each has unique landscape features, characteristics, and backstory.
@@ -89,7 +111,9 @@ Mega Domes
 
 [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes) are a lot larger than Custom Domes, some are smaller than a Themed Zone Sector and some are bigger. The Mega Domes serve as venues for eSports and other very large events. The design of the Mega Dome environment will be built in-house to begin with followed in the future by a 'no-code' system that uses a combination of templates and land building tools for players to build upon.
 
-[PreviousGame World](/gameplay/about-the-game/game-world)[NextPlay-and-Earn](/gameplay/about-the-game/play-and-earn)Last updated 10 days ago
+[PreviousGame World](/gameplay/about-the-game/game-world)[NextPlay-and-Earn](/gameplay/about-the-game/play-and-earn)
+
+Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
