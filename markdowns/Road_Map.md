@@ -1,48 +1,64 @@
-Road Map | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-		- [Artwork](/gameplay/about-the-game/artwork)
-		- [Game World](/gameplay/about-the-game/game-world)
-		- [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
-		- [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
-		- [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
-		- [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
-		- [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
-		- [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-		- [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
-		- [🛣️Road Map](/gameplay/about-the-game/road-map)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+Road Map | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* [2025 PC Game and Website Updates \* (no particular order)](#id-2025-pc-game-and-website-updates-no-particular-order)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+
+    - [Artwork](/gameplay/about-the-game/artwork)
+    - [Game World](/gameplay/about-the-game/game-world)
+    - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
+    - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
+    - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
+    - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
+    - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
+    - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
+    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [🛣️Road Map](/gameplay/about-the-game/road-map)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+* [2025 PC Game and Website Updates \* (no particular order)](#id-2025-pc-game-and-website-updates-no-particular-order)
 * [Backlog (still to plan release dates - no particular order)](#backlog-still-to-plan-release-dates-no-particular-order)
 * [2024 (COMPLETE) ✔️](#id-2024-complete)
 * [2023 (COMPLETE) ✔️](#id-2023-complete)
@@ -52,8 +68,11 @@ Road Map | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=h
 * [Continuous Evolution](#continuous-evolution)
 * [KEY](#key)
 
-Copy1. [🎮GAMEPLAY](/gameplay)
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
 2. [About the game](/gameplay/about-the-game)
+
 🛣️Road Map
 ==========
 
@@ -353,9 +372,14 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Public = Production version, released to everyone
 * UE = Unreal Engine version 4 or 5
 
- **\* NOTE:** The order of Quarter releases may change and/or items may slip
+**\* NOTE:** The order of Quarter releases may change and/or items may slip
 
- \*\* **NOTE:** This item may not be ready and may be postponed to/from another time
+\*\* **NOTE:** This item may not be ready and may be postponed to/from another time
 
-[PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)Last updated 10 days ago
+[PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)
 
+Last updated 10 days ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
