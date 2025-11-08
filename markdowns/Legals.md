@@ -1,48 +1,67 @@
-LEGALS | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-		- [LEGALS](/the-company/compliance/legals)
-		- [COPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)
-		- [Players Safety](/the-company/compliance/players-safety)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+LEGALS | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* [Project purpose](#project-purpose)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+
+    - [LEGALS](/the-company/compliance/legals)
+    - [COPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)
+    - [Players Safety](/the-company/compliance/players-safety)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+* [Project purpose](#project-purpose)
 * [Nature of this document](#nature-of-this-document)
 * [NFT Documentation](#nft-documentation)
 * [Deemed Representations and Warranties](#deemed-representations-and-warranties)
 * [Cornucopias NFT](#cornucopias-nft)
 
-Copy1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
+Copy
+
+1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
 2. [COMPLIANCE](/the-company/compliance)
+
 LEGALS
 ======
 
@@ -72,8 +91,6 @@ The Company, the Distributor and the Cornucopias team do not and do not purport 
 
 Cornucopias NFT are designed to be utilized, and that is the goal of the Cornucopias NFT distribution. In fact, the project to develop Cornucopias would fail if all Cornucopias NFT holders simply held onto their Cornucopias NFT and did nothing with it. In particular, it is highlighted that Cornucopias NFTs: do not have any tangible or physical manifestation, and does not have any intrinsic value (nor does any person make any representation or give any commitment as to its value); is non-refundable and cannot be exchanged for cash (or its equivalent value in any other digital asset) or any payment obligation by the Company, the Distributor or any of their respective affiliates; does not represent or confer on the NFT or token holder any right of any form with respect to the Company, the Distributor (or any of their respective affiliates), or its revenues or assets, including without limitation any right to receive future dividends, revenue, shares, ownership right or stake, share or security, any voting, distribution, redemption, liquidation, proprietary (including all forms of intellectual property or licence rights), right to receive accounts, financial statements or other financial data, the right to requisition or participate in shareholder meetings, the right to nominate a director, or other financial or legal rights or equivalent rights, or intellectual property rights or any other form of participation in or relating to Cornucopias, the Company, the Distributor and/or their service providers; is not intended to represent any rights under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss; is not intended to be a representation of money (including electronic money), security, commodity, bond, debt instrument, unit in a collective investment scheme or any other kind of financial instrument or investment; is not a loan to the Company, the Distributor or any of their respective affiliates, is not intended to represent a debt owed by the Company, the Distributor or any of their respective affiliates, and there is no expectation of profit; and does not provide the NFT holder with any ownership or other interest in the Company, the Distributor or any of their respective affiliates.
 
-[PreviousCOMPLIANCE](/the-company/compliance)[NextCOPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)Last updated 3 years ago
+[PreviousCOMPLIANCE](/the-company/compliance)[NextCOPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
+Last updated 3 years ago
