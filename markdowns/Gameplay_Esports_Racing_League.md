@@ -1,38 +1,56 @@
-Gameplay - eSports Racing League | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+Gameplay - eSports Racing League | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this pageCopy1. [🎮GAMEPLAY](/gameplay)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
+
 Gameplay - eSports Racing League
 ================================
 
@@ -46,7 +64,7 @@ Hosted in the Calido Valley [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-
 
 Calido Valley Racecourse
 
-It can be seen as a type of "Mini-Game" within Cornucopias with the first released version of the Racing League (the Minimal Viable Product - MVP) being based in the Mega Dome known as [Calido Valley](/gameplay/mega-dome-calido-valley). 
+It can be seen as a type of "Mini-Game" within Cornucopias with the first released version of the Racing League (the Minimal Viable Product - MVP) being based in the Mega Dome known as [Calido Valley](/gameplay/mega-dome-calido-valley).
 
 In the future the Racing League will also have tracks in other [Themed Zones](/gameplay/themed-zones).
 
@@ -82,7 +100,9 @@ Throughout the [Seasons](/gameplay/gameplay-pc/seasons) there will be lots of In
 
 Lots more gameplay information will be released soon...
 
-[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)Last updated 10 days ago
+[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)
+
+Last updated 10 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
