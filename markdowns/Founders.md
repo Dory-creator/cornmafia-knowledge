@@ -1,38 +1,55 @@
-Founders | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+Founders | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FIefiCYKaEOcRGfcs9dYM%252FCOPI_Wiki_Titles_Founders.jpg%3Falt%3Dmedia%26token%3D4f275545-d5d2-453b-94f4-99cd3a038de8&width=1248&dpr=4&quality=100&sign=c5a71183&sv=2)On this page* [Rob Greig](#rob-greig)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FIefiCYKaEOcRGfcs9dYM%252FCOPI_Wiki_Titles_Founders.jpg%3Falt%3Dmedia%26token%3D4f275545-d5d2-453b-94f4-99cd3a038de8&width=1248&dpr=4&quality=100&sign=c5a71183&sv=2)
+
+On this page
+
+* [Rob Greig](#rob-greig)
 * [Bio](#bio)
 * [Josh Jones](#josh-jones)
 * [Bio](#bio-1)
@@ -40,7 +57,10 @@ Founders | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=h
 * [Bio](#bio-2)
 * [Ant Renicks](#ant-renicks)
 
-Copy1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
+Copy
+
+1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
+
 Founders
 ========
 
@@ -53,7 +73,9 @@ Rob Greig
 
 Co-Founder & Co-CEO
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FVPcQyC9fB4sXfIAkcq5c%252Frobbw.png%3Falt%3Dmedia%26token%3D019ee900-87f7-4f67-848a-05c45dee7835&width=768&dpr=4&quality=100&sign=66ce1731&sv=2)### Bio
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FVPcQyC9fB4sXfIAkcq5c%252Frobbw.png%3Falt%3Dmedia%26token%3D019ee900-87f7-4f67-848a-05c45dee7835&width=768&dpr=4&quality=100&sign=66ce1731&sv=2)
+
+### Bio
 
 Rob is a serial entrepreneur building businesses and developing software for 20 years in various industries. Highly skilled developer and Business Analyst, Rob has a strong corporate and development background which helps him to translate and bridge the gap between stakeholders and back office developers.
 
@@ -67,7 +89,9 @@ Previously, Rob built a real estate monitoring system and automated cloud API bu
 
 An article written by Rob
 
-[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FzOCICSISm6cabIqtYI3M&width=20&dpr=4&quality=100&sign=6e9db8c7&sv=2)The Island, The Ocean, The Pond and the Metaverse | Infinity RisingInfinity Rising](https://www.cornucopias.io/2022/03/10/the-island-the-ocean-the-pond-and-the-metaverse)Josh Jones
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FzOCICSISm6cabIqtYI3M&width=20&dpr=4&quality=100&sign=6e9db8c7&sv=2)The Island, The Ocean, The Pond and the Metaverse | Infinity RisingInfinity Rising](https://www.cornucopias.io/2022/03/10/the-island-the-ocean-the-pond-and-the-metaverse)
+
+Josh Jones
 ----------
 
 Co-Founder & Co-CEO
@@ -108,7 +132,7 @@ Co-Founder & CQO
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fr2JtHzLwTBgydZluwuzo%252Fimage.png%3Falt%3Dmedia%26token%3Dffc9b0cb-3bc9-4ea6-84d9-2d84b949c2cc&width=300&dpr=4&quality=100&sign=5e153571&sv=2)
 
-Ant is a serial entrepreneur building businesses and testing software for 20 years in various industries. Highly experienced Quality Systems Analyst previously worked for a number of large high street companies assuring their in-store user front-facing systems. 
+Ant is a serial entrepreneur building businesses and testing software for 20 years in various industries. Highly experienced Quality Systems Analyst previously worked for a number of large high street companies assuring their in-store user front-facing systems.
 
 Ant was the co-founder of the company that built Agent Analyser and House Fusion, later sold to one of the largest real estate portals in the UK.
 
@@ -116,7 +140,9 @@ Ant was the co-founder of the company that built Agent Analyser and House Fusion
 
 **Favorite games of all time:** Pole Position, Manic Miner, Jetpac, Jet Set Willy, Starquake, Outrun, Renegade, Double Dragon
 
-[PreviousPlayers Safety](/the-company/compliance/players-safety)[NextGovernance](/the-company/governance)Last updated 1 year ago
+[PreviousPlayers Safety](/the-company/compliance/players-safety)[NextGovernance](/the-company/governance)
+
+Last updated 1 year ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
