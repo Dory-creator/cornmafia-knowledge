@@ -1,48 +1,68 @@
-Sectors | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``k`* [📋INFINITY RISING](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-		- [Sectors](/gameplay/themed-zones/sectors)
-			* [Zone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
-			* [Zone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)
-			* [Zone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)
-			* [Land Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
-		- [Transport](/gameplay/themed-zones/transport)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [$COPI Token](/blockchain/usdcopi-token)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Official Website](https://www.infinityrising.com/)
+Sectors | COPIWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* [Hanger Bay](#hanger-bay)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+
+    - [Sectors](/gameplay/themed-zones/sectors)
+
+      * [Zone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
+      * [Zone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)
+      * [Zone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)
+      * [Land Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
+    - [Transport](/gameplay/themed-zones/transport)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+* [Hanger Bay](#hanger-bay)
 * [COPILeaks](#copileaks)
 
-Copy1. [🎮GAMEPLAY](/gameplay)
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
 2. [Themed Zones](/gameplay/themed-zones)
+
 Sectors
 =======
 
@@ -54,7 +74,9 @@ Players can find [NFT Land Plots](/gameplay/themed-zones/sectors/land-sector-dis
 
 Each Themed Zone offers player rewards for farming, mining, foraging and fishing.
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FRgCSOgt4nbcFr0vGJuZk%252Fimage.png%3Falt%3Dmedia%26token%3Dccf12d00-7a37-4689-a118-7be52bb118cb&width=768&dpr=4&quality=100&sign=efc91234&sv=2)To get to the Themed Zones from a Home Bubble, the player needs to go through one of the Cloud Gates.​
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FRgCSOgt4nbcFr0vGJuZk%252Fimage.png%3Falt%3Dmedia%26token%3Dccf12d00-7a37-4689-a118-7be52bb118cb&width=768&dpr=4&quality=100&sign=efc91234&sv=2)
+
+To get to the Themed Zones from a Home Bubble, the player needs to go through one of the Cloud Gates.​
 
 ### Hanger Bay
 
@@ -64,7 +86,9 @@ The Hanger Bays take you to the huge Central Terminal where you will be greeted 
 
 From here, you will enter one of the COPI Subway trams that will take you to one of the Surface Stations. Finally, you will enter the Surface Tube and emerge in your chosen Sector District - quite the trip!
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FJ3JwulS33QUr7D09OGsp%252Fimage.png%3Falt%3Dmedia%26token%3D643efca2-c3e5-4509-aa70-eb4fd4ea6b6a&width=768&dpr=4&quality=100&sign=ba33ab96&sv=2)### COPILeaks
+![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FJ3JwulS33QUr7D09OGsp%252Fimage.png%3Falt%3Dmedia%26token%3D643efca2-c3e5-4509-aa70-eb4fd4ea6b6a&width=768&dpr=4&quality=100&sign=ba33ab96&sv=2)
+
+### COPILeaks
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fce3rwFY3ZHV0Lbo1OK9A%252Fhangerbay1.jpg%3Falt%3Dmedia%26token%3D7e23a188-ee1f-4015-9cc0-e37b66b1e914&width=768&dpr=4&quality=100&sign=ca34deb&sv=2)
 
@@ -78,7 +102,9 @@ Central Terminal
 
 Unfinished preview of the Central Terminal Hub
 
-[PreviousThemed Zones](/gameplay/themed-zones)[NextZone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)Last updated 1 year ago
+[PreviousThemed Zones](/gameplay/themed-zones)[NextZone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
+
+Last updated 1 year ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
