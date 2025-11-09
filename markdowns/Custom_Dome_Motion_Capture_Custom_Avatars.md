@@ -93,7 +93,7 @@ We can build custom avatars that look like you in real-life or we can create ali
 
 [PreviousCustom Dome - Community Built Asset Marketplace](/gameplay/gameplay-pc/custom-domes/custom-dome-community-built-asset-marketplace)[NextCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
