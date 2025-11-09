@@ -84,7 +84,7 @@ We build every single asset in our game, from the grass to the clouds. This is n
 
 [PreviousAbout the game](/gameplay/about-the-game)[NextGame World](/gameplay/about-the-game/game-world)
 
-Last updated 10 days ago
+Last updated 11 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
