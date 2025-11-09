@@ -95,7 +95,7 @@ We will provide a decentralized marketplace and release more information about t
 
 [PreviousCustom Dome - Building Kits & Gameplay Kits](/gameplay/gameplay-pc/custom-domes/custom-dome-building-kits-and-gameplay-kits)[NextCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
