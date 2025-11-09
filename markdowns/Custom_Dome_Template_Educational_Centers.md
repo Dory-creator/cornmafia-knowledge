@@ -106,7 +106,3 @@ There will also be an option for you to sell tickets and/or merchandise for your
 [PreviousCustom Dome Template - Business Meetings](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-business-meetings)[NextCustom Dome - Game Templates - PVP](/gameplay/gameplay-pc/custom-domes/custom-dome-game-templates-pvp)
 
 Last updated 3 years ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
