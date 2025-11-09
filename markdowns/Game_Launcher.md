@@ -129,7 +129,7 @@ The Launcher will be updated and will grow into an invaluable piece of critical 
 
 [PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)
 
-Last updated 14 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
