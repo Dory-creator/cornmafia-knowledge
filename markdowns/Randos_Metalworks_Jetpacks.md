@@ -87,7 +87,7 @@ Also available from Rando's Metalworks is a selection of [Weapons](/blockchain/p
 
 [PreviousZero G - Stratos Solace Explorer Special Edition Jetpack](/blockchain/player-owned-assets/asset-packs/zero-g/zero-g-stratos-solace-explorer-special-edition-jetpack)[NextRando's Metalworks - Junkerjet Jetpack](/blockchain/player-owned-assets/asset-packs/randos-metalworks-jetpacks/randos-metalworks-junkerjet-jetpack)
 
-Last updated 5 months ago
+Last updated 6 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
