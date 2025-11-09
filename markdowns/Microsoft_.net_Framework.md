@@ -77,4 +77,8 @@ We plan to develop the following elements of Cornucopias using the Unreal Engine
 
 [PreviousSmart TV](/the-company/technology/game-devices/smart-tv)[NextUnreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
 
-Last updated 1 hour ago
+Last updated 1 day ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
