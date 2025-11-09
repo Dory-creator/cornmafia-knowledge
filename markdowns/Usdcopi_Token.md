@@ -150,7 +150,7 @@ There is a dedicated section surrounding the [Tokenomics](/gameplay/about-the-ga
 
 [PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCryptocurrency Exchanges](/blockchain/usdcopi-token/cryptocurrency-exchanges)
 
-Last updated 10 days ago
+Last updated 11 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
