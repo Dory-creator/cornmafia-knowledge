@@ -72,7 +72,7 @@ Players become students and will be able to enjoy learning via our educational c
 
 [PreviousBuild-and-Earn](/gameplay/about-the-game/build-and-earn)[NextStake-and-Earn](/gameplay/about-the-game/stake-and-earn)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
