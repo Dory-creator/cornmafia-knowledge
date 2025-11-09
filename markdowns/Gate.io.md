@@ -73,3 +73,7 @@ The COPI/USDT pair was launched on 21st December 2023 and was a huge success.
 [PreviousCEX - Centralized Exchange](/blockchain/usdcopi-token/cryptocurrency-exchanges/cex-centralized-exchange)[NextDEX - Decentralized Exchange](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
