@@ -77,7 +77,7 @@ The game world has been designed to be expanded upon as new features and functio
 
 [PreviousINFINITY RISING](/)[NextArtwork](/gameplay/about-the-game/artwork)
 
-Last updated 10 days ago
+Last updated 11 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
