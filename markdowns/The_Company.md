@@ -66,7 +66,7 @@ A Data Protection Impact Analysis (DPIA) is underway to comply with the latest D
 
 [PreviousRando's Metalworks - Meat Grinder](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
