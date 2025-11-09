@@ -93,7 +93,7 @@ More information will appear here in the future.
 
 [PreviousEquipment](/gameplay/gameplay-pc/equipment)[NextMelee Weapons](/gameplay/gameplay-pc/equipment/melee-weapons)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
