@@ -93,7 +93,7 @@ Tickets and merchandise can be sold either via our platform and/or via a link to
 
 [PreviousCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)[NextCustom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
