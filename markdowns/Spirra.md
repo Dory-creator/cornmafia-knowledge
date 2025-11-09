@@ -89,3 +89,7 @@ Available models:
 [Previous$1m NFT Giveaway](/blockchain/player-owned-assets/asset-flying-vehicles/gti/usd1m-nft-giveaway)[NextValkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
