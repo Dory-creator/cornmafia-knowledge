@@ -134,7 +134,7 @@ The 2024 Zero G - Stratos Jetpack
 
 [PreviousZero G](/blockchain/player-owned-assets/asset-packs/zero-g)[NextZero G - Stratos Solace Explorer Special Edition Jetpack](/blockchain/player-owned-assets/asset-packs/zero-g/zero-g-stratos-solace-explorer-special-edition-jetpack)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
