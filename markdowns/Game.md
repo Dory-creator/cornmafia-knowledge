@@ -61,7 +61,3 @@ Game
 [PreviousVisions and Values](/the-company/visions-and-values)[NextVideo Settings](/documentation/game/video-settings)
 
 Last updated 3 months ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
