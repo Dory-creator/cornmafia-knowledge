@@ -94,3 +94,7 @@ Cornucopias NFT are designed to be utilized, and that is the goal of the Cornuco
 [PreviousCOMPLIANCE](/the-company/compliance)[NextCOPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)
 
 Last updated 3 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
