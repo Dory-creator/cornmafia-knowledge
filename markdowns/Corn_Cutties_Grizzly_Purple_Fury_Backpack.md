@@ -132,7 +132,7 @@ One of the first Assets to be sold using $COPI on different chains representing 
 
 [PreviousCorn Cutties - Grizzly Brown Brawler Backpack](/blockchain/player-owned-assets/asset-packs/corn-cutties/corn-cutties-grizzly-brown-brawler-backpack)[NextCorn Cutties - Orange Prowler Backpack](/blockchain/player-owned-assets/asset-packs/corn-cutties/corn-cutties-orange-prowler-backpack)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
