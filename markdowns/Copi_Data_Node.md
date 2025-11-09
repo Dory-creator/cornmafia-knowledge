@@ -81,3 +81,7 @@ In return for hosting, players will be rewarded with [$COPI tokens](/blockchain/
 [PreviousCOPI Game Node](/the-company/technology/copi-nodes/copi-game-node)[NextCross Chain Technology](/the-company/technology/cross-chain-technology)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
