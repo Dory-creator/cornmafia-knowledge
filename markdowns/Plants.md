@@ -96,7 +96,3 @@ Processed plants are crafting resources obtained by converting raw fabrics at a 
 [PreviousRock](/gameplay/gameplay-pc/resources/rock)[NextCrops](/gameplay/gameplay-pc/resources/crops)
 
 Last updated 3 years ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
