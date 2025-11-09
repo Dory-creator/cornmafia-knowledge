@@ -175,7 +175,7 @@ The Bubblejett Bonanza OG Custom 2023 Range
 
 [PreviousBubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)[NextBubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
