@@ -92,7 +92,7 @@ The more players that are required to be in a custom dome at the same time, the 
 
 [PreviousCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)[NextCustom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
