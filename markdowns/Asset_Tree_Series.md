@@ -85,7 +85,7 @@ The following Assets have been minted so far under this series:
 
 [PreviousRando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)[NextTree Series 1](/blockchain/player-owned-assets/asset-tree-series/tree-series-1)
 
-Last updated 10 days ago
+Last updated 11 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
 
