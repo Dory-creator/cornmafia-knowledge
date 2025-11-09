@@ -89,3 +89,7 @@ The updated avatar system is more than just a look and feel update, it comes wit
 [PreviousUser Interface](/gameplay/gameplay-pc/user-interface)[NextAvatar Needs System](/gameplay/gameplay-pc/user-interface/avatar-needs-system)
 
 Last updated 4 months ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+
+AcceptReject
