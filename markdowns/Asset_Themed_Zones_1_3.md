@@ -182,7 +182,7 @@ The Asset Sales were an incredible success with the Cornucopias in-house built A
 
 [PreviousGTi - Rampage 2XS OG Custom Jetpack](/blockchain/player-owned-assets/asset-packs/gti-jetpacks/gti-rampage-2xs-og-custom-jetpack)[NextAsset - Seasonal Tenant Key](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
