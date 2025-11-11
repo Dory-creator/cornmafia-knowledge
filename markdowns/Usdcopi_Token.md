@@ -150,7 +150,7 @@ There is a dedicated section surrounding the [Tokenomics](/gameplay/about-the-ga
 
 [PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCryptocurrency Exchanges](/blockchain/usdcopi-token/cryptocurrency-exchanges)
 
-Last updated 12 days ago
+Last updated 13 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
