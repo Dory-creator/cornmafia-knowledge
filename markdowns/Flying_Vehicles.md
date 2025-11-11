@@ -113,3 +113,7 @@ Early prototype image of racing from 2022
 [PreviousTransport](/gameplay/themed-zones/transport)[NextFlying Vehicle - Fuel](/gameplay/themed-zones/transport/flying-vehicles/flying-vehicle-fuel)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
