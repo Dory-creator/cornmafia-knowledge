@@ -173,4 +173,4 @@ All Bubblejett Sprinter OG Custom 2022 have down lights
 
 [PreviousBubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)[NextBubblejett Super Phantom 2024](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
 
-Last updated 29 days ago
+Last updated 1 month ago
