@@ -134,7 +134,7 @@ The 2025 Corn Cutties - Orange Prowler Range
 
 [PreviousCorn Cutties - Grizzly Purple Fury Backpack](/blockchain/player-owned-assets/asset-packs/corn-cutties/corn-cutties-grizzly-purple-fury-backpack)[NextKargo Outfitters](/blockchain/player-owned-assets/asset-packs/kargo-outfitters)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
