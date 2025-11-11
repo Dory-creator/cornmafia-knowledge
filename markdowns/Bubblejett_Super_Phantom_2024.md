@@ -168,7 +168,7 @@ Stealth Black - **Bubblejett -** Super Phantom 2024 - **Mythic**
 
 [PreviousBubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)[NextCore Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
