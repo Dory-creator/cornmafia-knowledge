@@ -99,7 +99,7 @@ There are a limited number of custom domes available so this could be your chanc
 
 [PreviousCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)[NextCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
