@@ -80,3 +80,7 @@ For example, Cornucopias will be able to read blockchain wallets and view NFTs o
 [PreviousCOPI Data Node](/the-company/technology/copi-nodes/copi-data-node)[NextBASE Chain](/the-company/technology/cross-chain-technology/base-chain)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
