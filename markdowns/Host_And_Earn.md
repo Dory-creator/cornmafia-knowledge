@@ -77,7 +77,3 @@ This is essential tothe decentralized element of Cornucopias. It gives power and
 [PreviousStaking](/gameplay/about-the-game/stake-and-earn/staking)[Next$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
