@@ -81,7 +81,3 @@ More information will appear here in the future.
 [PreviousRanged Weapons](/gameplay/gameplay-pc/equipment/ranged-weapons)[NextTools](/gameplay/gameplay-pc/equipment/tools)
 
 Last updated 2 years ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
