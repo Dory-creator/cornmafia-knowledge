@@ -148,7 +148,7 @@ The NFT Sales were an incredible success with the Cornucopias in-house built NFT
 
 [PreviousAsset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)[NextAsset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
