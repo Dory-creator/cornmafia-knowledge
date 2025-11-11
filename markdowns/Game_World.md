@@ -76,7 +76,7 @@ Overall, players will find a complex and immersive universe that combines elemen
 
 [PreviousArtwork](/gameplay/about-the-game/artwork)[NextInfinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
