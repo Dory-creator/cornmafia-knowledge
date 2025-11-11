@@ -65,3 +65,7 @@ More information about Cardano World will follow.​
 [PreviousBlockchain Wallets](/blockchain/blockchain-wallets)[NextCOPI Stake Pool](/blockchain/copi-stake-pool)
 
 Last updated 2 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
