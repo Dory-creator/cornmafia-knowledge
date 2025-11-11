@@ -378,7 +378,7 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 
 [PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)
 
-Last updated 13 days ago
+Last updated 14 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
