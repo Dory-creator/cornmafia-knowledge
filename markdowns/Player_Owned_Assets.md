@@ -137,7 +137,7 @@ The above process should ensure that if the mint was stopped or paused part way 
 
 [PreviousCross Chain Assets](/blockchain/marketplace/cross-chain-assets)[NextAsset - Apparel](/blockchain/player-owned-assets/asset-apparel)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
