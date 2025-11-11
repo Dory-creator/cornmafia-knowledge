@@ -88,7 +88,7 @@ Players can be rewarded with equipment by completing [quests](/gameplay/gameplay
 
 [PreviousMega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)[NextArmor](/gameplay/gameplay-pc/equipment/armor)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
