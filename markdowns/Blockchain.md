@@ -68,7 +68,7 @@ Cornucopias has its own secure wallet built into the [Desktop Launcher](/gamepla
 
 [PreviousMarch 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)[NextCardano World](/blockchain/cardano-world)
 
-Last updated 27 days ago
+Last updated 28 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
