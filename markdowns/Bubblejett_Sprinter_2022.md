@@ -157,7 +157,7 @@ A perfect 100 (based on 100% rarity) were reserved for the team and marketing an
 
 [PreviousBubblejett Bonanza OG Custom 2023](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)[NextBubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
