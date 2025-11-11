@@ -92,7 +92,7 @@ The more players that are required to be in a custom dome at the same time, the 
 
 [PreviousCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)[NextCustom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
 
-Last updated 29 days ago
+Last updated 1 month ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
