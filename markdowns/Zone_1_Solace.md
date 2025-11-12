@@ -140,3 +140,7 @@ Marketing video showing the zone assets
 [PreviousSectors](/gameplay/themed-zones/sectors)[NextZone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
