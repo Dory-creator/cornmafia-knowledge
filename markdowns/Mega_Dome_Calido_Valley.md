@@ -88,10 +88,6 @@ Max Lachance’s influence is still felt in every race, a testament to his endur
 
 ### COPI Leaks
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fmi7LGeKLvcJxyEPh7MWd%252FHighresScreenshot00199.png%3Falt%3Dmedia%26token%3D580d35f0-37c3-4f9f-9d7d-e1286449c17d&width=768&dpr=4&quality=100&sign=42642088&sv=2)
-
-Entrance to Calido Valley Resort from 2023
-
 ### Dev Shorts
 
 An Unreal Engine 4 version of the Calido Valley Raceway was shown at [cNFTCon 2022](/gameplay/community/status-updates-archive/status-updates-2022/october-2022/cnftcon-2022) where many people had a chance to race around the largest track. This has now been upgraded to [Unreal Engine 5](/the-company/technology/unreal-engine-5-ue5).
