@@ -431,7 +431,3 @@ Calido Valley Resort & Raceway & City & Solace 1-3
 [PreviousPC Desktop](/the-company/technology/game-devices/pc-desktop)[NextMobile Phone Devices](/the-company/technology/game-devices/mobile-phone-devices)
 
 Last updated 2 months ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
