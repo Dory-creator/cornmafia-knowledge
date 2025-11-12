@@ -80,10 +80,6 @@ The inventory system requires players to efficiently distribute their load to ma
 
 Players can then transfer items to their [Mount](/gameplay/themed-zones/transport) or [Flying Vehicle](/gameplay/themed-zones/transport/flying-vehicles) which has an increased carrying capacity. These items can also be transferred to the Sector Hub. A player must be in close proximity to their transfer location to complete the item transfer.
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FGTmsjAd1WT6xjTIlpz7C%252Fimage.png%3Falt%3Dmedia%26token%3Db62ddef0-fe0e-412d-ba0b-f3281e76ee9c&width=768&dpr=4&quality=100&sign=f18a0b8e&sv=2)
-
-The Pre-Alpha version of the inventory was introduced in the Release 2 of 2024 - "Let's Get Spatial"
-
 [PreviousCrafting](/gameplay/gameplay-pc/user-interface/crafting)[NextSaving Location](/gameplay/gameplay-pc/user-interface/saving-location)
 
 Last updated 1 year ago
