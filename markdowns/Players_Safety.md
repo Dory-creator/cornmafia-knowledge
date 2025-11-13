@@ -78,3 +78,7 @@ Here are some other important links:
 [PreviousCOPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)[NextFounders](/the-company/founders)
 
 Last updated 3 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
