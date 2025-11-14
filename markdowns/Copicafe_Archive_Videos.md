@@ -101,13 +101,13 @@ After the rebrand a new version of the show called Café RISE began and was firs
 * [Cafe RISE Latest Episodes](/gameplay/community/cafe-rise-latest-episodes) - Main YouTube Series
 * [Text Summaries of the main Cafe RISE](/gameplay/community/copicafe-archive-videos/video-to-text-summaries) [Episodes](/gameplay/community/copicafe-archive-videos/video-to-text-summaries)
 
-[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fwww.youtube.com%2Fs%2Fdesktop%2Fc653c3bb%2Fimg%2Ffavicon_144x144.png&width=20&dpr=4&quality=100&sign=d76133c0&sv=2)Infinity RisingYouTube](https://www.youtube.com/@InfinityRising8)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fwww.youtube.com%2Fs%2Fdesktop%2Fb8106bc5%2Fimg%2Ffavicon_144x144.png&width=20&dpr=4&quality=100&sign=e4261c44&sv=2)Infinity RisingYouTube](https://www.youtube.com/@InfinityRising8)
 
 Official Infinity Rising YouTube channel
 
 [PreviousCafé RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)[NextCOPICafe - Episodes 130 - 142](/gameplay/community/copicafe-archive-videos/copicafe-episodes-130-142)
 
-Last updated 15 days ago
+Last updated 16 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
