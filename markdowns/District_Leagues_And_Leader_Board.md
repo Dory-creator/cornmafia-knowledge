@@ -96,7 +96,3 @@ After the rewards have been delivered to the players, the district score will be
 [PreviousFarming - Crops](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-crops)[NextDistrict - Merchants](/gameplay/themed-zones/sectors/land-sector-districts/district-merchants)
 
 Last updated 3 years ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
