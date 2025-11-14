@@ -91,7 +91,3 @@ Released December 2023
 [PreviousCalido Valley Resort](/gameplay/mega-dome-calido-valley/calido-valley-resort)[NextCalido Valley Raceway](/gameplay/mega-dome-calido-valley/calido-valley-resort/calido-valley-raceway)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
