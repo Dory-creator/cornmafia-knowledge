@@ -84,7 +84,7 @@ We build every single asset in our game, from the grass to the clouds. This is n
 
 [PreviousAbout the game](/gameplay/about-the-game)[NextGame World](/gameplay/about-the-game/game-world)
 
-Last updated 15 days ago
+Last updated 16 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
