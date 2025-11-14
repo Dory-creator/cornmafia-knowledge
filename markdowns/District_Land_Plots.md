@@ -150,7 +150,3 @@ It is possible a District could be comprised of Mythic only land plots or Common
 [PreviousLand Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)[NextLand Plot - Influence Sphere](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-influence-sphere)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
