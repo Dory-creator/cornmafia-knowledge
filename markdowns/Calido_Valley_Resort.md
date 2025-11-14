@@ -71,7 +71,7 @@ In June 2023 - a Glimpse of Solace was a location within the Calido Valley Resor
 
 [PreviousMega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)[NextCalido Valley Pavilion](/gameplay/mega-dome-calido-valley/calido-valley-resort/calido-valley-pavilion)
 
-Last updated 9 months ago
+Last updated 10 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
