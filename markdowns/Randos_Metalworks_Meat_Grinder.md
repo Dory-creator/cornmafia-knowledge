@@ -150,7 +150,3 @@ The 2025 Rando's Metalworks - Meat Grinder
 [PreviousRando's Metalworks - Weapons](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons)[NextCOMPLIANCE](/the-company/compliance)
 
 Last updated 1 month ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
