@@ -96,7 +96,3 @@ Before the Character Creator was released early players had a choice of pre-buil
 [PreviousSeasons](/gameplay/gameplay-pc/seasons)[NextNPC - Abigale Nelson](/gameplay/non-player-characters/npc-abigale-nelson)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
