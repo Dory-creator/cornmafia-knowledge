@@ -66,3 +66,7 @@ Therefore you will see words such as Color, Armor, Decentralization that are **A
 [PreviousLEGALS](/the-company/compliance/legals)[NextPlayers Safety](/the-company/compliance/players-safety)
 
 Last updated 3 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
