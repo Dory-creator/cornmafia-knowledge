@@ -113,7 +113,7 @@ Mega Domes
 
 [PreviousGame World](/gameplay/about-the-game/game-world)[NextPlay-and-Earn](/gameplay/about-the-game/play-and-earn)
 
-Last updated 17 days ago
+Last updated 18 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
