@@ -119,3 +119,7 @@ Many more templates will be added as the game evolves
 [PreviousCustom Domes](/gameplay/gameplay-pc/custom-domes)[NextCustom Dome Template - Project/Company HQ](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-project-company-hq)
 
 Last updated 3 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
