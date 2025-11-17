@@ -110,7 +110,3 @@ The more stake that is delegated to a stake pool, the greater chance it has of b
 [PreviousCardano World](/blockchain/cardano-world)[NextCOPIC Stake Pool](/blockchain/copic-stake-pool)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
