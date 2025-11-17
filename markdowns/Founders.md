@@ -143,7 +143,3 @@ Ant was the co-founder of the company that built Agent Analyser and House Fusion
 [PreviousPlayers Safety](/the-company/compliance/players-safety)[NextGovernance](/the-company/governance)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
