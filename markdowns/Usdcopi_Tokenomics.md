@@ -109,3 +109,7 @@ Let's dig into the Token Economy…
 [PreviousHost-and-Earn](/gameplay/about-the-game/host-and-earn)[NextToken Economy](/gameplay/about-the-game/usdcopi-tokenomics/token-economy)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
