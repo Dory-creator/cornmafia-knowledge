@@ -90,3 +90,7 @@ Hats and Helmets
 [PreviousPLAYER OWNED ASSETS](/blockchain/player-owned-assets)[NextCheeky Racer Suit](/blockchain/player-owned-assets/asset-apparel/cheeky-racer-suit)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
