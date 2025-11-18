@@ -1,57 +1,78 @@
-Land Plot - Farming | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``K`* [📋CORNUCOPIAS](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-		- [Sectors](/gameplay/themed-zones/sectors)
-			* [Zone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
-			* [Zone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)
-			* [Zone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)
-			* [Land Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
-				+ [District - Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots)
-					- [Land Plot - Influence Sphere](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-influence-sphere)
-					- [Land Plot - Property Rentals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-property-rentals)
-					- [Land Plot - Utility](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility)
-						* [Buildings, Utility & Vehicles](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles)
-						* [Land Plot - Farming](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming)
-							+ [Farming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)
-							+ [Farming - Crops](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-crops)
-				+ [District - Leagues and Leader board](/gameplay/themed-zones/sectors/land-sector-districts/district-leagues-and-leader-board)
-				+ [District - Merchants](/gameplay/themed-zones/sectors/land-sector-districts/district-merchants)
-				+ [District - Season Evolution](/gameplay/themed-zones/sectors/land-sector-districts/district-season-evolution)
-				+ [District - Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall)
-				+ [District - Workshops](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops)
-		- [Transport](/gameplay/themed-zones/transport)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Cornucopias Racing League](/gameplay/gameplay-esports-cornucopias-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [Cornucopias Token - $COPI](/blockchain/cornucopias-token-usdcopi)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Cornucopias Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Cornucopias Website](https://www.cornucopias.io)
+Land Plot - Farming | RISEWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* [District - Farms](#district-farms)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252F90i8Iwb0LXw9xIroe9wy%252FInfinity%2520Rising_logo2.png%3Falt%3Dmedia%26token%3Dde7ab13b-7593-4583-83e6-7ed79d87ed26&width=260&dpr=4&quality=100&sign=8e852af&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FbwYsgKrrCmFJzlM7KKwZ%252FInfinity%2520Rising_logo2.png%3Falt%3Dmedia%26token%3Dc62ee205-acdf-47b2-9313-ca755597bd96&width=260&dpr=4&quality=100&sign=c99ea5b2&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+
+    - [Sectors](/gameplay/themed-zones/sectors)
+
+      * [Zone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
+      * [Zone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)
+      * [Zone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)
+      * [Land Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
+
+        + [District - Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots)
+
+          - [Land Plot - Influence Sphere](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-influence-sphere)
+          - [Land Plot - Property Rentals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-property-rentals)
+          - [Land Plot - Utility](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility)
+
+            * [Buildings, Utility & Vehicles](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles)
+            * [Land Plot - Farming](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming)
+
+              + [Farming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)
+              + [Farming - Crops](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-crops)
+        + [District - Leagues and Leader board](/gameplay/themed-zones/sectors/land-sector-districts/district-leagues-and-leader-board)
+        + [District - Merchants](/gameplay/themed-zones/sectors/land-sector-districts/district-merchants)
+        + [District - Season Evolution](/gameplay/themed-zones/sectors/land-sector-districts/district-season-evolution)
+        + [District - Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall)
+        + [District - Workshops](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops)
+    - [Transport](/gameplay/themed-zones/transport)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [Cardano World](/blockchain/cardano-world)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [$COPI Token](/blockchain/usdcopi-token)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+* [District - Farms](#district-farms)
 * [Perimeter Fence](#perimeter-fence)
 * [Farming Land](#farming-land)
 * [The Barn](#the-barn)
@@ -62,12 +83,15 @@ Land Plot - Farming | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/
 * [Harvest Quantity](#harvest-quantity)
 * [Harvest Skill](#harvest-skill)
 
-Copy1. [🎮GAMEPLAY](/gameplay)
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
 2. [Themed Zones](/gameplay/themed-zones)
 3. [Sectors](/gameplay/themed-zones/sectors)
 4. [Land Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
 5. [District - Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots)
 6. [Land Plot - Utility](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility)
+
 Land Plot - Farming
 ===================
 
@@ -80,7 +104,7 @@ To have a working Farm the land owner needs to build up their facilities to a mi
 
 It is the land owners decision whether their facilities will be used by other players. Allowing other players to help tend their land will bring the land owner additional rewards that they could not achieve by farming alone.
 
-Players can either trade their crops on a peer-to-peer basis or list items onto the market. This would mean their items could be purchased at any time, even when the farmer is not online. 
+Players can either trade their crops on a peer-to-peer basis or list items onto the market. This would mean their items could be purchased at any time, even when the farmer is not online.
 
 To become a Farm a Player-owned Land Plot requires the following **example minimum infrastructure**:
 
@@ -99,7 +123,7 @@ The perimeter fence defines the boundaries of the land.
 
 ### Farming Land
 
-The section of land on a farm dedicated to the growing of crops. This appears as plots of dirt in the ground, but it can be tended to enable players to plant [seeds](/gameplay/gameplay-pc/resources/crops), nurture them and harvest their crops. 
+The section of land on a farm dedicated to the growing of crops. This appears as plots of dirt in the ground, but it can be tended to enable players to plant [seeds](/gameplay/gameplay-pc/resources/crops), nurture them and harvest their crops.
 
 The Barn
 --------
@@ -121,7 +145,7 @@ Each Land Plot is a Progressive NFT and the location will be initially claimed b
 
 Each Land Plot comes in one of 5 different sizes and one of 5 different rarities - see [District Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming#land-plots).
 
-The Land Plots are divided virtually into equal sections which allows for buildings and crops to be added and placed in a uniform manner (imagine a grid layout). 
+The Land Plots are divided virtually into equal sections which allows for buildings and crops to be added and placed in a uniform manner (imagine a grid layout).
 
 There is a finite amount of sections available for soil on each land plot with the larger plots having more "soil slots".
 
@@ -167,8 +191,10 @@ During harvesting of crops the player may have to use their skill to determine t
 
 Details of the harvest mechanics will be made available and some should be ready for the MVP version of farming within Cornucopias.
 
-[PreviousBuilding Maintenance](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles/building-maintenance)[NextFarming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)Last updated 1 year ago
+[PreviousBuilding Maintenance](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles/building-maintenance)[NextFarming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
+Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
 AcceptReject
