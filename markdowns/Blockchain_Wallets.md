@@ -32,6 +32,21 @@ Blockchain Wallets | RISEWiki
   + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
+
+    - [Partner Network](/the-company/partners/partner-network)
+    - [Partners - Blockchain](/the-company/partners/partners-blockchain)
+
+      * [Blockchain Wallets](/the-company/partners/partners-blockchain/blockchain-wallets)
+
+        + [GeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
+      * [Dega](/the-company/partners/partners-blockchain/dega)
+      * [DripDropz](/the-company/partners/partners-blockchain/dripdropz)
+      * [Grow Your Stake](/the-company/partners/partners-blockchain/grow-your-stake)
+      * [Influencers](/the-company/partners/partners-blockchain/influencers)
+      * [Launchpads](/the-company/partners/partners-blockchain/launchpads)
+    - [Partners - Learn-and-Earn](/the-company/partners/partners-learn-and-earn)
+    - [Partners - Metaverse](/the-company/partners/partners-metaverse)
+    - [Partners - Strategic / Technology](/the-company/partners/partners-strategic-technology)
   + [Technology](/the-company/technology)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -45,30 +60,24 @@ Blockchain Wallets | RISEWiki
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
 
-![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FutCjBu6N2gPIt5WFXonA%252FCOPI_Wiki_Titles_BlockchainWallet.jpg%3Falt%3Dmedia%26token%3D1badbdf2-7fd4-4249-95f0-0ebaf66c7fbe&width=1248&dpr=4&quality=100&sign=6881817b&sv=2)
-
 On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
+1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
+2. [Partners](/the-company/partners)
+3. [Partners - Blockchain](/the-company/partners/partners-blockchain)
 
 Blockchain Wallets
 ==================
 
-A blockchain wallet is a digital wallet that allows users to store and manage their Bitcoin, Ethereum, [Cardano](/the-company/technology/cross-chain-technology/cardano-blockchain) and other cryptocurrencies.
+We work with the following wallets:
 
-* Blockchain wallet users can view their NFTs and manage their cryptocurrency balances.
-* Blockchain wallets have a number of security features to prevent theft.
-* Creating a blockchain wallet is free and anonymous and does not require the creator to provide any details such as their name or email address (some wallets do require this).
-* Once created, the wallet has a unique identifier similar to a bank account number known as an address.
-* When a user creates a blockchain wallet instead of using a single password, a mnemonic seed is used. A mnemonic seed is a random string of English words that functions similarly to a password. If a user loses access to their phone or device, the seed can be used to restore the wallet, including any cryptocurrencies. Unlike passwords, the blockchain wallet provider does not store users' mnemonic seeds. These seeds follow industry standards, meaning the wallets can be recovered even if the company goes out of business. However, this means if you lose your mnemonic seed phrase and lose access to the device your wallet is on you will not be able to get access to that wallet again - so please keep the seed phrase backed up, safe and secure..
+* [GeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
 
-Cornucopias has its own secure wallet built into the [Desktop Launcher](/gameplay/game-launcher) that comes with the PC Desktop version of the game.
+[PreviousPartners - Blockchain](/the-company/partners/partners-blockchain)[NextGeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
 
-[PreviousMarch 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)[NextCardano World](/blockchain/cardano-world)
-
-Last updated 1 month ago
+Last updated 9 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
