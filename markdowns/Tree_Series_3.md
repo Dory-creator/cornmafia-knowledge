@@ -143,7 +143,7 @@ Please note that only 1 entry per user per sale tier is allowed. If we detect mu
 
 [PreviousTree Series 2](/blockchain/player-owned-assets/asset-tree-series/tree-series-2)[NextAsset - Packs](/blockchain/player-owned-assets/asset-packs)
 
-Last updated 21 days ago
+Last updated 22 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
