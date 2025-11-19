@@ -94,3 +94,7 @@ Watch the logs!
 [PreviousPool Server Setup](/documentation/nodes/guide-how-to-set-up-a-file-node-pool/pool-server-setup)[NextManaging Pool Server](/documentation/nodes/guide-how-to-set-up-a-file-node-pool/managing-pool-server)
 
 Last updated 11 months ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
