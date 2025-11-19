@@ -178,3 +178,7 @@ Examples of NFT based Community builds could be:
 [PreviousProperty Rentals - Hotels](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-property-rentals/property-rentals-hotels)[NextBuildings, Utility & Vehicles](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles)
 
 Last updated 2 years ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
