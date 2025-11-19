@@ -89,7 +89,7 @@ Other POA staking options will appear in the future. Watch this space.
 
 [PreviousStake-and-Earn - Properties](/gameplay/about-the-game/stake-and-earn/stake-and-earn-properties)[NextHost-and-Earn](/gameplay/about-the-game/host-and-earn)
 
-Last updated 20 days ago
+Last updated 22 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
