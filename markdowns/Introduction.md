@@ -110,3 +110,7 @@ See Also [Node Rewards](/documentation/nodes/guide-how-to-set-up-a-file-node-poo
 [PreviousGuide: How to Set Up a File Node Pool](/documentation/nodes/guide-how-to-set-up-a-file-node-pool)[NextPool Server Setup](/documentation/nodes/guide-how-to-set-up-a-file-node-pool/pool-server-setup)
 
 Last updated 11 months ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
