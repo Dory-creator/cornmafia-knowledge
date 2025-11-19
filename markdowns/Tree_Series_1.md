@@ -131,7 +131,7 @@ From the Cornucopias [Discord](/gameplay/community/discord) channel:
 
 [PreviousAsset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)[NextTree Series 2](/blockchain/player-owned-assets/asset-tree-series/tree-series-2)
 
-Last updated 21 days ago
+Last updated 22 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
