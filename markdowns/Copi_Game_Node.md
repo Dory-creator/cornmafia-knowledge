@@ -85,3 +85,7 @@ In return for hosting a COPI Game Node, players will be rewarded with [$COPI tok
 [PreviousCOPI File Node](/the-company/technology/copi-nodes/copi-file-node)[NextCOPI Data Node](/the-company/technology/copi-nodes/copi-data-node)
 
 Last updated 1 year ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
