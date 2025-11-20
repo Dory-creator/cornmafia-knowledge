@@ -129,4 +129,4 @@ The Launcher will be updated and will grow into an invaluable piece of critical 
 
 [PreviousGameplay - Mobile](/gameplay/gameplay-mobile)[NextCity - Life](/gameplay/city-life)
 
-Last updated 12 days ago
+Last updated 13 days ago
