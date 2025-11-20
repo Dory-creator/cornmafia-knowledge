@@ -120,7 +120,7 @@ Policy ID: ​916a6fdd92c86dee9be3e68f93279c914566bb1278de80567768268f
 
 [PreviousTree Series 1](/blockchain/player-owned-assets/asset-tree-series/tree-series-1)[NextTree Series 3](/blockchain/player-owned-assets/asset-tree-series/tree-series-3)
 
-Last updated 22 days ago
+Last updated 23 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
