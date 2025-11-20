@@ -194,7 +194,3 @@ Details of the harvest mechanics will be made available and some should be ready
 [PreviousBuilding Maintenance](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles/building-maintenance)[NextFarming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
