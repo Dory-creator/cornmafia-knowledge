@@ -99,7 +99,3 @@ This workstation players use to process leathers into items.
 [PreviousMetalworks](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/metalworks)[NextTransport](/gameplay/themed-zones/transport)
 
 Last updated 3 years ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
