@@ -152,3 +152,7 @@ When delegating your node to a pool, know that the delegation is protected from 
 [PreviousPublic Pools Dashboard](/documentation/nodes/public-pools-dashboard)
 
 Last updated 5 months ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
