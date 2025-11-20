@@ -123,7 +123,3 @@ The 2024 Quantum Jack - Helmet
 [PreviousCheeky Racer Suit](/blockchain/player-owned-assets/asset-apparel/cheeky-racer-suit)[NextBurger Barn Deluxe #1 Hat](/blockchain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)
 
 Last updated 1 month ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
