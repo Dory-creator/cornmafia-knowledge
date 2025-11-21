@@ -20,10 +20,8 @@ PLAYER OWNED ASSETS | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -70,7 +68,7 @@ Copy
 PLAYER OWNED ASSETS
 ===================
 
-Cornucopias is an ever-expanding metaverse with new Player Owned Assets being developed every week. In-game items will be bought and sold on our marketplace.
+Infinity Rising is an ever-expanding metaverse with new Player Owned Assets being developed every week. In-game items will be bought and sold on our marketplace.
 
 * [Apparel](/blockchain/player-owned-assets/asset-apparel)
 * [Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
@@ -137,7 +135,7 @@ The above process should ensure that if the mint was stopped or paused part way 
 
 [PreviousCross Chain Assets](/blockchain/marketplace/cross-chain-assets)[NextAsset - Apparel](/blockchain/player-owned-assets/asset-apparel)
 
-Last updated 1 month ago
+Last updated 53 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
