@@ -20,10 +20,8 @@ COMPLIANCE | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -60,13 +58,13 @@ COMPLIANCE
 
 Coprnucopias respects the privacy of its players and recognizes the importance of providing a secure environment for personal information and non-personal information
 
-**Cornucopias** is the data controller for the processing of your personal information, a registered company. For the performance of certain games and platform services, your information may be controlled. Contact information for the Data Protection Officer is available upon request.
+**Infinity Rising** is the data controller for the processing of your personal information, a registered company. For the performance of certain games and platform services, your information may be controlled. Contact information for the Data Protection Officer is available upon request.
 
-A Data Protection Impact Analysis (DPIA) is underway to comply with the latest Data legalisation in the UK, EU & US jurisdictions. This will put Cornucopias at the forefront of global data compliance and make sure we strictly adhere to all regulations both in Europe, North America and globally.
+A Data Protection Impact Analysis (DPIA) is underway to comply with the latest Data legalisation in the UK, EU & US jurisdictions. This will put Infinity Rising at the forefront of global data compliance and make sure we strictly adhere to all regulations both in Europe, North America and globally.
 
 [PreviousRando's Metalworks - Meat Grinder](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)
 
-Last updated 1 month ago
+Last updated 57 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
