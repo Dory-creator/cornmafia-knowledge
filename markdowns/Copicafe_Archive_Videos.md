@@ -51,10 +51,8 @@ COPICafé Archive Videos | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -92,7 +90,7 @@ Café RISE was a regular show created for the main Cornucopias YouTube channel, 
 
 The first episode ‌aired on Saturday 26th March 2022 and the last was Monday 3rd October 2025 and was positively throughout its run.
 
-After the rebrand a new version of the show called Café RISE began and was first aired on Tuesday 28th October 2025 - within the series, Rob and Josh discuss the latest events from within the game and company developments.
+After the rebrand to Infinity Rising a new version of the show called Café RISE began and was first aired on Tuesday 28th October 2025 - within the series, Rob and Josh discuss the latest events from within the game and company developments.
 
 [See the new series of Café RISE here ..](/gameplay/community/cafe-rise-latest-episodes)
 
@@ -101,13 +99,13 @@ After the rebrand a new version of the show called Café RISE began and was firs
 * [Cafe RISE Latest Episodes](/gameplay/community/cafe-rise-latest-episodes) - Main YouTube Series
 * [Text Summaries of the main Cafe RISE](/gameplay/community/copicafe-archive-videos/video-to-text-summaries) [Episodes](/gameplay/community/copicafe-archive-videos/video-to-text-summaries)
 
-[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fwww.youtube.com%2Fs%2Fdesktop%2Fb8106bc5%2Fimg%2Ffavicon_144x144.png&width=20&dpr=4&quality=100&sign=e4261c44&sv=2)Infinity RisingYouTube](https://www.youtube.com/@InfinityRising8)
+[https://www.youtube.com/@InfinityRising8www.youtube.com](https://www.youtube.com/@InfinityRising8)
 
 Official Infinity Rising YouTube channel
 
 [PreviousCafé RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)[NextCOPICafe - Episodes 130 - 142](/gameplay/community/copicafe-archive-videos/copicafe-episodes-130-142)
 
-Last updated 22 days ago
+Last updated 36 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
