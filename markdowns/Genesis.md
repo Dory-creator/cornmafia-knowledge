@@ -20,10 +20,8 @@ Genesis | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -89,7 +87,3 @@ Available models:
 [PreviousCore Dynamics Astro IV](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics/core-dynamics-astro-iv)[NextGTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
