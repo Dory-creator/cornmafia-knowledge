@@ -20,10 +20,8 @@ PC Desktop | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -72,11 +70,11 @@ Copy
 PC Desktop
 ==========
 
-Cornucopias is available on Windows PCs and will require an internet connection to play.
+Infinity Rising is available on Windows PCs and will require an internet connection to play.
 
-"Get ready for the ultimate gaming experience with Cornucopias' upcoming MMO Game! But why do the PC specs seem so high? Turns out, they're developing the game with Unreal Engine 5's Nanite and Lumen technologies on DirectX12 APIs
+"Get ready for the ultimate gaming experience with Infinity Rising upcoming MMO Game! But why do the PC specs seem so high? Turns out, they're developing the game with Unreal Engine 5's Nanite and Lumen technologies on DirectX12 APIs
 
-So, get your PCs ready, because Cornucopias is bringing the future of gaming to your screens. #Cornucopias #UE5 #AI #gamedevelopment"
+So, get your PCs ready, because Infinity Rising is bringing the future of gaming to your screens. #InfinityRisingX #UE5 #gamedevelopment"
 
 For a complete list of Hardware and Game Roles that currently have access to testing see the [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) page.
 
@@ -86,58 +84,52 @@ It is possible to change the resolution and other settings to improve performanc
 
 **Resolutions:** 4K, 1440p, 1080p
 
-### Cornucopias PC requirements:
+### Infinity Rising PC requirements:
 
-Cornucopias is designed to run well on a wide variety of PC hardware so that as many players as possible can play. To play Cornucopias at its best on PC, we recommend the following system specifications.
+Infinity Rising is designed to run well on a wide variety of PC hardware so that as many players as possible can play. To play Infinity Rising at its best on PC, we recommend the following system specifications.
 
-DLSS was added in September 2025 to improve performance further for compatible PCs using NVIDIA GPUs
-
-#### Minimum System Requirements for Pre-Alpha Testing \* (January 2025)
+#### Minimum System Requirements for Pre-Alpha Testing \* (November 2025)
 
 * [**GPU**](https://en.wikipedia.org/wiki/Graphics_processing_unit)**:** NVIDIA RTX 2080 (8GB) or NVIDIA RTX 3060 (8GB) or AMD RX 5700 XT (8GB)
 * [**CPU**](https://en.wikipedia.org/wiki/Central_processing_unit)**:** Intel i5-10400k (6 core 2.9 GHz) or AMD Ryzen 5 3600 (6 core 3.6 GHz)
 * [**RAM**](https://en.wikipedia.org/wiki/Random-access_memory)**:** 16 GB DDR or greater
 * [**OS**](https://en.wikipedia.org/wiki/Operating_system)**:** Windows 10 or 11, 64-bit
-* [**GB Storage**](https://en.wikipedia.org/wiki/Gigabyte)**:** 100 GB HDD
+* [**GB Storage**](https://en.wikipedia.org/wiki/Gigabyte)**:** 60 GB HDD or greater
 
-#### Recommended System Requirements for Pre-Alpha Testing \* (August 2024)
+#### Recommended System Requirements for Pre-Alpha Testing \* (November 2025)
 
-* **GPU:** NVIDIA RTX 3080 (10GB) or NVIDIA RTX 4080 (16GB) or AMD RX 6800 (16GB) or greater
+* **GPU:** NVIDIA RTX 4080 (16GB) or NVIDIA RTX 4090 (24GB) or AMD RX 6800 (16GB) or greater
 * **CPU:** Intel i7-10700k (8 core 5.0 GHz) or AMD Ryzen 7 5800X (8 core 3.8 GHz) or greater
-* **RAM:** 32 GB DDR or greater
+* **RAM:** 16 GB DDR or greater
 * **OS:** Windows 11, 64-bit
 * **GB Storage:** 100 GB SSD
 
-#### Best System Requirements for Pre-Alpha Testing \* (February 2025)
+#### Best System Requirements for Pre-Alpha Testing \* (November 2025)
 
 * **GPU:** NVIDIA RTX 5080 (16GB) or NVIDIA RTX 5090 (32GB) or AMD RX 9070 XT (16GB) or greater
 * **CPU:** Intel i9-14900k (24 core 5.8 GHz) or AMD Ryzen 9 9900X (12 core 5.2 GHz) or greater
-* **RAM:** 64 GB DDR or greater
+* **RAM:** 32 GB DDR or greater
 * **OS:** Windows 11, 64-bit
 * **GB:** Storage 100 GB SSD
 
-There is a Minimum Graphics Card (GPU) - Virtual RAM (VRAM) requirement of **8GB** and a Minimum Memory (RAM) requirement of 16GB to play Cornucopias
+There is a Minimum Graphics Card (GPU) - Virtual RAM (VRAM) requirement of **8GB** and a Minimum Memory (RAM) requirement of 16GB to play Infinity Rising
 
-#### Other System Requirements for Pre-Alpha Testing \* (August 2024)
+#### Other System Requirements for Pre-Alpha Testing \* (November 2025)
 
-It should be possible to run Cornucopias on other PC specifications than those listed above. However, limited testing will be done on older PCs due to the demand for graphics and multiplayer.
+It should be possible to run Infinity Rising on other PC specifications than those listed above. However, limited testing will be done on older PCs due to the demand for graphics and multiplayer.
 
 * **GPU:** NVIDIA GTX 1070 (8GB) or AMD RX 5600XT (6GB) or greater
 * **CPU:** Intel i7-4770k (4 core 3.5 GHz) or AMD Ryzen 7 2700 (8 core 3.2 GHz) or greater
 * **RAM:** 16 GB DDR or greater
 * **OS:** Windows 10 or Windows 11, 64-bit
-* **GB Storage:** 100 GB HDD
+* **GB Storage:** 60 GB HDD or greater
 
 #### Graphic Card Settings and Scaling options - DLSS & FSR
 
-In 2025 [NVIDIA DLSS](https://www.nvidia.com/en-gb/geforce/technologies/dlss/) was and [AMD FSR](https://www.amd.com/en/products/graphics/technologies/fidelityfx/super-resolution.html) will be integrated into the Cornucopias Game and these technologies should improve gameplay for all compatible NVIDIA and AMD graphics cards.
+In 2025 [NVIDIA DLSS](https://www.nvidia.com/en-gb/geforce/technologies/dlss/) and [AMD FSR](https://www.amd.com/en/products/graphics/technologies/fidelityfx/super-resolution.html) was integrated into the Infinity Rising Game and these technologies should improve gameplay for all compatible NVIDIA and AMD graphics cards.
 
 For the latest release schedule, see the [Roadmap](/gameplay/about-the-game/road-map)
 
 [PreviousGame Devices](/the-company/technology/game-devices)[NextPublic Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
 
-Last updated 2 months ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
+Last updated 5 hours ago
