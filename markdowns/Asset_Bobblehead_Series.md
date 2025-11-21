@@ -20,10 +20,8 @@ Asset - Bobblehead Series | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -76,7 +74,7 @@ The Bobblehead series of Assets are a fun addition to the Cornucopias Asset set.
 
 They will be able to be placed on some of the flying vehicles that have a large dashboard. They will also be able to be placed within your Home Bubble.
 
-This was the first Asset sale for Cornucopias that used the [Cornucopias $COPI](/blockchain/usdcopi-token) as a form of payment and heralds a major leap forward in the Utility of the $COPI token.
+This was the first Asset sale for Cornucopias that used the Cornucopias $COPI as a form of payment and heralds a major leap forward in the Utility of the $COPI token.
 
 A snapshot of ADA (₳) = $0.3123 and Cornucopias $COPI = $0.01773 @ 1500UTC on 12th December 2022​ was noted - the price **was not** used in calculating the price of the Assets in ADA (₳) or $COPI.
 
@@ -149,7 +147,3 @@ The NFT Mint was a sell out over 4 tiered sales within a few hours.
 [PreviousBurger Barn Deluxe #1 Hat](/blockchain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
 
 Last updated 1 month ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
