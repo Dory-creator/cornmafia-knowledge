@@ -20,10 +20,8 @@ Technology | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -70,7 +68,7 @@ The development strategy allows Cornucopias to build cutting edge software using
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FICjmgx6cD2LkeVVQsmBg%252FGitBook_Subheads_Unreal.jpg%3Falt%3Dmedia%26token%3D8f0c74ae-bea8-4c31-9033-9b326f95a7cf&width=768&dpr=4&quality=100&sign=f06b7a8a&sv=2)
 
-* Cornucopias [Metaverse](/gameplay/about-the-game/game-world#what-is-the-metaverse) Gameplay
+* Cornucopias Metaverse Gameplay
 * [Themed Zones](/gameplay/themed-zones)
 * [City Districts](/gameplay/city-life)
 * [Custom Domes](/gameplay/gameplay-pc/custom-domes)
