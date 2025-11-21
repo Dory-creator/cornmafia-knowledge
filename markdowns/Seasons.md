@@ -32,10 +32,8 @@ Seasons | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -69,7 +67,7 @@ Seasons
 
 Life evolves as the days go by ..
 
-The Cornucopias year will be divided into Seasons, which define the passage of time and are used to add an extra layer of gameplay to the [Metaverse](/gameplay/about-the-game/game-world).
+The Cornucopias year will be divided into Seasons, which define the passage of time and are used to add an extra layer of gameplay to the Metaverse.
 
 The seasons will reflect real life seasons such as Spring, Summer, Autumn and Winter. ​
 
