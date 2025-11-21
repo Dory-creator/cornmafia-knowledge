@@ -26,10 +26,8 @@ Transport | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -67,7 +65,7 @@ Transport
 
 Find out how to travel around the Metaverse
 
-Transport refers to the ways the player commutes across the [Cornucopias metaverse](/gameplay/about-the-game/game-world).
+Transport refers to the ways the player commutes across the Cornucopias metaverse.
 
 There are different types of transportation available which depends on where the player is traveling.
 
