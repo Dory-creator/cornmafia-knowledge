@@ -20,10 +20,8 @@ Marketplace | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
 
     - [Cross Chain Assets](/blockchain/marketplace/cross-chain-assets)
@@ -47,8 +45,6 @@ Marketplace | RISEWiki
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
 
-![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FLTiTBFcU15QnGl6j5g4X%252FCOPI_Wiki_Titles%2520_NFT_Marketplace.jpg%3Falt%3Dmedia%26token%3Dec293333-4794-4af0-a03a-4f93dab29ca0&width=1248&dpr=4&quality=100&sign=d3c281ab&sv=2)
-
 On this page
 
 Copy
@@ -58,16 +54,16 @@ Copy
 Marketplace
 ===========
 
-The Cornucopias Marketplace was launched in April 2022 and launched with the [Bubblejett Sprinter OG](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022) NFT.
+The Infinity Rising Marketplace was launched in April 2022 and launched with the [Bubblejett Sprinter OG](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022) NFT.
 
 This is where you players will find NFTs for purchase to use in-game when the game launches.
 
 * [Cross Chain NFTs](/blockchain/marketplace/cross-chain-assets)
 * [NFTs](/blockchain/player-owned-assets)
 
-[PreviousUniswap](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange/uniswap)[NextCross Chain Assets](/blockchain/marketplace/cross-chain-assets)
+[PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCross Chain Assets](/blockchain/marketplace/cross-chain-assets)
 
-Last updated 1 year ago
+Last updated 40 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
