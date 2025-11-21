@@ -32,10 +32,8 @@ Cloud Gates | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -71,7 +69,7 @@ All players will own a space in the Sector Hub of their choice, which floats in 
 
 **The Cloud Gates will be available to travel through when the first version of the game is released.**
 
-To explore the [Themed Zones](/gameplay/themed-zones) and the [City](/gameplay/city-life), players need to fly through one of the cloud gates. The cloud gates provide safe and speedy passage into the deeper realms of the [Cornucopias metaverse](/gameplay/about-the-game/game-world) where the larger domes can be found.
+To explore the [Themed Zones](/gameplay/themed-zones) and the [City](/gameplay/city-life), players need to fly through one of the cloud gates. The cloud gates provide safe and speedy passage into the deeper realms of the Cornucopias metaverse where the larger domes can be found.
 
 The cloud gates will have floating signs, pointing you in the right directions for your chosen destinations.
 
