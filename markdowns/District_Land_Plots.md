@@ -39,10 +39,8 @@ District - Land Plots | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -150,7 +148,3 @@ It is possible a District could be comprised of Mythic only land plots or Common
 [PreviousLand Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)[NextLand Plot - Influence Sphere](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-influence-sphere)
 
 Last updated 1 year ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
