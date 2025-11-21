@@ -20,10 +20,8 @@ Partners | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -62,9 +60,9 @@ Copy
 Partners
 ========
 
-Cornucopias network of partners
+Infinity Rising network of partners
 
-Cornucopias has an ever-expanding network of partners to ensure success.
+Infinity Rising has an ever-expanding network of partners to ensure success.
 
 * [Partner Network](/the-company/partners/partner-network)
 * [Partners - Blockchain](/the-company/partners/partners-blockchain)
@@ -74,7 +72,7 @@ Cornucopias has an ever-expanding network of partners to ensure success.
 
 [PreviousGovernance](/the-company/governance)[NextPartner Network](/the-company/partners/partner-network)
 
-Last updated 9 months ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
