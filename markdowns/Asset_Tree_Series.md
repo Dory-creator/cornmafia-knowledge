@@ -20,10 +20,8 @@ Asset - Tree Series | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -85,7 +83,7 @@ The following Assets have been minted so far under this series:
 
 [PreviousRando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)[NextTree Series 1](/blockchain/player-owned-assets/asset-tree-series/tree-series-1)
 
-Last updated 22 days ago
+Last updated 24 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
