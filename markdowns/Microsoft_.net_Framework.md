@@ -20,10 +20,8 @@ Microsoft .Net Framework | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -77,7 +75,7 @@ We plan to develop the following elements of Cornucopias using the Unreal Engine
 
 [PreviousSmart TV](/the-company/technology/game-devices/smart-tv)[NextUnreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
 
-Last updated 12 days ago
+Last updated 14 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
