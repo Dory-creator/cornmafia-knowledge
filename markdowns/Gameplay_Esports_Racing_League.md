@@ -20,10 +20,8 @@ Gameplay - eSports Racing League | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -102,7 +100,7 @@ Lots more gameplay information will be released soon...
 
 [PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)
 
-Last updated 22 days ago
+Last updated 24 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
