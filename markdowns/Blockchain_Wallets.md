@@ -20,10 +20,8 @@ Blockchain Wallets | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -32,21 +30,6 @@ Blockchain Wallets | RISEWiki
   + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
-
-    - [Partner Network](/the-company/partners/partner-network)
-    - [Partners - Blockchain](/the-company/partners/partners-blockchain)
-
-      * [Blockchain Wallets](/the-company/partners/partners-blockchain/blockchain-wallets)
-
-        + [GeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
-      * [Dega](/the-company/partners/partners-blockchain/dega)
-      * [DripDropz](/the-company/partners/partners-blockchain/dripdropz)
-      * [Grow Your Stake](/the-company/partners/partners-blockchain/grow-your-stake)
-      * [Influencers](/the-company/partners/partners-blockchain/influencers)
-      * [Launchpads](/the-company/partners/partners-blockchain/launchpads)
-    - [Partners - Learn-and-Earn](/the-company/partners/partners-learn-and-earn)
-    - [Partners - Metaverse](/the-company/partners/partners-metaverse)
-    - [Partners - Strategic / Technology](/the-company/partners/partners-strategic-technology)
   + [Technology](/the-company/technology)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -64,20 +47,24 @@ On this page
 
 Copy
 
-1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
-2. [Partners](/the-company/partners)
-3. [Partners - Blockchain](/the-company/partners/partners-blockchain)
+1. [🌐BLOCKCHAIN](/blockchain)
 
 Blockchain Wallets
 ==================
 
-We work with the following wallets:
+A blockchain wallet is a digital wallet that allows users to store and manage their Bitcoin, Ethereum, [Cardano](/the-company/technology/cross-chain-technology/cardano-blockchain) and other cryptocurrencies.
 
-* [GeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
+* Blockchain wallet users can view their NFTs and manage their cryptocurrency balances.
+* Blockchain wallets have a number of security features to prevent theft.
+* Creating a blockchain wallet is free and anonymous and does not require the creator to provide any details such as their name or email address (some wallets do require this).
+* Once created, the wallet has a unique identifier similar to a bank account number known as an address.
+* When a user creates a blockchain wallet instead of using a single password, a mnemonic seed is used. A mnemonic seed is a random string of English words that functions similarly to a password. If a user loses access to their phone or device, the seed can be used to restore the wallet, including any cryptocurrencies. Unlike passwords, the blockchain wallet provider does not store users' mnemonic seeds. These seeds follow industry standards, meaning the wallets can be recovered even if the company goes out of business. However, this means if you lose your mnemonic seed phrase and lose access to the device your wallet is on you will not be able to get access to that wallet again - so please keep the seed phrase backed up, safe and secure..
 
-[PreviousPartners - Blockchain](/the-company/partners/partners-blockchain)[NextGeroWallet](/the-company/partners/partners-blockchain/blockchain-wallets/gerowallet)
+Infinity Rising has its own secure wallet built into the [Launcher](/gameplay/game-launcher) that comes with the PC Desktop version of the game.
 
-Last updated 9 months ago
+[PreviousMarch 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)[NextCOPI Stake Pool](/blockchain/copi-stake-pool)
+
+Last updated 32 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
