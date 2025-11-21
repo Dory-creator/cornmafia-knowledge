@@ -20,10 +20,8 @@ Rando's Metalworks - Vehicles | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -86,7 +84,7 @@ Available items:
 
 [PreviousValley Raceworx T3](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)[NextRando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)
 
-Last updated 11 months ago
+Last updated 12 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
