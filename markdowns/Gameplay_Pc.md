@@ -32,10 +32,8 @@ Gameplay - PC | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -57,8 +55,6 @@ Gameplay - PC | RISEWiki
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
 
-![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FuQxeVdpyBBOwpwJpxJ0c%252FCOPI_Wiki_Titles_GameplayPC.jpg%3Falt%3Dmedia%26token%3D9a51a66d-2a20-46db-8ec9-dd65f7a96677&width=1248&dpr=4&quality=100&sign=56eadda0&sv=2)
-
 On this page
 
 * [Adventure](#adventure)
@@ -73,12 +69,12 @@ Copy
 Gameplay - PC
 =============
 
-Cornucopias gameplay amalgamates blockchain features and traditional role-playing game conventions such as exploration, crafting, racing, and social interactions. The game offers a diverse array of activities and users have the freedom to play Cornucopias how they choose.
+Infinity Rising gameplay amalgamates blockchain features and traditional role-playing game conventions such as exploration, crafting, racing, and social interactions. The game offers a diverse array of activities and users have the freedom to play Infinity Rising how they choose.
 
 Adventure
 ---------
 
-Cornucopias is suited to adventurers who thrive on exploration, and immersion within the game world. Players can find narratives, quests, new environments, and rewards to discover.
+Infinity Rising is suited to adventurers who thrive on exploration, and immersion within the game world. Players can find narratives, quests, new environments, and rewards to discover.
 
 Craft
 -----
@@ -88,18 +84,18 @@ Players who prioritize crafting will play an integral part in the in-game econom
 Race
 ----
 
-Cornucopias offers a wide variety of NFT vehicles that players can purchase. Many of these are designed with high-speed racing in mind. Racers are driven by competition and speed, finding joy in fast-paced gameplay and racing against opponents. These players seek to hone their skills, optimize racing strategies, and secure victories against other players.
+Infinity Rising offers a wide variety of NFT vehicles that players can purchase. Many of these are designed with high-speed racing in mind. Racers are driven by competition and speed, finding joy in fast-paced gameplay and racing against opponents. These players seek to hone their skills, optimize racing strategies, and secure victories against other players.
 
 Socialize
 ---------
 
-All players in Cornucopias will find opportunities to foster friendships, build communities, and participate in cooperative gameplay. Whether this be with fellow race enthusiasts, District community members, or a chance encounter with a kindred wayfarer.
+All players in Infinity Rising will find opportunities to foster friendships, build communities, and participate in cooperative gameplay. Whether this be with fellow race enthusiasts, District community members, or a chance encounter with a kindred wayfarer.
 
 The game world has been designed to be expanded upon as new features and functionality are released. Players can expect to find a world that continuously evolves with exciting new developments in the future.
 
 [PreviousRoad Map](/gameplay/about-the-game/road-map)[NextThe Origin Story](/gameplay/gameplay-pc/the-origin-story)
 
-Last updated 1 year ago
+Last updated 39 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
