@@ -20,10 +20,8 @@ Visions and Values | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -78,7 +76,7 @@ Hard work, dedication, and endeavor will be rewarded.
 
 ### Equal Opportunity
 
-Cryptocurrency is centered around decentralization and creating a financial level playing field. The [metaverse](/gameplay/about-the-game/game-world) reflects this concept that everyone has the same chance to excel.
+Cryptocurrency is centered around decentralization and creating a financial level playing field. The metaverse reflects this concept that everyone has the same chance to excel.
 
 ### Diversity
 
