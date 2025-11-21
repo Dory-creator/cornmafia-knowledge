@@ -20,10 +20,8 @@ Asset - Seasonal Tenant Key | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -85,7 +83,3 @@ Once a seasonal tenant key has been staked, it will remain staked for the rest o
 [PreviousAsset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)[NextAsset - Weapons](/blockchain/player-owned-assets/asset-weapons)
 
 Last updated 1 month ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
