@@ -20,10 +20,8 @@ BASE Chain | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -59,7 +57,7 @@ BASE Chain | RISEWiki
 On this page
 
 * [Transaction processing](#transaction-processing)
-* [How Cornucopias uses the Base Chain](#how-cornucopias-uses-the-base-chain)
+* [How Infinity Rising uses the Base Chain](#how-infinity-rising-uses-the-base-chain)
 
 Copy
 
@@ -78,14 +76,14 @@ Base Chain is an Ethereum Layer-2 blockchain network developed by Coinbase. It i
 
 Base's off-chain processing model works to significantly reduce costs and the load on Ethereum's mainnet. This is achieved through "**rollups**," where multiple transactions are bundled together into a single batch. This batch is then submitted to the L1 for validation, reducing the number of on-chain interactions while maintaining the security and immutability provided by Ethereum.
 
-### **How Cornucopias uses the Base Chain**
+### **How** Infinity Rising **uses the Base Chain**
 
-* Cornucopias will mint [NFTs](/blockchain/player-owned-assets) on the Base Chain.
-* $COPI Token is available to buy/sell/trade on the Base Chain using [CEXs](/blockchain/usdcopi-token/cryptocurrency-exchanges/cex-centralized-exchange) and [DEXs](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange).
+* Infinity Rising mints [NFTs](/blockchain/player-owned-assets) on the Base Chain.
+* $COPI Token is available to buy/sell/trade on the Base Chain using CEXs and DEXs.
 
 [PreviousCross Chain Technology](/the-company/technology/cross-chain-technology)[NextCardano Blockchain](/the-company/technology/cross-chain-technology/cardano-blockchain)
 
-Last updated 1 year ago
+Last updated 5 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
