@@ -20,10 +20,8 @@ Asset - File Node Access Key | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -114,13 +112,13 @@ jpg.store
 
 Open Sea
 
-[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fopensea.io%2Ficons%2Ficon-192x192.png&width=20&dpr=4&quality=100&sign=844b87d1&sv=2)File Node Access Key (Base) - Collection | OpenSeaOpenSea](https://opensea.io/collection/file-node-access-key-base)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fopensea.io%2Ficons%2Ficon-192x192.png&width=20&dpr=4&quality=100&sign=844b87d1&sv=2)File Node Access Key (Base) 0.10 ETH - Collection | OpenSeaOpenSea](https://opensea.io/collection/file-node-access-key-base)
 
 **Base Chain Contract ID:**  0x6AcD40F2F094E2cfa1a942AE411e9a18e459DA02
 
 [PreviousAsset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)[NextAsset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
 
-Last updated 8 months ago
+Last updated 9 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
