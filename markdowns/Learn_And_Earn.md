@@ -10,14 +10,13 @@ Learn-and-Earn | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ Learn-and-Earn | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -66,13 +63,13 @@ Copy
 Learn-and-Earn
 ==============
 
-Cornucopias is teaming up with some of the best educational centers in the world to build learning into the metaverse - one of our early partners is the [European Business University](/the-company/partners/partners-learn-and-earn/european-business-university-ebu).
+Infinity Rising is teaming up with some of the best educational centers in the world to build learning into the metaverse - one of our early partners is the [European Business University](/the-company/partners/partners-learn-and-earn/european-business-university-ebu).
 
 Players become students and will be able to enjoy learning via our educational centers and earn rewards through playing educational mini-games. These mini-games will generate in-game currency for players. In game currency can be transferred for cryptocurrency.
 
 [PreviousBuild-and-Earn](/gameplay/about-the-game/build-and-earn)[NextStake-and-Earn](/gameplay/about-the-game/stake-and-earn)
 
-Last updated 1 month ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
