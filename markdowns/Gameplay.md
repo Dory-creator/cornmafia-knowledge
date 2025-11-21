@@ -10,14 +10,13 @@ About the game | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ About the game | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -65,19 +62,11 @@ Copy
 About the game
 ==============
 
-Infinity Rising formally known as Cornucopias is a blockchain-based massive, multiplayer, open-world RPG built on Unreal Engine 5. Set in the breath taking, technologically advanced, airborne world of ‘Cornucopias’ where players explore, build, trade, race, and more.
-
-Trailor released July 2025
-
-The vision is to bring freedom, power, autonomy, and new economics to the player. We aim to create a cutting-edge open-world gaming experience through immersive gameplay, an exciting story, exceptional artwork, and innovative economics.
-
-Infinity Rising leverages blockchain technology, providing players complete ownership and control over their digital assets, including in-game Assets and the native token - [$COPI](/gameplay/about-the-game/usdcopi-tokenomics). All of which garner real-world value that empowers users like never before.
-
-The game world has been designed to be expanded upon as new features and functionality are released. Players can expect to find a world that continuously evolves with exciting new developments in the future.
+Infinity Rising is an open‑world sandbox set between Cornucopias—the Nation in the Sky—and Earth Below. Players traverse both worlds to explore, gather, craft, build bases and land plots, trade in a player‑driven economy, and respond to rift‑related events and Terra through PvE.
 
 [PreviousINFINITY RISING](/)[NextArtwork](/gameplay/about-the-game/artwork)
 
-Last updated 22 days ago
+Last updated 26 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
