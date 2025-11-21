@@ -20,10 +20,8 @@ Atmos | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -91,7 +89,7 @@ Available models:
 
 [PreviousAsset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)[NextAtmos Juggernaut 2024](/blockchain/player-owned-assets/asset-flying-vehicles/atmos/atmos-juggernaut-2024)
 
-Last updated 11 months ago
+Last updated 12 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
