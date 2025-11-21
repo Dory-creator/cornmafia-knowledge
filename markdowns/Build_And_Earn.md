@@ -10,14 +10,13 @@ Build-and-Earn | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ Build-and-Earn | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -66,17 +63,17 @@ Copy
 Build-and-Earn
 ==============
 
-Resources exist throughout the Cornucopias metaverse, and are an essential part of the in-game economy. Provided players have the tools required, they are able to find and gather resources like wood, metal, crops and fabrics in order to craft valuable items such as weapons, tools, clothing, furniture and functional buildings.
+Resources exist throughout the Infinity Rising multiverse, and are an essential part of the in-game economy. Provided players have the tools required, they are able to find and gather resources like wood, metal, crops and fabrics in order to craft valuable items such as weapons, tools, clothing, furniture and functional buildings.
 
 Resources in the crops and food categories have two core functionalities; player sustenance and vehicle fuel. This entails a resource consumption system that revolves around maintaining and exhausting the characters needs to perform actions within the game. This can be achieved effectively by eating meals, which are crafted by combining multiple crops and cooking them together. [Crops](/gameplay/gameplay-pc/resources/crops) can also be generated into biofuel, which in turn powers cars and equipment throughout the world.
 
 Players have the ability to use their land to construct buildings which have various utility features including but not limited to; residential houses for players to live in or rent; farms which enable players to grow and harvest crops; merchants which allow players to engage in peer-to-peer commerce; and workshops for players seeking to process their resources and craft items. Using land to build any of the above has the potential to generate in-game currency. It will be up to the land owner to analyze the economy of the environment so they can strategically plan their endeavors.
 
-The resource economy is the key aspect around which the Build-and-Earn element of Cornucopias revolves. Valuable materials and craft items can then be sold in exchange for in-game currency.
+The resource economy is the key aspect around which the Build-and-Earn element of Infinity Rising revolves. Valuable materials and craft items can then be sold in exchange for in-game currency.
 
 [PreviousPlay-and-Earn](/gameplay/about-the-game/play-and-earn)[NextLearn-and-Earn](/gameplay/about-the-game/learn-and-earn)
 
-Last updated 1 year ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
