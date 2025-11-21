@@ -20,10 +20,8 @@ Cross Chain Technology | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -68,7 +66,7 @@ Cross Chain Technology
 
 Cross chain technology allows transmissions of value and information between different block-chain networks which ensures interoperability.
 
-This will enable Cornucopias to connect with user NFT wallets and share non-Cornucopias NFT data throughout the [metaverse](/gameplay/about-the-game/game-world).
+This will enable Cornucopias to connect with user NFT wallets and share non-Cornucopias NFT data throughout the metaverse.
 
 For example, Cornucopias will be able to read blockchain wallets and view NFTs on the following chains (with more to come in the future):
 
