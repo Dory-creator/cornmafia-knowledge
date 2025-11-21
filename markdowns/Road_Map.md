@@ -10,14 +10,13 @@ Road Map | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ Road Map | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -131,7 +128,7 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Q4 2025 - Pre-Alpha Prison Experience - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
 * Q4 2025 - Pre-Alpha Quest & Task System Launch - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
 * Q4 2025 - Pre-Alpha Questing Journal Launch - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
-* Q4 2025 - Pre-Alpha [RP In Game $COPI Rewards](/gameplay/about-the-game/usdcopi-tokenomics/token-economy/reward-distribution/in-game-rewards) Launch - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
+* Q4 2025 - Pre-Alpha [RP In Game $COPI Rewards](/gameplay/about-the-game/usdrise-tokenomics/token-economy/reward-distribution/in-game-rewards) Launch - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
 * Q4 2025 - [Game Launcher](/gameplay/game-launcher) - [COPI File Nodes](/the-company/technology/copi-nodes/copi-file-node) - Staging & Production File Distribution Integration - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) \*\*
 * Q4 2025 - Free POA - Exclusive OG Role Holders️ 2025 POA
 * Q4 2025 - Epic/Steam Games Store - Multiple Trailers ✔️
@@ -181,7 +178,7 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Q1 2024 - UE5.1 PC Game Release 0.2.23 - "Let's Get Spatial" - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
 * Q1 2024 - Pre-Alpha Inventory System Launch ✔️
 * Q1 2024 - Public Event - "Eth Denver" - USA - 1st-3rd March 2024 ✔️
-* Q1 2024 - Documentation Update - [Game Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics) ✔️
+* Q1 2024 - Documentation Update - [Game Tokenomics](/gameplay/about-the-game/usdrise-tokenomics) ✔️
 * Q2 2024 - Creator Tools Launch ✔️
 * Q2 2024 - Player Avatar Movement Updates - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
 * Q2 2024 - UE5.1 PC Game Release 0.2.24 - "Facelift " inc. **New** Avatar Creator - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
@@ -259,9 +256,9 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Q4 2023 - PC Game Release 0.2.16 - "Mythic Sunshine HF2" - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
 * Q4 2023 - PC Game Release 0.2.17 - "Calido Afterburner" - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
 * Q4 2023 - Calido Valley Raceway Launch - Racing Game ✔️
-* Q4 2023 - DEX - [$COPI Token](/blockchain/usdcopi-token) Listed on [Uniswap](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange/uniswap) ✔️
+* Q4 2023 - DEX - $COPI Token Listed on Uniswap ✔️
 * Q4 2023 - PC Game Release 0.2.18 - "Sunrise Social" - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
-* Q4 2023 - CEX - [$COPI Token](/blockchain/usdcopi-token) Listed on Gate.io ✔️
+* Q4 2023 - CEX - $COPI Token Listed on Gate.io ✔️
 * Q4 2023 - Host-and-Earn - COPI File Nodes ✔️
 * Q4 2023 - PC Game Release 0.2.20 - "Calido Pavilion" - [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing) ✔️
 * Q4 2023 - Calido Valley - Rumble Ball (new game experience) Launch ✔️
@@ -272,7 +269,7 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Q1 2022 - POA - [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022) ✔️
 * Q1 2022 - Free POA - [GTi Javelin 2022](/blockchain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022) ([$1m Community Giveaway](/blockchain/player-owned-assets/asset-flying-vehicles/gti/usd1m-nft-giveaway)) ✔️
 * Q1 2022 - [COPIWatch](/gameplay/community/copiwatch) Publication Launch ✔️
-* Q1 2022 - $[COPI Token](/blockchain/usdcopi-token) - Cardano Launch + Dex Listing ✔️
+* Q1 2022 - $COPI Token - Cardano Launch + Dex Listing ✔️
 * Q1 2022 - Unity Mobile Game Release (Internal Pre-Alpha) - Apple IOS Mobile Device✔️
 * Q1 2022 - Web3 Marketplace (Limited Alpha) - [Bubblejett Sprinter OG Edition](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022) TEST✔️
 * Q2 2022 - Free POA - [Bubblejett Sprinter OG Edition](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022) (Exclusive to OG Role Holders) ✔️
@@ -313,7 +310,7 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Q3 2021 - [Website Release (Beta)](https://www.cornucopias.io/) ✔️
 * Q3 2021 - [YouTube Channel, Discord, Twitter Launch](/gameplay/community/social-media) ✔️
 * Q3 2021 - Private Fundraising ✔️
-* Q4 2021 - $[COPI Token](/blockchain/usdcopi-token) - Ethereum & Binance BNB Smart Chain Launch + Dex Listing ✔️
+* Q4 2021 - $COPI Token - Ethereum & Binance BNB Smart Chain Launch + Dex Listing ✔️
 * Q4 2021 - [TikTok + Instagram Launch](/gameplay/community/social-media) ✔️
 * Q4 2021 - OG POA Alpha Testing ✔️
 
@@ -348,9 +345,9 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 * Partnerships/Collaborations
 * Cross-chain Interoperability
 * Build-and-Earn (B+E) Tools
-* CEX [$COPI Token](/blockchain/usdcopi-token) Listing
-* DEX [$COPI Token](/blockchain/usdcopi-token) Listing
-* [$COPI](/blockchain/usdcopi-token) Token Utility
+* CEX $COPI Token Listing
+* DEX $COPI Token Listing
+* $COPI Token Utility
 * Metaverse Bridges
 * Partner Integrations
 * Social Media & Marketing Growth
@@ -376,9 +373,9 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 
 \*\* **NOTE:** This item may not be ready and may be postponed to/from another time
 
-[PreviousBusiness Model](/gameplay/about-the-game/usdcopi-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)
+[PreviousBusiness Model](/gameplay/about-the-game/usdrise-tokenomics/business-model)[NextGameplay - PC](/gameplay/gameplay-pc)
 
-Last updated 22 days ago
+Last updated 24 days ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
