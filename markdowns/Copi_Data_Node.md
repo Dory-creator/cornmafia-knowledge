@@ -20,10 +20,8 @@ COPI Data Node | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -76,7 +74,7 @@ When the COPI Data Node license is activated, a decentralized node is run in the
 
 A player needs to purchase an NFT license to host a COPI Data Node and it is their responsibility to ensure the node software stays up-to-date (we will inform you of any updates) and to ensure it stays available for use for a minimum of agreed hours per day and with a minimum performance rating.
 
-In return for hosting, players will be rewarded with [$COPI tokens](/blockchain/usdcopi-token) and/or other rewards. Rewards will be based on the up-time and the performance of the node.
+In return for hosting, players will be rewarded with $COPI tokens and/or other rewards. Rewards will be based on the up-time and the performance of the node.
 
 [PreviousCOPI Game Node](/the-company/technology/copi-nodes/copi-game-node)[NextCross Chain Technology](/the-company/technology/cross-chain-technology)
 
