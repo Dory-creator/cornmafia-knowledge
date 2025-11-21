@@ -20,10 +20,8 @@ COPIC Stake Pool | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -87,7 +85,7 @@ More information on the parameters mentioned above and what is involved in runni
 
 [![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FzOCICSISm6cabIqtYI3M&width=20&dpr=4&quality=100&sign=6e9db8c7&sv=2)Cornucopias Stake Pool Offering (SPO) on Cardano | Infinity RisingInfinity Rising](https://cornucopias.io/blog/cornucopias-spo?utm_source=blog&utm_medium=social&utm_campaign=SPO&utm_content=read%20more&utm_term=copi)
 
-[PreviousCOPI Stake Pool](/blockchain/copi-stake-pool)[Next$COPI Token](/blockchain/usdcopi-token)
+[PreviousCOPI Stake Pool](/blockchain/copi-stake-pool)[NextMarketplace](/blockchain/marketplace)
 
 Last updated 1 year ago
 
