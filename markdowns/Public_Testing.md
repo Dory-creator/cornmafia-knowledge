@@ -20,10 +20,8 @@ Public Testing | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -64,7 +62,7 @@ Public Testing | RISEWiki
 On this page
 
 * [Current Phase](#current-phase)
-* [Cornucopias has been tested with the following PC/Laptop GPUs](#cornucopias-has-been-tested-with-the-following-pc-laptop-gpus)
+* [Infinity Rising has been tested with the following PC/Laptop GPUs](#infinity-rising-has-been-tested-with-the-following-pc-laptop-gpus)
 * [Current Testing Groups & NFT Role Access](#current-testing-groups-and-nft-role-access)
 * [Game Access Pass](#game-access-pass)
 * [Current Testing Servers](#current-testing-servers)
@@ -84,15 +82,15 @@ CURRENT PHASE: Pre Alpha Testing
 
 Public Testing was opened on 2nd August 2023. Over the following months more people were invited to test and more servers were opened up throughout the World.
 
-Alongside the Cornucopias Game there is a PC Application known as the ["Game Launcher"](/gameplay/game-launcher), this detects the devices hardware and links to the players Web3 wallet to control game access while in the Testing Phase.
+Alongside the Infinity Rising Game there is a PC Application known as the ["Game Launcher"](/gameplay/game-launcher), this detects the devices hardware and links to the players Web3 wallet to control game access while in the Testing Phase.
 
 ### Current Phase
 
 Pre Alpha Testing - to begin testing **there is no longer any GPU requirements** however you will still require an NFT to test the Pre-Alpha version. [The list of qualifying NFTs can be found here ..](/the-company/technology/game-devices/pc-desktop/public-testing#current-testing-groups-and-nft-role-access)
 
-Click here to see the [Cornucopias PC requirements](/the-company/technology/game-devices/pc-desktop)..
+Click here to see the [Infinity Rising PC requirements](/the-company/technology/game-devices/pc-desktop)..
 
-### Cornucopias has been tested with the following PC/Laptop GPUs
+### Infinity Rising has been tested with the following PC/Laptop GPUs
 
 The following PC/Laptop Graphics Cards (GPU) have been tested:
 
@@ -195,7 +193,7 @@ The following Roles and NFT Holder Roles have access to testing:
 
 You can also join in with the testing without an NFT by purchasing a Game Access Pass here:
 
-<https://cornucopias.io/get-the-game>
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FzOCICSISm6cabIqtYI3M&width=20&dpr=4&quality=100&sign=6e9db8c7&sv=2)Early Access | Infinity RisingInfinity Rising](https://infinityrising.com/early-access)
 
 ### Current Testing Servers
 
@@ -430,4 +428,8 @@ Calido Valley Resort & Raceway & City & Solace 1-3
 
 [PreviousPC Desktop](/the-company/technology/game-devices/pc-desktop)[NextMobile Phone Devices](/the-company/technology/game-devices/mobile-phone-devices)
 
-Last updated 2 months ago
+Last updated 1 hour ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
