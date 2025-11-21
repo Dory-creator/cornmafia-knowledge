@@ -27,8 +27,6 @@ Discord | RISEWiki
     - [COPIWatch](/gameplay/community/copiwatch)
     - [COPIWiki](/gameplay/community/copiwiki)
     - [Discord](/gameplay/community/discord)
-
-      * [Corn Points](/gameplay/community/discord/corn-points)
     - [Dev Shorts](/gameplay/community/dev-shorts)
     - [Social Media](/gameplay/community/social-media)
     - [Video Specials](/gameplay/community/video-specials)
@@ -36,10 +34,8 @@ Discord | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -82,17 +78,15 @@ Copy
 Discord
 =======
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FA4401dzxm40Bbkv9tDQw%252FGitBook_Subheads_COPIDiscord.jpg%3Falt%3Dmedia%26token%3Debae79f9-9123-42b4-be00-f49b1311c0ac&width=768&dpr=4&quality=100&sign=67c10c75&sv=2)
-
 Discord is an instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".
 
-Discord has played an important part in the history of Cornucopias and has been utilized as a Community tool from its inception. The Cornucopias Discord server is FREE to join and there are many channels for members to discover and chat in. The Cornucopias Community are very hospitable and like to maintain a **Family Friendly** environment.
+Discord has played an important part in the history of Infinity Rising and has been utilized as a Community tool from its inception. The Infinity Rising Discord server is FREE to join and there are many channels for members to discover and chat in. The Cornucopias Community are very hospitable and like to maintain a **Family Friendly** environment.
 
-Occasionally there are official Voice AMA (Ask-Me-Anything) events where the creators of Cornucopias are available to answer community questions.
+Occasionally there are official Voice AMA (Ask-Me-Anything) events where the creators of Infinity Rising are available to answer community questions.
 
-By being a member of the Cornucopias Discord, users will be able to see announcements before they are shared on [Social Media](/gameplay/community/social-media). In addition, our backend NFT marketplace uses Discord roles for managing whitelists and website access.
+By being a member of the Infinity Rising Discord, users will be able to see announcements before they are shared on [Social Media](/gameplay/community/social-media). In addition, our backend NFT marketplace uses Discord roles for managing whitelists and website access.
 
-[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fdiscord.com%2Fassets%2Ffavicon.ico&width=20&dpr=4&quality=100&sign=bbdf2000&sv=2)Join the Cornucopias Discord Server!Discord](https://discord.com/invite/cornucopiasgameofficial)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fdiscord.com%2Fassets%2Ffavicon.ico&width=20&dpr=4&quality=100&sign=bbdf2000&sv=2)Join the Infinity Rising Discord Server!Discord](https://discord.gg/Xnb9Jxv2)
 
 Discord Roles
 -------------
@@ -105,7 +99,7 @@ All new users to Discord are Cornucopians and receive this role.
 
 ### **OG | Old Guard**
 
-Discord OGs are members that arrived here before October 13, 2021. They are the original members that have been with Cornucopias since the beginning.
+Discord OGs are members that arrived here before October 13, 2021. They are the original members that have been with Infinity Rising since the beginning.
 
 The OG role is still open to all to obtain, to find out more visit [Discord](https://discord.com/invite/cornucopiasgame) and go to the #how-to-become-og thread.
 
@@ -115,11 +109,11 @@ The OGs will grow in proportion to the overall community, so it is considered "o
 
 ### **Gatekeeper**
 
-This role is given to the main Discord administrators. These are Cornucopias employees.
+This role is given to the main Discord administrators. These are Infinity Rising team.
 
 ### **The Masterminds**
 
-The Cornucopias Founders and Channel Gatekeepers have this role.
+The Infinity Rising Founders and Channel Gatekeepers have this role.
 
 ### **[CORN] Moderator | [Language]**
 
@@ -131,7 +125,7 @@ Community members training to become a full Discord Moderator receive this role.
 
 ### **[NFT] Holder**
 
-There are many versions of this discord role and it is given to members who hold and verify individual Cornucopias [NFTs](/blockchain/player-owned-assets). Some NFTs come with their own discord channel, and some perks of holding this role include a better chance of minting future NFTs.
+There are many versions of this discord role and it is given to members who hold and verify individual Infinity Rising [NFTs](/blockchain/player-owned-assets). Some NFTs come with their own discord channel, and some perks of holding this role include a better chance of minting future NFTs.
 
 ### **Digital Architects**
 
@@ -141,9 +135,9 @@ Community members that have participated in community challenges and won may rec
 
 Community members that are also Social Media influencers, i.e. they run a popular YouTube or Twitter channel, etc, can receive this role.
 
-[PreviousCOPIWiki](/gameplay/community/copiwiki)[NextCorn Points](/gameplay/community/discord/corn-points)
+[PreviousCOPIWiki](/gameplay/community/copiwiki)[NextDev Shorts](/gameplay/community/dev-shorts)
 
-Last updated 1 year ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
