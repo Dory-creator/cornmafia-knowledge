@@ -20,10 +20,8 @@ COPI Stake Pool | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -107,7 +105,7 @@ Stake pools are run by a reliable operator: an individual or business, with the 
 
 The more stake that is delegated to a stake pool, the greater chance it has of being selected as a slot leader. Each time it is selected and produces a block that is accepted onto the blockchain, it is rewarded, and these rewards are shared between the stake pool operator and stake pool delegators.​
 
-[PreviousCardano World](/blockchain/cardano-world)[NextCOPIC Stake Pool](/blockchain/copic-stake-pool)
+[PreviousBlockchain Wallets](/blockchain/blockchain-wallets)[NextCOPIC Stake Pool](/blockchain/copic-stake-pool)
 
 Last updated 1 year ago
 
