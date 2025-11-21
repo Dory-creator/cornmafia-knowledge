@@ -20,10 +20,8 @@ Asset - Apparel | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 
@@ -74,7 +72,7 @@ Asset - Apparel
 
 There are a number of clothing and accessory categories for your Avatar to enjoy and some give additional perks as well as looking good.
 
-There are also many clothing and accessory manufacturers within Cornucopias:
+There are also many clothing and accessory manufacturers within Infinity Rising:
 
 Apparel (entire outfits)
 ------------------------
@@ -89,7 +87,7 @@ Hats and Helmets
 
 [PreviousPLAYER OWNED ASSETS](/blockchain/player-owned-assets)[NextCheeky Racer Suit](/blockchain/player-owned-assets/asset-apparel/cheeky-racer-suit)
 
-Last updated 1 year ago
+Last updated 46 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
