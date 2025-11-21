@@ -10,14 +10,13 @@ Play-and-Earn | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ Play-and-Earn | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -66,15 +63,13 @@ Copy
 Play-and-Earn
 =============
 
-The Play-and-Earn mantra is central to the Cornucopias vision; To bring power and new economics to the player. By playing Cornucopias and its various in-game experiences the player will earn in-game virtual currency.
+The Play-and-Earn mantra is central to the Infinity Rising vision; To bring power and new economics to the player. By playing Infinity Rising and its various in-game experiences the player will earn in-game virtual currency.
 
-Over [Seasons](/gameplay/gameplay-pc/seasons), players will be presented with a list of challenges to complete, with varying levels of difficulty. These challenges may include; resource collection, time trials, fishing, racing, map exploration and many many more. Upon successful completion of the challenges, players are entered into the Play-and-Earn reward pot. This is a daily quantity of in-game currency which is distributed among all successful players. For more information see the [Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics) section.
-
-Traditionally, development companies make profits while gamers only spend money on in-game assets that are trapped inside the game. In Cornucopias, players are rewarded with cryptocurrency for contributing to a free-to-play game. NFTs and in-game assets are owned and are available to sell and trade with other players.
+Over [Seasons](/gameplay/gameplay-pc/seasons), players will be presented with a list of challenges to complete, with varying levels of difficulty. These challenges may include; resource collection, time trials, fishing, racing, map exploration and many many more. Upon successful completion of the challenges, players are entered into the Play-and-Earn reward pot. This is a daily quantity of in-game currency which is distributed among all successful players. For more information see the [Tokenomics](/gameplay/about-the-game/usdrise-tokenomics) section.
 
 [PreviousInfinity Rising Land](/gameplay/about-the-game/infinity-rising-land)[NextBuild-and-Earn](/gameplay/about-the-game/build-and-earn)
 
-Last updated 1 year ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
