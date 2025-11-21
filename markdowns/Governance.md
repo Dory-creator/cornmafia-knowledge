@@ -20,10 +20,8 @@ Governance | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -56,11 +54,11 @@ Copy
 Governance
 ==========
 
-Cornucopias government, or choice of rule, will be decided by the NFT land, NFT property and Cornucopias [$COPI](/blockchain/usdcopi-token) Token owners.
+Cornucopias government, or choice of rule, will be decided by the NFT land, NFT property and Cornucopias $COPI Token owners.
 
 Decisions by majority voting and settings will take place within the town hall located in one or many of the zones or cities. Cornucopias council will evolve to a decentralized government involved in all ideas, concerns and discussions with the team. The council will have a voice on every part of the game, from fees to new developments.
 
-In order to promote decentralized community governance for the network, the [COPI](/blockchain/usdcopi-token) token will allow holders to propose and vote on on-chain governance proposals to determine future features and/or parameters of Cornucopias (the right to vote is restricted solely to voting on features of Cornucopias; it does not entitle token holders to vote on the operation and management of the Company, its affiliates, or their assets or the disposition of such assets to token holders, or select the board of directors of these entities, or determine the development direction of these entities, does not constitute any equity interest in any of these entities or any collective investment scheme; the arrangement is not intended to be any form of joint venture or partnership).
+In order to promote decentralized community governance for the network, the COPI token will allow holders to propose and vote on on-chain governance proposals to determine future features and/or parameters of Cornucopias (the right to vote is restricted solely to voting on features of Cornucopias; it does not entitle token holders to vote on the operation and management of the Company, its affiliates, or their assets or the disposition of such assets to token holders, or select the board of directors of these entities, or determine the development direction of these entities, does not constitute any equity interest in any of these entities or any collective investment scheme; the arrangement is not intended to be any form of joint venture or partnership).
 
 Voting on real world game mechanics will happen occasionally in the town hall, where all NFT character owners will be eligible to vote at one vote per NFT owner.
 
