@@ -1,63 +1,80 @@
-December 2022 | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FxczoLfMLSrLZyl8UxDSg%252FCornucopias_Logo-White-Medium.png%3Falt%3Dmedia%26token%3Dcfef2e74-c264-4b9d-bc1c-d89788f5dc9c&width=260&dpr=4&quality=100&sign=ce383b9c&sv=2)](/)`Ctrl``K`* [📋CORNUCOPIAS](/)
-* 🎮GAMEPLAY
-	+ [About the game](/gameplay/about-the-game)
-	+ [Gameplay - PC](/gameplay/gameplay-pc)
-	+ [Non-Player Characters](/gameplay/non-player-characters)
-	+ [Themed Zones](/gameplay/themed-zones)
-	+ [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
-	+ [Gameplay - eSports Cornucopias Racing League](/gameplay/gameplay-esports-cornucopias-racing-league)
-	+ [Gameplay - Mobile](/gameplay/gameplay-mobile)
-	+ [Game Launcher](/gameplay/game-launcher)
-	+ [City - Life](/gameplay/city-life)
-	+ [Community](/gameplay/community)
-		- [Blog](/gameplay/community/blog)
-		- [COPICafe](/gameplay/community/copicafe)
-		- [COPI Q-Wiki](/gameplay/community/copi-q-wiki)
-		- [COPILeaks](/gameplay/community/copileaks)
-		- [COPIShop](/gameplay/community/copishop)
-		- [COPIWatch](/gameplay/community/copiwatch)
-		- [COPIWiki](/gameplay/community/copiwiki)
-		- [Discord](/gameplay/community/discord)
-		- [Dev Shorts](/gameplay/community/dev-shorts)
-		- [Social Media](/gameplay/community/social-media)
-		- [Video Specials](/gameplay/community/video-specials)
-		- [Status Updates](/gameplay/community/status-updates)
-			* [Status Updates - 2024](/gameplay/community/status-updates/status-updates-2024)
-			* [Status Updates - 2023](/gameplay/community/status-updates/status-updates-2023)
-			* [Status Updates - 2022](/gameplay/community/status-updates/status-updates-2022)
-				+ [December 2022](/gameplay/community/status-updates/status-updates-2022/december-2022)
-				+ [November 2022](/gameplay/community/status-updates/status-updates-2022/november-2022)
-				+ [October 2022](/gameplay/community/status-updates/status-updates-2022/october-2022)
-				+ [September 2022](/gameplay/community/status-updates/status-updates-2022/september-2022)
-				+ [August 2022](/gameplay/community/status-updates/status-updates-2022/august-2022)
-				+ [July 2022](/gameplay/community/status-updates/status-updates-2022/july-2022)
-				+ [June 2022](/gameplay/community/status-updates/status-updates-2022/june-2022)
-				+ [May 2022](/gameplay/community/status-updates/status-updates-2022/may-2022)
-				+ [April 2022](/gameplay/community/status-updates/status-updates-2022/april-2022)
-				+ [March 2022](/gameplay/community/status-updates/status-updates-2022/march-2022)
-* 🌐BLOCKCHAIN
-	+ [Blockchain Wallets](/blockchain/blockchain-wallets)
-	+ [Cardano World](/blockchain/cardano-world)
-	+ [COPI Stake Pool](/blockchain/copi-stake-pool)
-	+ [COPIC Stake Pool](/blockchain/copic-stake-pool)
-	+ [Cornucopias Token - $COPI](/blockchain/cornucopias-token-usdcopi)
-	+ [Marketplace](/blockchain/marketplace)
-	+ [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-* 🧑‍🤝‍🧑THE COMPANY
-	+ [COMPLIANCE](/the-company/compliance)
-	+ [Founders](/the-company/founders)
-	+ [Governance](/the-company/governance)
-	+ [Partners](/the-company/partners)
-	+ [Technology](/the-company/technology)
-	+ [Visions and Values](/the-company/visions-and-values)
-* 📖Documentation
-	+ [Game](/documentation/game)
-	+ [Nodes](/documentation/nodes)
-* 🔗LINKS
-	+ [Cornucopias Link Tree](https://linktr.ee/cornucopias.game)
-	+ [Cornucopias Website](https://www.cornucopias.io)
+December 2022 | RISEWiki
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)On this page* [Summary](#summary)
+[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252F90i8Iwb0LXw9xIroe9wy%252FInfinity%2520Rising_logo2.png%3Falt%3Dmedia%26token%3Dde7ab13b-7593-4583-83e6-7ed79d87ed26&width=260&dpr=4&quality=100&sign=8e852af&sv=2)![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F1762761122-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FVpfHHIHQI6ROs7kspCfa%252Fsites%252Fsite_dzbNR%252Flogo%252FbwYsgKrrCmFJzlM7KKwZ%252FInfinity%2520Rising_logo2.png%3Falt%3Dmedia%26token%3Dc62ee205-acdf-47b2-9313-ca755597bd96&width=260&dpr=4&quality=100&sign=c99ea5b2&sv=2)](/)
+
+`Ctrl``k`
+
+* [📋INFINITY RISING](/)
+* 🎮GAMEPLAY
+
+  + [About the game](/gameplay/about-the-game)
+  + [Gameplay - PC](/gameplay/gameplay-pc)
+  + [Non-Player Characters](/gameplay/non-player-characters)
+  + [Themed Zones](/gameplay/themed-zones)
+  + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
+  + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
+  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
+  + [Game Launcher](/gameplay/game-launcher)
+  + [City - Life](/gameplay/city-life)
+  + [Community](/gameplay/community)
+
+    - [Blog](/gameplay/community/blog)
+    - [Café RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)
+    - [COPICafé Archive Videos](/gameplay/community/copicafe-archive-videos)
+    - [COPI Q-Wiki](/gameplay/community/copi-q-wiki)
+    - [COPILeaks](/gameplay/community/copileaks)
+    - [COPIShop](/gameplay/community/copishop)
+    - [COPIWatch](/gameplay/community/copiwatch)
+    - [COPIWiki](/gameplay/community/copiwiki)
+    - [Discord](/gameplay/community/discord)
+    - [Dev Shorts](/gameplay/community/dev-shorts)
+    - [Social Media](/gameplay/community/social-media)
+    - [Video Specials](/gameplay/community/video-specials)
+    - [Status Updates Archive](/gameplay/community/status-updates-archive)
+
+      * [Status Updates - 2024](/gameplay/community/status-updates-archive/status-updates-2024)
+      * [Status Updates - 2023](/gameplay/community/status-updates-archive/status-updates-2023)
+      * [Status Updates - 2022](/gameplay/community/status-updates-archive/status-updates-2022)
+
+        + [December 2022](/gameplay/community/status-updates-archive/status-updates-2022/december-2022)
+        + [November 2022](/gameplay/community/status-updates-archive/status-updates-2022/november-2022)
+        + [October 2022](/gameplay/community/status-updates-archive/status-updates-2022/october-2022)
+        + [September 2022](/gameplay/community/status-updates-archive/status-updates-2022/september-2022)
+        + [August 2022](/gameplay/community/status-updates-archive/status-updates-2022/august-2022)
+        + [July 2022](/gameplay/community/status-updates-archive/status-updates-2022/july-2022)
+        + [June 2022](/gameplay/community/status-updates-archive/status-updates-2022/june-2022)
+        + [May 2022](/gameplay/community/status-updates-archive/status-updates-2022/may-2022)
+        + [April 2022](/gameplay/community/status-updates-archive/status-updates-2022/april-2022)
+        + [March 2022](/gameplay/community/status-updates-archive/status-updates-2022/march-2022)
+* 🌐BLOCKCHAIN
+
+  + [Blockchain Wallets](/blockchain/blockchain-wallets)
+  + [COPI Stake Pool](/blockchain/copi-stake-pool)
+  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
+  + [Marketplace](/blockchain/marketplace)
+  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+* 🧑‍🤝‍🧑THE COMPANY
+
+  + [COMPLIANCE](/the-company/compliance)
+  + [Founders](/the-company/founders)
+  + [Governance](/the-company/governance)
+  + [Partners](/the-company/partners)
+  + [Technology](/the-company/technology)
+  + [Visions and Values](/the-company/visions-and-values)
+* 📖Documentation
+
+  + [Game](/documentation/game)
+  + [Nodes](/documentation/nodes)
+* 🔗LINKS
+
+  + [Link Tree](https://linktr.ee/cornucopias.game)
+  + [Official Website](https://www.infinityrising.com/)
+
+[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
+
+On this page
+
+* [Summary](#summary)
 * [BUSINESS​](#business)
 * [MARKETING](#marketing)
 * [ART](#art)
@@ -69,16 +86,18 @@ December 2022 | COPIWiki[![Logo](https://copiwiki.cornucopias.io/~gitbook/image?
 * [SOCIAL MEDIA](#social-media-statistics)
 * [AOB](#aob)
 
-Copy1. [🎮GAMEPLAY](/gameplay)
+Copy
+
+1. [🎮GAMEPLAY](/gameplay)
 2. [Community](/gameplay/community)
-3. [Status Updates](/gameplay/community/status-updates)
-4. [Status Updates - 2022](/gameplay/community/status-updates/status-updates-2022)
+3. [Status Updates Archive](/gameplay/community/status-updates-archive)
+4. [Status Updates - 2022](/gameplay/community/status-updates-archive/status-updates-2022)
+
 December 2022
 =============
 
 **Summary**
 -----------
-
 
 > **Planning, Building, Prepping and Running the Holiday Season Mint**
 
@@ -92,9 +111,9 @@ December was an exciting month as we had our Holiday Mint.
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FUvlsdy2FCgqplYezplkn%252Fimage.png%3Falt%3Dmedia%26token%3D43e23ba6-12bf-4c6d-9e99-b99a76246f5f&width=300&dpr=4&quality=100&sign=121b1cee&sv=2)
 
-Our NFT Marketplace got a HUGE update and is now able to accept [$COPI](/blockchain/cornucopias-token-usdcopi) as well as ADA for NFT mints.
+Our NFT Marketplace got a HUGE update and is now able to accept $COPI as well as ADA for NFT mints.
 
-A **huge update** to the COPIWiki was done to add more gameplay information about the [Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots). 
+A **huge update** to the COPIWiki was done to add more gameplay information about the [Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots).
 
 We also had lots of discussion on how much we should release the Origin Story and in what format text/image/video - the next few months will show the outcome of those talks.
 
@@ -102,7 +121,7 @@ At the start of December we achieved the 63m ₳ staked milestone in the COPI St
 
 ### BUSINESS​
 
-1x new employees joined the Cornucopias internal team in December 2022. 
+1x new employees joined the Cornucopias internal team in December 2022.
 
 * 1x React Developer
 
@@ -116,13 +135,13 @@ At the start of December we achieved the 63m ₳ staked milestone in the COPI St
 
 #### **New Partnerships**
 
-On [COPICafe Episode 33](/gameplay/community/copicafe), we had an interview with Chris and Nick and announced a new NFT partnership with [**Cheeky**](/the-company/partners/partners-blockchain/influencers/cheeky-crypto) Crypto; - a YouTube channel focusing on cross-blockchain investing.
+On [COPICafe Episode 33](/gameplay/community/copicafe-archive-videos), we had an interview with Chris and Nick and announced a new NFT partnership with [**Cheeky**](/the-company/partners/partners-blockchain/influencers/cheeky-crypto) Crypto; - a YouTube channel focusing on cross-blockchain investing.
 
-On [COPICafe Episode](/gameplay/community/copicafe) 34, we announced a new partnership with Meld, - a defi project on Cardano. Ken Olling the CEO of Meld, joined Rob and Josh on [COPICafe Episode 35](/gameplay/community/copicafe) and gave more details on the partnership - Meld will have the COPI token as a launch token on their new DeFi platform and Cornucopias will create a new "vehicle wrap" for the [Bubblejetts](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett) with the Meld livery. This is the start of a great partnership with more collaboration details to be revealed in the future.
+On [COPICafe Episode](/gameplay/community/copicafe-archive-videos) 34, we announced a new partnership with Meld, - a defi project on Cardano. Ken Olling the CEO of Meld, joined Rob and Josh on [COPICafe Episode 35](/gameplay/community/copicafe-archive-videos) and gave more details on the partnership - Meld will have the COPI token as a launch token on their new DeFi platform and Cornucopias will create a new "vehicle wrap" for the [Bubblejetts](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett) with the Meld livery. This is the start of a great partnership with more collaboration details to be revealed in the future.
 
 ### MARKETING
 
-* [COPICafe](/gameplay/community/copicafe) Episodes 33, 34 and 35 were released.
+* [COPICafe](/gameplay/community/copicafe-archive-videos) Episodes 33, 34 and 35 were released.
 
 ### ART
 
@@ -147,17 +166,17 @@ Public testing is planned for Q1/Q2 2023.
 
 ### RACING GAME/LEAGUE
 
-The Racing Game is progressing very well and the Game Design Document has been updated with MVP details. 
+The Racing Game is progressing very well and the Game Design Document has been updated with MVP details.
 
 Public testing is planned for Q2 2023.
 
 ### WEB
 
-Work on the new website has started and we are excited about the progress. 
+Work on the new website has started and we are excited about the progress.
 
 Launch is planned for Q1/Q2 2023.
 
-The Learn-and-Earn website is well under way and an internal demo is being prepared for end of year. 
+The Learn-and-Earn website is well under way and an internal demo is being prepared for end of year.
 
 Launch is planned for Q2 2023.
 
@@ -194,8 +213,6 @@ As COPI Stakepool gets near to saturation, if you are looking for an alternative
 
 We are working on a roadmap for early 2023.
 
-[PreviousStatus Updates - 2022](/gameplay/community/status-updates/status-updates-2022)[NextNovember 2022](/gameplay/community/status-updates/status-updates-2022/november-2022)Last updated 11 months ago
+[PreviousStatus Updates - 2022](/gameplay/community/status-updates-archive/status-updates-2022)[NextNovember 2022](/gameplay/community/status-updates-archive/status-updates-2022/november-2022)
 
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://www.cornucopias.io/privacy-policy).
-
-AcceptReject
+Last updated 1 year ago
