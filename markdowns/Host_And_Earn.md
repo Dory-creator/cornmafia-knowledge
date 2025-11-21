@@ -10,14 +10,13 @@ Host-and-Earn | RISEWiki
   + [About the game](/gameplay/about-the-game)
 
     - [Artwork](/gameplay/about-the-game/artwork)
-    - [Game World](/gameplay/about-the-game/game-world)
     - [Infinity Rising Land](/gameplay/about-the-game/infinity-rising-land)
     - [Play-and-Earn](/gameplay/about-the-game/play-and-earn)
     - [Build-and-Earn](/gameplay/about-the-game/build-and-earn)
     - [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn)
     - [Stake-and-Earn](/gameplay/about-the-game/stake-and-earn)
     - [Host-and-Earn](/gameplay/about-the-game/host-and-earn)
-    - [$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+    - [$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
     - [🛣️Road Map](/gameplay/about-the-game/road-map)
   + [Gameplay - PC](/gameplay/gameplay-pc)
   + [Non-Player Characters](/gameplay/non-player-characters)
@@ -31,10 +30,8 @@ Host-and-Earn | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -68,15 +65,15 @@ Host-and-Earn
 
 Empowering players and decentralizing parts of the gaming ecosystem
 
-Players have the opportunity to Host-and-Earnin Cornucopias. Users can host their own games and help support critical infrastructure.
+Players have the opportunity to Host-and-Earnin Infinity Rising. Users can host their own games and help support critical infrastructure.
 
-Players purchase a license to run a Cornucopias node. There are a number of Host-and-Earn nodes that will be available for players to own and run themselves - more information can be found in the [COPI Node](/the-company/technology/copi-nodes) section. Players who become public node operators maybe rewarded with [$COPI](/blockchain/usdcopi-token) rewards.
+Players purchase a license to run an Infinity Rising node. There are a number of Host-and-Earn nodes that will be available for players to own and run themselves - more information can be found in the [COPI Node](/the-company/technology/copi-nodes) section. Players who become public node operators maybe rewarded with $COPI rewards.
 
-This is essential tothe decentralized element of Cornucopias. It gives power and connectivity to the users. Hosting occurs on players PCs and is an add-on feature available to support the the game [Launcher](/gameplay/game-launcher) and main game.
+This is essential tothe decentralized element of Infinity Rising. It gives power and connectivity to the users. Hosting occurs on players PCs and is an add-on feature available to support the the game [Launcher](/gameplay/game-launcher) and main game.
 
-[PreviousStaking](/gameplay/about-the-game/stake-and-earn/staking)[Next$COPI Tokenomics](/gameplay/about-the-game/usdcopi-tokenomics)
+[PreviousStaking](/gameplay/about-the-game/stake-and-earn/staking)[Next$RISE Tokenomics](/gameplay/about-the-game/usdrise-tokenomics)
 
-Last updated 1 year ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
