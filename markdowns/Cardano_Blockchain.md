@@ -20,10 +20,8 @@ Cardano Blockchain | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -75,14 +73,14 @@ Cardano is a proof-of-stake blockchain platform: the first to be founded on peer
 
 With a leading team of engineers, Cardano exists to redistribute power from unaccountable structures to the margins – to individuals – and be an enabling force for positive change and progress.
 
-### **How Cornucopias uses the Cardano Blockchain**
+### **How** Infinity Rising **uses the Cardano Blockchain**
 
-* Cornucopias will mint 'native' [NFTs](/blockchain/player-owned-assets) on the Cardano blockchain.
-* $COPI Token is available to buy/sell/trade on Cardano using [Dexs](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange) [CEXs](/blockchain/usdcopi-token/cryptocurrency-exchanges/cex-centralized-exchange) and [DEXs](/blockchain/usdcopi-token/cryptocurrency-exchanges/dex-decentralized-exchange).
+* Infinity Rising mints 'native' [NFTs](/blockchain/player-owned-assets) on the Cardano blockchain.
+* $COPI Token is available to buy/sell/trade on Cardano using Dexs CEXs and DEXs.
 
 [PreviousBASE Chain](/the-company/technology/cross-chain-technology/base-chain)[NextGame Devices](/the-company/technology/game-devices)
 
-Last updated 1 year ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
