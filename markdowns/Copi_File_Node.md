@@ -20,10 +20,8 @@ COPI File Node | RISEWiki
 * 🌐BLOCKCHAIN
 
   + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
   + [COPI Stake Pool](/blockchain/copi-stake-pool)
   + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
   + [Marketplace](/blockchain/marketplace)
   + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
@@ -86,7 +84,7 @@ Once active, the game launcher will be able to use a new algorithm to download s
 
 COPI File Nodes require an NFT license to run. This establishes the player as a COPI File Node operator and allows their PC to participate in decentralized Cornucopias File Node Network.
 
-In return for hosting one or more COPI File Nodes, players are rewarded with [$COPI tokens](/blockchain/usdcopi-token) and/or other rewards. Rewards are be based on various factors including the up-time and the delivery performance of the COPI File Node.
+In return for hosting one or more COPI File Nodes, players are rewarded with $COPI tokens and/or other rewards. Rewards are be based on various factors including the up-time and the delivery performance of the COPI File Node.
 
 ### **How to Setup a Node Pool**
 
