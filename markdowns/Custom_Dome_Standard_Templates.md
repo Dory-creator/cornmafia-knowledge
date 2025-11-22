@@ -22,7 +22,7 @@ Custom Dome - Standard Templates | RISEWiki
         + [Custom Dome Template - Nightclub Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nightclub-experience)
         + [Custom Dome Template - Theatre/Stage - Live Audience Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-theatre-stage-live-audience-experience)
         + [Custom Dome Template - Festival Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-festival-experience)
-        + [Custom Dome Template - NFT Art Gallery Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nft-art-gallery-experience)
+        + [Custom Dome Template - Art Gallery Experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-art-gallery-experience)
         + [Custom Dome Template - Global Expo Events](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-global-expo-events)
         + [Custom Dome Template - Business Meetings](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-business-meetings)
         + [Custom Dome Template - Educational Centers](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-educational-centers)
@@ -35,33 +35,26 @@ Custom Dome - Standard Templates | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -72,7 +65,6 @@ Custom Dome - Standard Templates | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -102,7 +94,7 @@ The following templates are planned with more to come in the future:
 
 [Festival experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-festival-experience) \*\*
 
-[NFT Art Gallery experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nft-art-gallery-experience) \*\*
+[Art Gallery experience](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-art-gallery-experience) \*\*
 
 [Global Expo events](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-global-expo-events) \*\*
 
@@ -114,11 +106,9 @@ The following templates are planned with more to come in the future:
 
 Many more templates will be added as the game evolves
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FYYMWVmuzVpB22Kk7P3It%252Fplots12.png%3Falt%3Dmedia%26token%3Daa5ef12a-d0ef-412b-aff9-e8fa754e532c&width=768&dpr=4&quality=100&sign=41179c83&sv=2)
-
 [PreviousCustom Domes](/gameplay/gameplay-pc/custom-domes)[NextCustom Dome Template - Project/Company HQ](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-project-company-hq)
 
-Last updated 3 years ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
