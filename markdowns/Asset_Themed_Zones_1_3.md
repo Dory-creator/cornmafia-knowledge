@@ -9,37 +9,33 @@ Asset - Themed Zones 1-3 | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
 
-      * [Asset - Seasonal Tenant Key](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+      * [Asset - Seasonal Tenant Key](/on-chain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -50,7 +46,6 @@ Asset - Themed Zones 1-3 | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -62,8 +57,8 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
 
 Asset - Themed Zones 1-3
 ========================
@@ -138,9 +133,9 @@ The Policy ID for all rarities of the Themed Zones 1 - 3 is: ​07b39a8ead0ef1e3
 
 NOTE: The Art Style of some of the buildings within the Land Plots is defined by the rarity of the land. For example a Rare Farmhouse will look different to a Mythic Farmhouse. Some of the differences may be subtle some may be huge.
 
-Ownership of property establishes permanent [District Community Membership](/gameplay/themed-zones/sectors/land-sector-districts). If a player chooses, they will be able to [rent their property](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key) out to other players.
+Ownership of property establishes permanent [District Community Membership](/gameplay/themed-zones/sectors/land-sector-districts). If a player chooses, they will be able to [rent their property](/on-chain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key) out to other players.
 
-Each land Asset comes with [Staking Rewards](/gameplay/about-the-game/stake-and-earn).
+Each land Asset comes with Staking Rewards.
 
 Size
 
@@ -178,7 +173,7 @@ The Asset Sales were an incredible success with the Cornucopias in-house built A
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252F0SEUeUlwypFuaWq8XyNl%252FLandSale_SoldOut_SmallPlots_Social.jpg%3Falt%3Dmedia%26token%3De5fe9f45-fbff-4631-b6d5-e59015e0196b&width=768&dpr=4&quality=100&sign=41ad0638&sv=2)
 
-[PreviousGTi - Rampage 2XS OG Custom Jetpack](/blockchain/player-owned-assets/asset-packs/gti-jetpacks/gti-rampage-2xs-og-custom-jetpack)[NextAsset - Seasonal Tenant Key](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)
+[PreviousGTi - Rampage 2XS OG Custom Jetpack](/on-chain/player-owned-assets/asset-packs/gti-jetpacks/gti-rampage-2xs-og-custom-jetpack)[NextAsset - Seasonal Tenant Key](/on-chain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key)
 
 Last updated 1 month ago
 
