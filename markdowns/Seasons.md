@@ -15,31 +15,26 @@ Seasons | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -50,7 +45,6 @@ Seasons | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -67,7 +61,7 @@ Seasons
 
 Life evolves as the days go by ..
 
-The Cornucopias year will be divided into Seasons, which define the passage of time and are used to add an extra layer of gameplay to the Metaverse.
+The Infinity Rising year will be divided into Seasons, which define the passage of time and are used to add an extra layer of gameplay.
 
 The seasons will reflect real life seasons such as Spring, Summer, Autumn and Winter. ​
 
@@ -81,9 +75,9 @@ Each season will also come with unique sets of NFTs that will only ever be avail
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FCAkVqo2sMd7VgR9HLnrN%252Fimage.png%3Falt%3Dmedia%26token%3D26b2f030-b688-48ad-85be-a59fe8a74a22&width=768&dpr=4&quality=100&sign=69abcf6d&sv=2)
 
-[PreviousFish](/gameplay/gameplay-pc/resources/fish)[NextNon-Player Characters](/gameplay/non-player-characters)
+[PreviousFish](/gameplay/gameplay-pc/resources/fish)[NextThemed Zones](/gameplay/themed-zones)
 
-Last updated 1 year ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
