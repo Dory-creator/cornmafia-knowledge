@@ -9,48 +9,44 @@ Valley Raceworx | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
-      * [Atmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)
-      * [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
-      * [Core Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
-      * [Genesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)
-      * [GTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
-      * [Spirra](/blockchain/player-owned-assets/asset-flying-vehicles/spirra)
-      * [Valkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
-      * [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+      * [Atmos](/on-chain/player-owned-assets/asset-flying-vehicles/atmos)
+      * [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
+      * [Core Dynamics](/on-chain/player-owned-assets/asset-flying-vehicles/core-dynamics)
+      * [Genesis](/on-chain/player-owned-assets/asset-flying-vehicles/genesis)
+      * [GTi](/on-chain/player-owned-assets/asset-flying-vehicles/gti)
+      * [Spirra](/on-chain/player-owned-assets/asset-flying-vehicles/spirra)
+      * [Valkyrie](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie)
+      * [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
 
-        + [Valley Raceworx T1](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
-        + [Valley Raceworx T3](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
-      * [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+        + [Valley Raceworx T1](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
+        + [Valley Raceworx T3](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
+      * [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -61,7 +57,6 @@ Valley Raceworx | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -70,9 +65,9 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-3. [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
+3. [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
 Valley Raceworx
 ===============
@@ -89,8 +84,8 @@ Tracktoys. Aerodynamic designs. Stripped back interiors. High speed.
 
 Available models:
 
-* [Valley Raceworx T1](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
-* [Valley Raceworx T3](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
+* [Valley Raceworx T1](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
+* [Valley Raceworx T3](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
 
 ### THE ORIGIN OF VALLEY RACEWORX
 
@@ -110,7 +105,7 @@ Jules Canon’s passion for racing and his commitment to innovation and excellen
 
 [https://www.youtube.com/watch?t=68s&v=UjFaW3Nzg6kwww.youtube.com](https://www.youtube.com/watch?t=68s&v=UjFaW3Nzg6k)
 
-[PreviousValkyrie F9-R](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie/valkyrie-f9-r)[NextValley Raceworx T1](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
+[PreviousValkyrie F9-R](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie/valkyrie-f9-r)[NextValley Raceworx T1](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
 
 Last updated 1 year ago
 
