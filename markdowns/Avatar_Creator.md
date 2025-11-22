@@ -21,31 +21,26 @@ Avatar Creator | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -56,7 +51,6 @@ Avatar Creator | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -74,11 +68,11 @@ Avatar Creator
 
 The interface to create your Avatar
 
-Within Cornucopias players experience the game through a 3D avatar. Using a state-of-the-art avatar creation system, players can use a slider interface to determine their avatar's appearance. This includes body type, skin color, facial features, hair style, hair color and eye color.
+Within Infinity Rising players experience the game through a 3D avatar. Using a state-of-the-art avatar creation system, players can use a slider interface to determine their avatar's appearance. This includes body type, skin color, facial features, hair style, hair color and eye color.
 
 You will play with a single avatar that you will be able to update whenever you please.
 
-Cornucopias has two viewpoints; a third-person view, which means the player sees the game world from a camera that's located at a fixed distance behind and slightly above their avatar. In addition, true first person view where the player sees the world directly from their avatars eyes - this provides a unique viewpoint especially when racing in [Calido Valley](/gameplay/mega-dome-calido-valley/calido-valley-resort/calido-valley-raceway).
+Infinity Rising uses a third-person view, which means the player sees the game world from a camera that's located at a fixed distance behind and slightly above their avatar.
 
 Our avatar style has evolved over the years as we build, test, receive feedback, update, the latest version of the avatars was released in the "Facelift" build on 20th April 2024 and further updated in July 2025. The avatar art style has moved away from the earlier cartoon low poly look and film to more detailed Nanite based models. We are not looking at pure realism but we are heading in that direction.
 
@@ -86,7 +80,7 @@ The updated avatar system is more than just a look and feel update, it comes wit
 
 [PreviousUser Interface](/gameplay/gameplay-pc/user-interface)[NextAvatar Needs System](/gameplay/gameplay-pc/user-interface/avatar-needs-system)
 
-Last updated 4 months ago
+Last updated 9 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
