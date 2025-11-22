@@ -9,48 +9,44 @@ Valley Raceworx T3 | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
-      * [Atmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)
-      * [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
-      * [Core Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
-      * [Genesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)
-      * [GTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
-      * [Spirra](/blockchain/player-owned-assets/asset-flying-vehicles/spirra)
-      * [Valkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
-      * [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+      * [Atmos](/on-chain/player-owned-assets/asset-flying-vehicles/atmos)
+      * [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
+      * [Core Dynamics](/on-chain/player-owned-assets/asset-flying-vehicles/core-dynamics)
+      * [Genesis](/on-chain/player-owned-assets/asset-flying-vehicles/genesis)
+      * [GTi](/on-chain/player-owned-assets/asset-flying-vehicles/gti)
+      * [Spirra](/on-chain/player-owned-assets/asset-flying-vehicles/spirra)
+      * [Valkyrie](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie)
+      * [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
 
-        + [Valley Raceworx T1](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
-        + [Valley Raceworx T3](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
-      * [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+        + [Valley Raceworx T1](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)
+        + [Valley Raceworx T3](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
+      * [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -61,7 +57,6 @@ Valley Raceworx T3 | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -73,10 +68,10 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-3. [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-4. [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
+3. [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+4. [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
 
 Valley Raceworx T3
 ==================
@@ -85,7 +80,7 @@ A "built-for-racing" Asset launched on 11th July 2023, part of the Flying Vehicl
 
 The 2023 T3 by Valley Raceworx is a revolutionary flying super vehicle, blending high end sports vehicle aesthetics with advanced jet technology. It features an aerodynamic body, triple jet turbo exhausts, and an innovative fin for optimal stability and efficiency, ensuring an unparalleled flying experience. Inside, riders are greeted with a plush, high-tech cockpit with state-of-the-art controls. This novel venture marks Valley Raceworx’s bold entry into the flying vehicle arena in Cornucopias, setting new benchmarks. Experience the perfect fusion of aggressive luxury and speed with the extraordinary 2023 T3.
 
-The Valley Raceworx T3 is a flying vehicle that is used to travel from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the [City](/gameplay/city-life). It can also be used for racing and is a Racing Class A vehicle.
+The Valley Raceworx T3 is a flying vehicle that is used to travel from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the City. It can also be used for racing and is a Racing Class A vehicle.
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FvQ3DdlhTj6bIFB17TWXZ%252Fimage.png%3Falt%3Dmedia%26token%3Df77d4376-2bcd-4167-9122-622563372e45&width=768&dpr=4&quality=100&sign=95cfc0e9&sv=2)
 
@@ -119,15 +114,15 @@ Policy ID: ba6015d1f4ba32815ce34831e9b033b1918a849931ae8b67cdeef74d
 
 The Valley Raceworx T3 has the following utility within Cornucopias
 
-* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the [City](/gameplay/city-life).
-* It can be used for[**racing**](/gameplay/gameplay-pc/custom-domes/custom-dome-game-templates-pvp/racing-bubblejett-and-javelin)in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
-* You will be able to [**rent**](/gameplay/themed-zones/transport/flying-vehicles/flying-vehicle-renting) your Asset to other players to play or race with.
+* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the City.
+* It can be used for**racing**in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
+* You will be able to **rent** your Asset to other players to play or race with.
 * You will be able to **stake** your Asset.
 * It **looks** great in the racing lobby and you will be able to show it off to other racers when they are waiting to race in the same racing lobby as you.
-* As an [Asset](/blockchain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
+* As an [Asset](/on-chain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
 * **You own the Asset and will be able to sell or trade it.**
 
-[See also rarity colors](/blockchain/player-owned-assets#text-formatting)
+[See also rarity colors](/on-chain/player-owned-assets#text-formatting)
 
 This was the first mint to use the new Corn Points system to ensure a fairer mint for Active and Long Term Community Members
 
@@ -166,8 +161,8 @@ A view of the Sky Silver - Legendary - Valley Raceworx T3 as seen in COPI Cafe E
 
 Marketing Image for the T3
 
-A concept version of the T3 was available to race at [cNFTCon 2022](/gameplay/community/status-updates-archive/status-updates-2022/october-2022/cnftcon-2022) that was held in Las Vegas, Nevada - USA
+A concept version of the T3 was available to race at cNFTCon 2022 that was held in Las Vegas, Nevada - USA
 
-[PreviousValley Raceworx T1](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)[NextRando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+[PreviousValley Raceworx T1](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t1)[NextRando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
 
 Last updated 1 month ago
