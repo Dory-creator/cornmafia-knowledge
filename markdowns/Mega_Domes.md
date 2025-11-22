@@ -26,31 +26,26 @@ Mega Domes | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -61,7 +56,6 @@ Mega Domes | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -83,13 +77,11 @@ The Mega Domes are extremely large floating domes, which serve as venues for eSp
 
 The design of the Mega Dome environment will be built in-house to begin with followed in the future by a 'no-code' system that uses a combination of templates and land building tools.
 
-The first Mega Dome will host the Cornucopias [Racing League](/gameplay/gameplay-esports-racing-league) and will be called [Calido Valley](/gameplay/mega-dome-calido-valley)
+The first Mega Dome to be built is called [Calido Valley](/gameplay/mega-dome-calido-valley)
 
-More information about Mega Domes will be shown here in the future.
+[PreviousCustom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)[NextFriends List](/gameplay/gameplay-pc/friends-list)
 
-[PreviousCustom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)[NextEquipment](/gameplay/gameplay-pc/equipment)
-
-Last updated 1 month ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
