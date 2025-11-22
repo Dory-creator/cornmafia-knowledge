@@ -15,33 +15,26 @@ Clothing | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -52,7 +45,6 @@ Clothing | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -70,16 +62,14 @@ Copy
 Clothing
 ========
 
-Every player can select a basic outfit to start out with. Further clothes can be purchased from the marketplace as [NFTs](/blockchain/player-owned-assets) or crafted. This includes hats, tops, bottoms, shoes and accessories.
+Every player can select a basic outfit to start out with. Further clothes can be purchased from the marketplace as [Player Owned Assets](/on-chain/player-owned-assets) or crafted in game using In Game Currency (IGC). This includes hats, outfits, shoes and accessories.
 
 Clothing can be obtained by:
 
-* Purchase.
-* Looted from themed zones.
-* Rewards for quests.
-* Crafted by players.
-
-Unique clothing sets can be purchased from the marketplace as NFTs.
+* Looted from themed zones
+* Rewards for quests
+* Crafted by players
+* Purchasing Premium Player Owned Assets
 
 Backpacks
 ---------
@@ -89,11 +79,11 @@ Backpacks are an optional clothing accessory. They provide utility for players s
 Badges
 ------
 
-Players can earn, buy and be rewarded with badges in Cornucopias. These can be displayed on the character to show other players.
+Players can earn, buy and be rewarded with badges in Infinity Rising. These can be displayed on the character to show other players.
 
 [PreviousSaving Location](/gameplay/gameplay-pc/user-interface/saving-location)[NextCloud Gates](/gameplay/gameplay-pc/cloud-gates)
 
-Last updated 3 years ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
