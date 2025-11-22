@@ -9,7 +9,6 @@ Transport | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -19,21 +18,18 @@ Transport | RISEWiki
       * [Public Transport](/gameplay/themed-zones/transport/public-transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -44,7 +40,6 @@ Transport | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -65,7 +60,7 @@ Transport
 
 Find out how to travel around the Metaverse
 
-Transport refers to the ways the player commutes across the Cornucopias metaverse.
+Transport refers to the ways the player commutes across Infinity Rising.
 
 There are different types of transportation available which depends on where the player is traveling.
 
@@ -77,18 +72,16 @@ The purest form of transport for players traveling across land. Certain controls
 Mounts
 ------
 
-Traveling by mount is the fastest form of land travel in Cornucopias. The mounts will become available as NFTs with varying levels of functionality including; speed, endurance and cargo capacity.
-
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FeXRFf7I14DDUX3ziUh4o%252Fimage.png%3Falt%3Dmedia%26token%3Db440f721-8d02-4fc7-aa24-73a50265ff0d&width=768&dpr=4&quality=100&sign=1d16d87e&sv=2)
+Traveling by mount is the fastest form of land travel in Infinity Rising. The mounts will become available as NFTs with varying levels of functionality including; speed, endurance and cargo capacity.
 
 Flying Vehicles
 ---------------
 
-Traveling by air will be the most common way to travel, players can own their own [Flying Vehicles](/gameplay/themed-zones/transport/flying-vehicles) in the form of [NFT](/blockchain/player-owned-assets)s.
+Traveling by air will be the most common way to travel, players can own their own [Flying Vehicles](/gameplay/themed-zones/transport/flying-vehicles) in the form of [Player owned Assets](/on-chain/player-owned-assets).
 
 [PreviousTannery](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tannery)[NextFlying Vehicles](/gameplay/themed-zones/transport/flying-vehicles)
 
-Last updated 1 year ago
+Last updated 9 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
