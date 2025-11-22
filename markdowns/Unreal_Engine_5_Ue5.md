@@ -9,35 +9,29 @@ Unreal Engine 5 (UE5) | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
 
     - [Agile Methodology](/the-company/technology/agile-methodology)
-    - [APIs](/the-company/technology/apis)
-    - [COPI Nodes](/the-company/technology/copi-nodes)
+    - [Nodes](/the-company/technology/nodes)
     - [Cross Chain Technology](/the-company/technology/cross-chain-technology)
     - [Game Devices](/the-company/technology/game-devices)
-    - [Microsoft .Net Framework](/the-company/technology/microsoft-.net-framework)
     - [Unreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -46,7 +40,6 @@ Unreal Engine 5 (UE5) | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -65,26 +58,22 @@ Unreal Engine 5 (UE5)
 
 Unreal Engine 5 (UE5) is the worlds most advanced 3D creation tool built and maintained by [Epic Games](https://www.unrealengine.com/en-US/).
 
-The initial prototypes for Cornucopias were built using the Unreal Engine 4, and the development team began the port to Unreal Engine 5 in April 2022 - see [Roadmap](/gameplay/about-the-game/road-map).
+The initial prototypes for Infinity Rising were built using the Unreal Engine 4, and the development team began the port to Unreal Engine 5 in April 2022 - see [Roadmap](/gameplay/about-the-game/road-map).
 
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FfSPfN8APfTx2Chb4emuy%252Funreal.png%3Falt%3Dmedia%26token%3Ddc079a9e-8e4e-49da-9a79-98e0ba84dbb2&width=768&dpr=4&quality=100&sign=4e7e97da&sv=2)
+Infinity Rising are/will be developing the following using Unreal Engine:
 
-Cornucopias are/will be developing the following using Unreal Engine:
-
-* [Windows Desktop PC version of Cornucopias](/gameplay/gameplay-pc) (in progress)
-* [XBOX version of Cornucopias](/the-company/technology/game-devices/games-consoles) (not started yet)
-* [PlayStation version of Cornucopias](/the-company/technology/game-devices/games-consoles) (not started yet)
-* [Nintendo version of Cornucopias](/the-company/technology/game-devices/games-consoles) (not started yet)
-* [Smart TV version of Cornucopias](/the-company/technology/game-devices/smart-tv) (not started yet)
-* A version of Cornucopias that can be played using Virtual Reality (VR) (not started yet)
-* A version of Cornucopias that can be played using Augmented Reality (AR) (not started yet)
+* [Windows Desktop PC version](/gameplay/gameplay-pc) (currently in progress)
+* [XBOX version](/the-company/technology/game-devices/games-consoles) (not started yet)
+* [PlayStation version](/the-company/technology/game-devices/games-consoles) (not started yet)
+* [Nintendo version](/the-company/technology/game-devices/games-consoles) (not started yet)
+* [Smart TV version](/the-company/technology/game-devices/smart-tvs) (not started yet)
 * Other forms of the game to be announced in the future
 
 All kinds of technology including VR, AR, Green Screens and [Real-Time Motion Capture](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars) will be used in the future.
 
-[PreviousMicrosoft .Net Framework](/the-company/technology/microsoft-.net-framework)[NextVisions and Values](/the-company/visions-and-values)
+[PreviousSmart TVs](/the-company/technology/game-devices/smart-tvs)[NextVisions and Values](/the-company/visions-and-values)
 
-Last updated 9 months ago
+Last updated 3 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
