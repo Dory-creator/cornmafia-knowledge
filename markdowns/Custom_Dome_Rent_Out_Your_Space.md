@@ -26,33 +26,26 @@ Custom Dome - Rent out your Space | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +56,6 @@ Custom Dome - Rent out your Space | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -81,7 +73,7 @@ Custom Dome - Rent out your Space
 
 Your Space to do with what you will
 
-The custom dome is an NFT and therefore if you own the custom dome it is up to you what you want to do with it.
+The custom dome is a Player Owned Asset and therefore if you own the custom dome it is up to you what you want to do with it.
 
 We will provide the tools, user interface and marketplace for you to rent out your custom domes to other players:
 
@@ -89,17 +81,13 @@ We will provide the tools, user interface and marketplace for you to rent out yo
 * Medium term - up to 3 or 6 months.
 * Long term - annual contracts.
 
-From an end user point of view, once you have agreed a rental period, we will be taking care of the technical linking of the NFT to your account to ensure your space doesn't disappear.
+From an end user point of view, once you have agreed a rental period, we will be taking care of the technical linking of the Player Owned Assets to your account to ensure your space doesn't disappear.
 
 From an owners point of view we will ensure you are paid your rent on time.
 
-If the custom dome NFT is sold during the rental period, we will ensure the terms of the contract stay the same and re-direct the rental to the new owners.
-
-There are a limited number of custom domes available so this could be your chance to own a special piece of the land in the Cornucopias metaverse.
-
 [PreviousCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)[NextCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)
 
-Last updated 1 month ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
