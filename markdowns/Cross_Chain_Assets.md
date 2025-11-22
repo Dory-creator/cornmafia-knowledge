@@ -9,29 +9,23 @@ Cross Chain Assets | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
 
-    - [Cross Chain Assets](/blockchain/marketplace/cross-chain-assets)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+    - [Cross Chain Assets](/on-chain/marketplace/cross-chain-assets)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -42,7 +36,6 @@ Cross Chain Assets | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -51,8 +44,8 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [Marketplace](/blockchain/marketplace)
+1. [🌐ON CHAIN](/on-chain)
+2. [Marketplace](/on-chain/marketplace)
 
 Cross Chain Assets
 ==================
@@ -61,13 +54,13 @@ There may be other Assets that reside within your blockchain wallet. We provide 
 
 Some Assets can be displayed on your character, and others can be displayed on other items in-game. For example on a picture in your home bubble house or on the side of various objects (more details on this in the future).
 
-For some projects, Cornucopias will go a lot further with interoperability. Some non-related Cornucopias Assets will find first class citizenship within the metaverse game.
+For some projects, Infinity Rising will go a lot further with interoperability. Some non-related Infinity Rising Assets will find first class citizenship within the metaverse game.
 
-Through our partner network, we select quality projects and integrate them directly. Imagine racing a horse or car in Cornucopias using an Asset you had long forgotten about - did this game just get better and better?
+Through our partner network, we select quality projects and integrate them directly. Imagine racing a horse or car in Infinity Rising using an Asset you had long forgotten about - did this game just get better and better?
 
-[PreviousMarketplace](/blockchain/marketplace)[NextPLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+[PreviousMarketplace](/on-chain/marketplace)[NextPlayer Owned Assets](/on-chain/player-owned-assets)
 
-Last updated 1 month ago
+Last updated 21 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
