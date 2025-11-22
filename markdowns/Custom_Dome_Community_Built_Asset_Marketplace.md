@@ -26,33 +26,26 @@ Custom Dome - Community Built Asset Marketplace | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +56,6 @@ Custom Dome - Community Built Asset Marketplace | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -85,17 +77,13 @@ There are opportunities within the Cornucopias metaverse for content creators to
 
 You could create:
 
-* [Nightclub](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nightclub-experience) venues - interior and exterior.
-* [Theater/Stage/Bars](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-theatre-stage-live-audience-experience) venues - interior and exterior.
-* Game assets - e.g. interior furniture/props.
-
-All assets will be sold as an NFT and ownership will be transferred to the player that purchases the NFT.
-
-We will provide a decentralized marketplace and release more information about this in the future.
+* [Nightclub](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-nightclub-experience) venues - interior and exterior
+* [Theater/Stage/Bars](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-theatre-stage-live-audience-experience) venues - interior and exterior
+* Game assets - e.g. interior furniture/props
 
 [PreviousCustom Dome - Building Kits & Gameplay Kits](/gameplay/gameplay-pc/custom-domes/custom-dome-building-kits-and-gameplay-kits)[NextCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)
 
-Last updated 1 month ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
