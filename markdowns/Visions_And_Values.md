@@ -9,25 +9,21 @@ Visions and Values | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -38,12 +34,9 @@ Visions and Values | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
-
-![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252F0jrjNXBrk7KWyz3ZVGvW%252FCOPI_Wiki_Titles_COPIVisions%252BValues.jpg%3Falt%3Dmedia%26token%3Dfad8a9d1-65a7-4ce2-b9a2-6d53e68af5d2&width=1248&dpr=4&quality=100&sign=88e12f49&sv=2)
 
 On this page
 
@@ -65,7 +58,7 @@ Visions and Values
 The Vision
 ----------
 
-The Cornucopias vision is to bring freedom, power, autonomy, and new economics to the player. The emergence of blockchain technology enables Cornucopias to combine real world commerce with an immersive gaming experience which empowers players to [Play-and-Earn](/gameplay/about-the-game/play-and-earn), [Build-and-Earn](/gameplay/about-the-game/build-and-earn), [Host-and-Earn](/gameplay/about-the-game/host-and-earn) and [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn).
+The Infinity Rising vision is to bring freedom, power, autonomy, and new economics to the player. The emergence of blockchain technology enables Infinity Rising to combine real world commerce with an immersive gaming experience which empowers players to Play-and-Earn, Build-and-Earn, [Host-and-Earn](/gameplay/about-the-game/node-hosting) and Learn-and-Earn.
 
 The Values
 ----------
@@ -76,7 +69,7 @@ Hard work, dedication, and endeavor will be rewarded.
 
 ### Equal Opportunity
 
-Cryptocurrency is centered around decentralization and creating a financial level playing field. The metaverse reflects this concept that everyone has the same chance to excel.
+Cryptocurrency is centered around decentralization and creating a financial level playing field. The multiverse reflects this concept that everyone has the same chance to excel.
 
 ### Diversity
 
@@ -84,7 +77,7 @@ Anyone and everyone, regardless of economic background, social class, gender or 
 
 ### Creativity and Innovation
 
-Encouraging players to carve their own path; [Play-and-Earn](/gameplay/about-the-game/play-and-earn), [Build-and-Earn](/gameplay/about-the-game/build-and-earn), [Host-and-Earn](/gameplay/about-the-game/host-and-earn), [Learn-and-Earn](/gameplay/about-the-game/learn-and-earn).
+Encouraging players to carve their own path; Play-and-Earn, Build-and-Earn, [Host-and-Earn](/gameplay/about-the-game/node-hosting), Learn-and-Earn.
 
 ### Community
 
@@ -92,7 +85,7 @@ The game has [Community](/gameplay/community) at its heart. The economy and self
 
 [PreviousUnreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)[NextGame](/documentation/game)
 
-Last updated 9 months ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
