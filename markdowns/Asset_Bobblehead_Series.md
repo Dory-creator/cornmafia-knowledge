@@ -9,35 +9,31 @@ Asset - Bobblehead Series | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -48,7 +44,6 @@ Asset - Bobblehead Series | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -58,25 +53,23 @@ On this page
 * [Bobblehead Series - Farmer Joe - Holiday 2022](#bobblehead-series-farmer-joe-holiday-2022)
 * [Utility](#utility)
 * [Bobblehead Series - Farmer Joe - Holiday 2022 Range](#bobblehead-series-farmer-joe-holiday-2022-range)
-* [NFT Sale Summary](#nft-sale-summary)
+* [Sale Summary](#sale-summary)
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
 
 Asset - Bobblehead Series
 =========================
 
 Farmer Joe - Holiday 2022
 
-The Bobblehead series of Assets are a fun addition to the Cornucopias Asset set.
+The Bobblehead series of Assets are a fun addition to the Infinity Rising Asset set.
 
 They will be able to be placed on some of the flying vehicles that have a large dashboard. They will also be able to be placed within your Home Bubble.
 
-This was the first Asset sale for Cornucopias that used the Cornucopias $COPI as a form of payment and heralds a major leap forward in the Utility of the $COPI token.
-
-A snapshot of ADA (₳) = $0.3123 and Cornucopias $COPI = $0.01773 @ 1500UTC on 12th December 2022​ was noted - the price **was not** used in calculating the price of the Assets in ADA (₳) or $COPI.
+A snapshot of ADA (₳) = $0.3123 and $COPI = $0.01773 @ 1500UTC on 12th December 2022​ was noted - the price **was not** used in calculating the price of the Assets in ADA (₳) or $COPI.
 
 Bobblehead Series - Farmer Joe - Holiday 2022
 ---------------------------------------------
@@ -89,7 +82,7 @@ Bobblehead Series - Farmer Joe - Holiday 2022
 
 **or Mint Price 2:** 7 ADA (₳) ($1.8)
 
-**Delivery Method:** via Cornucopias internally built marketplace​​
+**Delivery Method:** via Infinity Rising internally built marketplace​​
 
 #### Secondary Market
 
@@ -110,12 +103,12 @@ The Policy ID for all rarities of the Bobblehead Series is: **b024c9cbca03eb9ab4
 
 ### Utility
 
-The Bobbleheads have the following utility within Cornucopias
+The Bobbleheads have the following utility within Infinity Rising
 
 * It is an **ornamental item** that can be **placed** on the dashboard of flying vehicles with compatible dashboards e.g. Bubblejett Sprinter.
 * It **looks** great placed on a table in your Sector Hub Home.
 * Acts as a Tier 1 access pass to future Bobblehead mints.
-* As an [Asset,](/blockchain/player-owned-assets) it will form part of your Cornucopias Asset **collection.**
+* As a player owned [asset,](/on-chain/player-owned-assets) it will form part of your Infinity Rising Asset **collection.**
 * **You own the** Asset **asset and will be able to sell or trade it.**
 
 ### Bobblehead Series - Farmer Joe - Holiday 2022 Range
@@ -140,10 +133,14 @@ Gold - **Mythic** - only 300 in existence
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252F1TZsaSjTJwZxkig942lD%252FNFT_FJHoliday22_Mythic.gif%3Falt%3Dmedia%26token%3Dff254f33-5725-4978-b2cb-c4d0e61c8f90&width=768&dpr=4&quality=100&sign=5eb50073&sv=2)
 
-### NFT Sale Summary
+### Sale Summary
 
-The NFT Mint was a sell out over 4 tiered sales within a few hours.
+The sale was a sell out over 4 tiered sales within a few hours.
 
-[PreviousBurger Barn Deluxe #1 Hat](/blockchain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
+[PreviousBurger Barn Deluxe #1 Hat](/on-chain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
 
-Last updated 1 month ago
+Last updated 59 minutes ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
