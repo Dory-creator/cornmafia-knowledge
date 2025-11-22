@@ -26,33 +26,26 @@ Custom Dome - Motion Capture/Custom Avatars | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +56,6 @@ Custom Dome - Motion Capture/Custom Avatars | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -81,7 +73,7 @@ Custom Dome - Motion Capture/Custom Avatars
 
 Template for a Player owned Custom Domes that can be customized
 
-Cornucopias is built on the Unreal Engine, which is an extremely powerful games and media platform. Cornucopias intends to use as many of the advanced tools available to us as possible.
+Infinity Rising is built on the Unreal Engine, which is an extremely powerful games and media platform. Infinity Rising intends to use as many of the advanced tools available to us as possible.
 
 To bring a truly unique experience to your custom dome guests requires a bit more preparation and equipment.
 
@@ -93,7 +85,7 @@ We can build custom avatars that look like you in real-life or we can create ali
 
 [PreviousCustom Dome - Community Built Asset Marketplace](/gameplay/gameplay-pc/custom-domes/custom-dome-community-built-asset-marketplace)[NextCustom Dome - Rent out your Space](/gameplay/gameplay-pc/custom-domes/custom-dome-rent-out-your-space)
 
-Last updated 1 month ago
+Last updated 3 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
