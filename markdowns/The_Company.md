@@ -9,29 +9,25 @@ COMPLIANCE | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
 
     - [LEGALS](/the-company/compliance/legals)
-    - [COPIWiki - Language and Dictionaries](/the-company/compliance/copiwiki-language-and-dictionaries)
+    - [Language and Dictionaries](/the-company/compliance/language-and-dictionaries)
     - [Players Safety](/the-company/compliance/players-safety)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -42,7 +38,6 @@ COMPLIANCE | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -56,15 +51,15 @@ Copy
 COMPLIANCE
 ==========
 
-Coprnucopias respects the privacy of its players and recognizes the importance of providing a secure environment for personal information and non-personal information
+Infinity Rising respects the privacy of its players and recognizes the importance of providing a secure environment for personal information and non-personal information
 
 **Infinity Rising** is the data controller for the processing of your personal information, a registered company. For the performance of certain games and platform services, your information may be controlled. Contact information for the Data Protection Officer is available upon request.
 
 A Data Protection Impact Analysis (DPIA) is underway to comply with the latest Data legalisation in the UK, EU & US jurisdictions. This will put Infinity Rising at the forefront of global data compliance and make sure we strictly adhere to all regulations both in Europe, North America and globally.
 
-[PreviousRando's Metalworks - Meat Grinder](/blockchain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)
+[PreviousRando's Metalworks - Meat Grinder](/on-chain/player-owned-assets/asset-weapons/randos-metalworks-weapons/randos-metalworks-meat-grinder)[NextLEGALS](/the-company/compliance/legals)
 
-Last updated 57 minutes ago
+Last updated 21 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
