@@ -9,38 +9,32 @@ Cardano Blockchain | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
 
     - [Agile Methodology](/the-company/technology/agile-methodology)
-    - [APIs](/the-company/technology/apis)
-    - [COPI Nodes](/the-company/technology/copi-nodes)
+    - [Nodes](/the-company/technology/nodes)
     - [Cross Chain Technology](/the-company/technology/cross-chain-technology)
 
       * [BASE Chain](/the-company/technology/cross-chain-technology/base-chain)
       * [Cardano Blockchain](/the-company/technology/cross-chain-technology/cardano-blockchain)
     - [Game Devices](/the-company/technology/game-devices)
-    - [Microsoft .Net Framework](/the-company/technology/microsoft-.net-framework)
     - [Unreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -49,7 +43,6 @@ Cardano Blockchain | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -75,12 +68,12 @@ With a leading team of engineers, Cardano exists to redistribute power from unac
 
 ### **How** Infinity Rising **uses the Cardano Blockchain**
 
-* Infinity Rising mints 'native' [NFTs](/blockchain/player-owned-assets) on the Cardano blockchain.
-* $COPI Token is available to buy/sell/trade on Cardano using Dexs CEXs and DEXs.
+* Infinity Rising mints Player Owned Assetson the Cardano blockchain.
+* $RISE is available to buy/sell/trade on Cardano using CEXs and DEXs.
 
 [PreviousBASE Chain](/the-company/technology/cross-chain-technology/base-chain)[NextGame Devices](/the-company/technology/game-devices)
 
-Last updated 1 hour ago
+Last updated 3 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
