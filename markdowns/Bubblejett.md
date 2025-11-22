@@ -9,50 +9,46 @@ Bubblejett | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
-      * [Atmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)
-      * [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
+      * [Atmos](/on-chain/player-owned-assets/asset-flying-vehicles/atmos)
+      * [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
 
-        + [Bubblejett Bonanza OG Custom 2023](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
-        + [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
-        + [Bubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
-        + [Bubblejett Super Phantom 2024](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
-      * [Core Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
-      * [Genesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)
-      * [GTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
-      * [Spirra](/blockchain/player-owned-assets/asset-flying-vehicles/spirra)
-      * [Valkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
-      * [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
-      * [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+        + [Bubblejett Bonanza OG Custom 2023](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
+        + [Bubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
+        + [Bubblejett Sprinter OG Custom 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
+        + [Bubblejett Super Phantom 2024](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
+      * [Core Dynamics](/on-chain/player-owned-assets/asset-flying-vehicles/core-dynamics)
+      * [Genesis](/on-chain/player-owned-assets/asset-flying-vehicles/genesis)
+      * [GTi](/on-chain/player-owned-assets/asset-flying-vehicles/gti)
+      * [Spirra](/on-chain/player-owned-assets/asset-flying-vehicles/spirra)
+      * [Valkyrie](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie)
+      * [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+      * [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +59,6 @@ Bubblejett | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -72,9 +67,9 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-3. [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
+3. [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
 Bubblejett
 ==========
@@ -86,12 +81,12 @@ Bubblejett is a vehicle manufacturer in the Cornucopias metaverse.
 Available models:
 
 * Bubblejett Bonanza (more details coming soon)
-* [Bubblejett Bonanza OG Custom](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
+* [Bubblejett Bonanza OG Custom](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
 * Bubblejett Cruiser (more details coming soon)
 * Bubblejett Prima (more details coming soon)
-* [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
-* [Bubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
-* [Bubblejett Super Phantom 2024](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
+* [Bubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
+* [Bubblejett Sprinter OG Custom 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
+* [Bubblejett Super Phantom 2024](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FafwA2kJUNE01ZvzSBeB6%252Fimage.png%3Falt%3Dmedia%26token%3Db4d00a81-4a23-48fb-91ae-3f1ba5ebfe17&width=768&dpr=4&quality=100&sign=2e1ddd63&sv=2)
 
@@ -101,7 +96,7 @@ Bubblejett Logo
 
 Vehicles for every lifestyle. A versatile portfolio united by style - curved lines and winged finishes.
 
-[PreviousAtmos Juggernaut 2024](/blockchain/player-owned-assets/asset-flying-vehicles/atmos/atmos-juggernaut-2024)[NextBubblejett Bonanza OG Custom 2023](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
+[PreviousAtmos Juggernaut 2024](/on-chain/player-owned-assets/asset-flying-vehicles/atmos/atmos-juggernaut-2024)[NextBubblejett Bonanza OG Custom 2023](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
 
 Last updated 1 year ago
 
