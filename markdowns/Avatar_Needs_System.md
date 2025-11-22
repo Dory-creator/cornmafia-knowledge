@@ -21,31 +21,26 @@ Avatar Needs System | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -56,7 +51,6 @@ Avatar Needs System | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -88,8 +82,6 @@ The player must fulfil **nutritional** requirements. This entails a resource con
 
 **Weather** conditions will affect an avatar's physical abilities. For instance, additional water will be required to stay hydrated in Sectors with a hotter climate. In addition, players are required to wear clothing to match their environment. For example, a winter coat when traversing natural landscapes in colder sectors. This in-game function will create demand for a variety of clothing items and help fuel the fashion industry.
 
-Traditional games incorporate a basic health and stamina system. In contrast, Cornucopias is aiming to create an ambitious metaverse, adding additional layers of immersion and player management.
-
 Avatars who engage in strenuous physical activity will find a greater need for these systems as their nutrition will be depleted at a much faster rate.
 
 Some places to acquire food and drink include:
@@ -106,7 +98,7 @@ It is possible for the avatar to faint if their energy is depleted. In this case
 
 [PreviousAvatar Creator](/gameplay/gameplay-pc/user-interface/avatar-creator)[NextCrafting](/gameplay/gameplay-pc/user-interface/crafting)
 
-Last updated 4 months ago
+Last updated 8 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
