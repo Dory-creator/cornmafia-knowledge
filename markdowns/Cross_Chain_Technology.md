@@ -9,38 +9,32 @@ Cross Chain Technology | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
 
     - [Agile Methodology](/the-company/technology/agile-methodology)
-    - [APIs](/the-company/technology/apis)
-    - [COPI Nodes](/the-company/technology/copi-nodes)
+    - [Nodes](/the-company/technology/nodes)
     - [Cross Chain Technology](/the-company/technology/cross-chain-technology)
 
       * [BASE Chain](/the-company/technology/cross-chain-technology/base-chain)
       * [Cardano Blockchain](/the-company/technology/cross-chain-technology/cardano-blockchain)
     - [Game Devices](/the-company/technology/game-devices)
-    - [Microsoft .Net Framework](/the-company/technology/microsoft-.net-framework)
     - [Unreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -49,7 +43,6 @@ Cross Chain Technology | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -66,18 +59,14 @@ Cross Chain Technology
 
 Cross chain technology allows transmissions of value and information between different block-chain networks which ensures interoperability.
 
-This will enable Cornucopias to connect with user NFT wallets and share non-Cornucopias NFT data throughout the metaverse.
+Infinity Rising will be able to read blockchain wallets and view Player Owned Assets on the following chains:
 
-For example, Cornucopias will be able to read blockchain wallets and view NFTs on the following chains (with more to come in the future):
-
-* Apex Fusion (launched 2024)
-* [BASE Chain](/the-company/technology/cross-chain-technology/base-chain) (Ethereum Layer 2 - launched 2024)
-* Binance Smart Chain
+* [BASE Chain](/the-company/technology/cross-chain-technology/base-chain)
 * [Cardano](/the-company/technology/cross-chain-technology/cardano-blockchain) Blockchain
 
-[PreviousCOPI Data Node](/the-company/technology/copi-nodes/copi-data-node)[NextBASE Chain](/the-company/technology/cross-chain-technology/base-chain)
+[PreviousData Node](/the-company/technology/nodes/data-node)[NextBASE Chain](/the-company/technology/cross-chain-technology/base-chain)
 
-Last updated 1 year ago
+Last updated 3 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
