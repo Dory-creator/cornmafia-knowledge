@@ -15,31 +15,26 @@ Guilds | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -50,7 +45,6 @@ Guilds | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -67,17 +61,17 @@ Guilds
 
 A Guild is an association of players with mutual interests, practices and ethos in pursuit of a common goal.
 
-Within Cornucopias, [Custom Domes](/gameplay/gameplay-pc/custom-domes) can be used to create guild halls where members can join.
+Within Infinity Rising, [Custom Domes](/gameplay/gameplay-pc/custom-domes) can be used to create guild halls where members can join.
 
 Certain guilds may form for casual players seeking a social experience. Alternatively, certain guilds accommodate dedicated players seeking to earn rewards through success in guild leagues.
 
-Guilds will have control over various valuable [NFT assets](/blockchain/player-owned-assets) in Cornucopias. These assets will be temporarily distributed between guild members for a selected period of time. This creates the incentive for players to join certain Guilds.
+Guilds will have control over various valuable [Player Owned Assets](/on-chain/player-owned-assets) within Infinity Rising. These assets will be temporarily distributed between guild members for a selected period of time. This creates the incentive for players to join certain Guilds.
 
 More information about guilds will be added here in the future. For now, the best information is in the guild channel within [Discord](/gameplay/community/discord).
 
-[PreviousFriends List](/gameplay/gameplay-pc/friends-list)[NextQuest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+[PreviousFriends List](/gameplay/gameplay-pc/friends-list)[NextQuest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
 
-Last updated 1 year ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
