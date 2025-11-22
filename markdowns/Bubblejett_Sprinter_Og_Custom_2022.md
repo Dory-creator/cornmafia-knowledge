@@ -9,52 +9,46 @@ Bubblejett Sprinter OG Custom 2022 | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
-      * [Atmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)
-      * [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
+      * [Atmos](/on-chain/player-owned-assets/asset-flying-vehicles/atmos)
+      * [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
 
-        + [Bubblejett Bonanza OG Custom 2023](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
-        + [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
-        + [Bubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
-        + [Bubblejett Super Phantom 2024](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
-      * [Core Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
-      * [Genesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)
-      * [GTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
-      * [Spirra](/blockchain/player-owned-assets/asset-flying-vehicles/spirra)
-      * [Valkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
-      * [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
-      * [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+        + [Bubblejett Bonanza OG Custom 2023](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
+        + [Bubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
+        + [Bubblejett Sprinter OG Custom 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
+        + [Bubblejett Super Phantom 2024](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
+      * [Core Dynamics](/on-chain/player-owned-assets/asset-flying-vehicles/core-dynamics)
+      * [Genesis](/on-chain/player-owned-assets/asset-flying-vehicles/genesis)
+      * [GTi](/on-chain/player-owned-assets/asset-flying-vehicles/gti)
+      * [Spirra](/on-chain/player-owned-assets/asset-flying-vehicles/spirra)
+      * [Valkyrie](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie)
+      * [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+      * [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -65,7 +59,6 @@ Bubblejett Sprinter OG Custom 2022 | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -77,23 +70,23 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-3. [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-4. [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
+3. [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+4. [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
 
 Bubblejett Sprinter OG Custom 2022
 ==================================
 
 An exclusive Asset launched on 11th April 2022 and given FREE to OG Role holders of the Cornucopias Discord, part of the Flying Vehicle Series
 
-The [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett) Sprinter OG Custom 2022 is a flying vehicle that is used to travel from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the [City](/gameplay/city-life). It can also be used for racing and is a Racing Class B vehicle.
+The [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett) Sprinter OG Custom 2022 is a flying vehicle that is used to travel from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the City. It can also be used for racing and is a Racing Class B vehicle.
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FGxOPMez64jwOkE5ZaI14%252Fimage.png%3Falt%3Dmedia%26token%3D19c2fe24-0b3f-45e4-8b77-3f3177bdd690&width=768&dpr=4&quality=100&sign=a66cfb7f&sv=2)
 
-The OG Edition was created for early supporters who joined the [Cornucopias Discord](/gameplay/community/social-media) and was given to them for FREE (a small transaction fee to mint and send was required; this was less than 1 ADA).
+The OG Edition was created for early supporters who joined the Cornucopias Discord and was given to them for FREE (a small transaction fee to mint and send was required; this was less than 1 ADA).
 
-The [OG role](/gameplay/non-player-characters/npc-the-old-guard-og) is awarded to members of the community that have shown their support through helping others, being respectful and kind, and having genuine conversations in chat with fellow community members.
+The OG role is awarded to members of the community that have shown their support through helping others, being respectful and kind, and having genuine conversations in chat with fellow community members.
 
 The OG role is still open to all to obtain, to find out more visit [Discord](/gameplay/community/discord) and go to the #how-to-become-og thread.
 
@@ -110,7 +103,7 @@ Don't do these things... if you want to become an OG
 
 **Minted:** 11th April 2022
 
-**Mint Price:** FREE to [OG Role Holders](/gameplay/non-player-characters/npc-the-old-guard-og) - (apart from < 1 ADA to cover transaction fees)
+**Mint Price:** FREE to OG Role Holders - (apart from < 1 ADA to cover transaction fees)
 
 **Delivery Method:** via Cornucopias internally built marketplace - GIVEN EXCLUSIVELY to [Cornucopias Discord](/gameplay/community/discord) members with the OG role - minted over a 2 week period​.
 
@@ -132,15 +125,15 @@ Policy ID: a4badea66770768b02ff7b9674d445f13016ce901804f45844e00ebd​​
 
 The Bubblejett Sprinter OG Custom 2022 has the following utility within Cornucopias:
 
-* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the [City](/gameplay/city-life).
-* It can be used for[**racing**](/gameplay/gameplay-pc/custom-domes/custom-dome-game-templates-pvp/racing-bubblejett-and-javelin)in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
-* You will be able to [**rent**](/gameplay/themed-zones/transport/flying-vehicles/flying-vehicle-renting) your Asset to other players to play or race with.
+* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the City.
+* It can be used for**racing**in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
+* You will be able to **rent** your Asset to other players to play or race with.
 * You will be able to **stake** your Asset.
 * It **looks** great in your garage and you will be able to show it off to your friends when they visit your Sector Hub.
-* As an [Asset](/blockchain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
+* As an [Asset](/on-chain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
 * **You own the Asset and will be able to sell or trade it.**
 
-[See also rarity colors](/blockchain/player-owned-assets#text-formatting)
+[See also rarity colors](/on-chain/player-owned-assets#text-formatting)
 
 The Bubblejett Sprinter OG Custom 2022 Range
 --------------------------------------------
@@ -171,6 +164,10 @@ All Bubblejett Sprinter OG Custom 2022 have down lights
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252Fwl3ePWtYswdbtn6MCRe0%252Fphoto_2021-12-03_23-29-37.jpg%3Falt%3Dmedia%26token%3Db8355ec2-781d-4791-b047-2a54f8dd4706&width=300&dpr=4&quality=100&sign=aa4abc34&sv=2)![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FccVojPxgjWk57N520zE3%252Fphoto_2021-12-04_00-11-16.jpg%3Falt%3Dmedia%26token%3D115f93da-960e-4927-abaa-a16dd583850d&width=300&dpr=4&quality=100&sign=6d1decaf&sv=2)![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FT5N6NFjvXyVLzaY83ouk%252Fphoto_2021-12-03_23-42-01.jpg%3Falt%3Dmedia%26token%3D5ebe2baf-17b7-4a45-99cc-47b27e95d7ca&width=300&dpr=4&quality=100&sign=ca06d88f&sv=2)![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FcPf4s6QMNZdUj6zl7gCi%252Fphoto_2021-12-04_00-09-11.jpg%3Falt%3Dmedia%26token%3D5ca83db1-80d3-4c4d-9aaa-5f7ebc2bd99b&width=300&dpr=4&quality=100&sign=df7b69fa&sv=2)
 
-[PreviousBubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)[NextBubblejett Super Phantom 2024](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
+[PreviousBubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)[NextBubblejett Super Phantom 2024](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-super-phantom-2024)
 
 Last updated 1 month ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
