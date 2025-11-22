@@ -9,43 +9,35 @@ Public Testing | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
 
     - [Agile Methodology](/the-company/technology/agile-methodology)
-    - [APIs](/the-company/technology/apis)
-    - [COPI Nodes](/the-company/technology/copi-nodes)
+    - [Nodes](/the-company/technology/nodes)
     - [Cross Chain Technology](/the-company/technology/cross-chain-technology)
     - [Game Devices](/the-company/technology/game-devices)
 
       * [PC Desktop](/the-company/technology/game-devices/pc-desktop)
 
         + [Public Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
-      * [Mobile Phone Devices](/the-company/technology/game-devices/mobile-phone-devices)
-      * [Mobile Tablet Devices](/the-company/technology/game-devices/mobile-tablet-devices)
       * [Games Consoles](/the-company/technology/game-devices/games-consoles)
-      * [Smart TV](/the-company/technology/game-devices/smart-tv)
-    - [Microsoft .Net Framework](/the-company/technology/microsoft-.net-framework)
+      * [Smart TVs](/the-company/technology/game-devices/smart-tvs)
     - [Unreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
@@ -54,7 +46,6 @@ Public Testing | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -63,7 +54,7 @@ On this page
 
 * [Current Phase](#current-phase)
 * [Infinity Rising has been tested with the following PC/Laptop GPUs](#infinity-rising-has-been-tested-with-the-following-pc-laptop-gpus)
-* [Current Testing Groups & NFT Role Access](#current-testing-groups-and-nft-role-access)
+* [Current Testing Groups & Player Owned Asset Role Access](#current-testing-groups-and-player-owned-asset-role-access)
 * [Game Access Pass](#game-access-pass)
 * [Current Testing Servers](#current-testing-servers)
 * [Testing Milestones](#testing-milestones)
@@ -82,11 +73,11 @@ CURRENT PHASE: Pre Alpha Testing
 
 Public Testing was opened on 2nd August 2023. Over the following months more people were invited to test and more servers were opened up throughout the World.
 
-Alongside the Infinity Rising Game there is a PC Application known as the ["Game Launcher"](/gameplay/game-launcher), this detects the devices hardware and links to the players Web3 wallet to control game access while in the Testing Phase.
+Alongside the Infinity Rising Game there is a PC Application known as the [Game Launcher](/gameplay/game-launcher), this detects the devices hardware and links to the players Web3 wallet to control game access while in the Testing Phase.
 
 ### Current Phase
 
-Pre Alpha Testing - to begin testing **there is no longer any GPU requirements** however you will still require an NFT to test the Pre-Alpha version. [The list of qualifying NFTs can be found here ..](/the-company/technology/game-devices/pc-desktop/public-testing#current-testing-groups-and-nft-role-access)
+Pre Alpha Testing - to begin testing **there is no longer any GPU requirements** however you will still require a Player Owned Assets or a [Game Access Pass](/the-company/technology/game-devices/pc-desktop/public-testing#game-access-pass) to test the Pre-Alpha version. [The list of qualifying Player Owned Assets can be found here ..](/the-company/technology/game-devices/pc-desktop/public-testing#current-testing-groups-and-nft-role-access)
 
 Click here to see the [Infinity Rising PC requirements](/the-company/technology/game-devices/pc-desktop)..
 
@@ -173,25 +164,25 @@ The following PC/Laptop Graphics Cards (GPU) have been tested:
 * AMD Radeon RX 590
 * AMD Radeon RX 580
 
-### Current Testing Groups & NFT Role Access
+### Current Testing Groups & Player Owned Asset Role Access
 
-The following Roles and NFT Holder Roles have access to testing:
+The following Roles have access to testing:
 
 * Discord "OG | Old Guard" Role
 * Discord "Influencer" Role
-* NFT Holder - Any [Bubblejett Bonanza OG Custom 2023](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
-* NFT Holder - Any [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
-* NFT Holder - Any [Bubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
-* NFT Holder - Any [Valkyrie F9-R 2024](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie/valkyrie-f9-r)
-* NFT Holder - Any [GTi Javelin 2022](/blockchain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022)
-* NFT Holder - Any [Valley Raceworx T3 2023](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
-* NFT Holder - Any [Custom Dome](/blockchain/player-owned-assets/asset-custom-domes)
-* NFT Holder - Any [Themed Zone 1-3 Land Plot](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-* NFT Holder - Any [Backpack or Jetpack](/blockchain/player-owned-assets/asset-packs)
+* Any [Bubblejett Bonanza OG Custom 2023](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-bonanza-og-custom-2023)
+* Any [Bubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
+* Any [Bubblejett Sprinter OG Custom 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
+* Any [Valkyrie F9-R 2024](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie/valkyrie-f9-r)
+* Any [GTi Javelin 2022](/on-chain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022)
+* Any [Valley Raceworx T3 2023](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
+* Any [Custom Dome](/on-chain/player-owned-assets/asset-custom-domes)
+* Any [Themed Zone 1-3 Land Plot](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+* Any [Backpack or Jetpack](/on-chain/player-owned-assets/asset-packs)
 
 ### Game Access Pass
 
-You can also join in with the testing without an NFT by purchasing a Game Access Pass here:
+You can also join in with the testing without a player owned asset by purchasing a Game Access Pass here:
 
 [![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fcdn.filestackcontent.com%2FzOCICSISm6cabIqtYI3M&width=20&dpr=4&quality=100&sign=6e9db8c7&sv=2)Early Access | Infinity RisingInfinity Rising](https://infinityrising.com/early-access)
 
@@ -426,10 +417,26 @@ Ready To Rise
 
 Calido Valley Resort & Raceway & City & Solace 1-3
 
-[PreviousPC Desktop](/the-company/technology/game-devices/pc-desktop)[NextMobile Phone Devices](/the-company/technology/game-devices/mobile-phone-devices)
+16th October 2025
+
+Early Access Pre-Alpha 0.3.5
+
+Infinity Rising
+
+3000
+
+Calido Valley Resort & Raceway & City & Solace 1-3 & Hub
+
+18th October 2025
+
+Early Access Pre-Alpha 0.3.6
+
+Infinity Rising - Hotfix
+
+3000
+
+Calido Valley Resort & Raceway & City & Solace 1-3 & Hub
+
+[PreviousPC Desktop](/the-company/technology/game-devices/pc-desktop)[NextGames Consoles](/the-company/technology/game-devices/games-consoles)
 
 Last updated 1 hour ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
