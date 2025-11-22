@@ -9,47 +9,43 @@ Rando's Metalworks Sunset Speeder 2024 | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
 
-      * [Atmos](/blockchain/player-owned-assets/asset-flying-vehicles/atmos)
-      * [Bubblejett](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett)
-      * [Core Dynamics](/blockchain/player-owned-assets/asset-flying-vehicles/core-dynamics)
-      * [Genesis](/blockchain/player-owned-assets/asset-flying-vehicles/genesis)
-      * [GTi](/blockchain/player-owned-assets/asset-flying-vehicles/gti)
-      * [Spirra](/blockchain/player-owned-assets/asset-flying-vehicles/spirra)
-      * [Valkyrie](/blockchain/player-owned-assets/asset-flying-vehicles/valkyrie)
-      * [Valley Raceworx](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
-      * [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+      * [Atmos](/on-chain/player-owned-assets/asset-flying-vehicles/atmos)
+      * [Bubblejett](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett)
+      * [Core Dynamics](/on-chain/player-owned-assets/asset-flying-vehicles/core-dynamics)
+      * [Genesis](/on-chain/player-owned-assets/asset-flying-vehicles/genesis)
+      * [GTi](/on-chain/player-owned-assets/asset-flying-vehicles/gti)
+      * [Spirra](/on-chain/player-owned-assets/asset-flying-vehicles/spirra)
+      * [Valkyrie](/on-chain/player-owned-assets/asset-flying-vehicles/valkyrie)
+      * [Valley Raceworx](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx)
+      * [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
 
-        + [Rando's Metalworks Sunset Speeder 2024](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+        + [Rando's Metalworks Sunset Speeder 2024](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles/randos-metalworks-sunset-speeder-2024)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -60,7 +56,6 @@ Rando's Metalworks Sunset Speeder 2024 | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -72,10 +67,10 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
-3. [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-4. [Rando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
+3. [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+4. [Rando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)
 
 Rando's Metalworks Sunset Speeder 2024
 ======================================
@@ -124,12 +119,12 @@ The Rando's Metalworks Sunset Speeder is also a flying vehicle that is used to t
 
 The Rando's Metalworks Sunset Speeder 2024 has the following utility within Cornucopias:
 
-* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the [City](/gameplay/city-life).
-* It can be used for[**racing**](/gameplay/gameplay-pc/custom-domes/custom-dome-game-templates-pvp/racing-bubblejett-and-javelin)in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
-* You will be able to [**rent**](/gameplay/themed-zones/transport/flying-vehicles/flying-vehicle-renting) your Asset to other players to play or race with.
+* It is a flying vehicle and is used to **travel** from the Sector Hub to the [Themed Zones](/gameplay/themed-zones) or the City.
+* It can be used for**racing**in a [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) such as [Calido Valley](/gameplay/mega-dome-calido-valley).
+* You will be able to **rent** your Asset to other players to play or race with.
 * You will be able to **stake** your Asset.
 * It **looks** great in your garage and you will be able to show it off to your friends when they visit your Sector Hub.
-* As an [Asset](/blockchain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
+* As an [Asset](/on-chain/player-owned-assets), it will form part of your Cornucopias **Asset collection.**
 * **You own the Asset asset and will be able to sell or trade it.**
 
 The Atmos Juggernaut 2024 Range
@@ -157,6 +152,6 @@ Bare Metal- **Rando's Metalworks** - Sunset Speeder - **Mythic**
 
 ### COPI Leaks
 
-[PreviousRando's Metalworks - Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)[NextAsset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
+[PreviousRando's Metalworks - Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles/randos-metalworks-vehicles)[NextAsset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
 
 Last updated 1 month ago
