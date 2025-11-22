@@ -9,25 +9,21 @@ Gameplay - eSports Racing League | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -38,7 +34,6 @@ Gameplay - eSports Racing League | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -54,53 +49,38 @@ Gameplay - eSports Racing League
 
 eSports - a first for the Cardano Blockchain
 
-The Racing League is being developed alongside the main game and is based within the Cornucopias Metaverse.
+The Racing League is being developed alongside the main game and is based within the Infinity Rising Multiverse.
 
-Hosted in the Calido Valley [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) the racing game introduces the first in-game eSports experience to Cornucopias.
+Hosted in the Calido Valley [Mega Dome](/gameplay/gameplay-pc/custom-domes/mega-domes) the racing game introduces the first in-game eSports experience to Infinity Rising.
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FPB94wtufJTJNz8sP43Ag%252Fimage.png%3Falt%3Dmedia%26token%3D4fcd2003-6e71-4b47-a0fe-64cbe1d1daa3&width=768&dpr=4&quality=100&sign=d5f9c486&sv=2)
 
 Calido Valley Racecourse
 
-It can be seen as a type of "Mini-Game" within Cornucopias with the first released version of the Racing League (the Minimal Viable Product - MVP) being based in the Mega Dome known as [Calido Valley](/gameplay/mega-dome-calido-valley).
-
-In the future the Racing League will also have tracks in other [Themed Zones](/gameplay/themed-zones).
-
 ### Gameplay
 
-To begin with you will get a "Glimpse of Solace" artwork as you enter and get to run around the Mega Dome. There will be a number of activities to do here, even before the racing game begins.
-
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FF3Y4Gz8kUXZFYBy5SZE2%252FSolaceRacingGameEntry.jpg%3Falt%3Dmedia%26token%3D1408197e-3897-4663-8541-8403a07259e4&width=768&dpr=4&quality=100&sign=d6e13983&sv=2)
-
-Outside the Racing Stadium in an attraction called "A Glimpse of Solace"
-
-Then when you enter the Racing Stadium the players will have a choice or Racing Tracks:
-
-* MVP has up to 16 players racing at once
-* Other Modes to follow (not MVP)
-
-There will be a number of Racing Tracks to choose from and these will grow over time.
+There are a number of Racing Tracks to choose from and these will grow over time.
 
 * Yellow Track - Easy Difficulty
 * Purple Track - Medium Difficulty
 * Red Track - Hard Difficulty
 
-Players will be racing against the clock and other players throughout the Season and their times and positions will form part of a number of Leaderboards.
+Players race against the clock and other players throughout the Season and their times and positions will form part of a number of Leaderboards.
 
-Players will be able to race with FREE In-Game [Flying Vehicles](/gameplay/themed-zones/transport/flying-vehicles) and also be able to race with any Cornucopias [NFT](/blockchain/player-owned-assets) vehicles they may have such as:
+Players will be able to race with FREE In-Game [Flying Vehicles](/gameplay/themed-zones/transport/flying-vehicles) and also be able to race with any Infinity Rising [Player Owned Asset](/on-chain/player-owned-assets) vehicles they may have such as:
 
-* [Bubblejett Sprinter 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
-* [Bubblejett Sprinter OG Custom 2022](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
-* [GTi Javelin 2022](/blockchain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022)
-* [Valley Raceworx T3](/blockchain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
+* [Bubblejett Sprinter 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-2022)
+* [Bubblejett Sprinter OG Custom 2022](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022)
+* [GTi Javelin 2022](/on-chain/player-owned-assets/asset-flying-vehicles/gti/gti-javelin-2022)
+* [Valley Raceworx T3](/on-chain/player-owned-assets/asset-flying-vehicles/valley-raceworx/valley-raceworx-t3)
 
 Throughout the [Seasons](/gameplay/gameplay-pc/seasons) there will be lots of Individual and Team based Tournaments for the player to get involved with.
 
 Lots more gameplay information will be released soon...
 
-[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGameplay - Mobile](/gameplay/gameplay-mobile)
+[PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGame Launcher](/gameplay/game-launcher)
 
-Last updated 24 days ago
+Last updated 46 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
