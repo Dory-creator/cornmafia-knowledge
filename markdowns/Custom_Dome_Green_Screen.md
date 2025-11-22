@@ -26,33 +26,26 @@ Custom Dome - Green Screen | RISEWiki
       * [Custom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)
       * [Custom Dome - Green Screen](/gameplay/gameplay-pc/custom-domes/custom-dome-green-screen)
       * [Mega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [Cardano World](/blockchain/cardano-world)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [$COPI Token](/blockchain/usdcopi-token)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +56,6 @@ Custom Dome - Green Screen | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -79,11 +71,11 @@ Copy
 Custom Dome - Green Screen
 ==========================
 
-Cornucopias is built on the Unreal Engine, which is an extremely powerful games and media platform. Cornucopias intends to use as many of the advanced tools available to us as possible. With the use of a green screen we can blend live action with computer graphics wherever you are - at home, in the studio, in a field anywhere practical.
+Infinity Rising is built on the Unreal Engine, which is an extremely powerful games and media platform. Infinity Rising intends to use as many of the advanced tools available to us as possible. With the use of a green screen we can blend live action with computer graphics wherever you are - at home, in the studio, in a field anywhere practical.
 
 [Official link showing how Unreal Engine is transforming media](https://www.unrealengine.com/en-US/solutions/broadcast-live-events?sub_campaign=)
 
-If you host a YouTube channel and are used to green screens, you will feel right at home broadcasting in Cornucopias. If you have never used one before, it is a very cheap way to take your channel to the next level.
+If you host a YouTube channel and are used to green screens, you will feel right at home broadcasting in Infinity Rising. If you have never used one before, it is a very cheap way to take your channel to the next level.
 
 The performance doesn't have to be live either; you can pre-record, edit and then upload your green screen content.
 
@@ -91,7 +83,7 @@ Depending on the size of your space and green screen, you can show anything from
 
 [PreviousCustom Dome - Tickets and Merchandise](/gameplay/gameplay-pc/custom-domes/custom-dome-tickets-and-merchandise)[NextMega Domes](/gameplay/gameplay-pc/custom-domes/mega-domes)
 
-Last updated 1 month ago
+Last updated 2 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
