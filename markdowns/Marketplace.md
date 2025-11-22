@@ -9,27 +9,23 @@ Marketplace | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
 
-    - [Cross Chain Assets](/blockchain/marketplace/cross-chain-assets)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+    - [Cross Chain Assets](/on-chain/marketplace/cross-chain-assets)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -40,7 +36,6 @@ Marketplace | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -49,21 +44,21 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
+1. [🌐ON CHAIN](/on-chain)
 
 Marketplace
 ===========
 
-The Infinity Rising Marketplace was launched in April 2022 and launched with the [Bubblejett Sprinter OG](/blockchain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022) NFT.
+The Infinity Rising Marketplace was launched in April 2022 and launched with the [Bubblejett Sprinter OG](/on-chain/player-owned-assets/asset-flying-vehicles/bubblejett/bubblejett-sprinter-og-custom-2022).
 
-This is where you players will find NFTs for purchase to use in-game when the game launches.
+This is where you players will find player owned assets for purchase to use in-game when the game launches.
 
-* [Cross Chain NFTs](/blockchain/marketplace/cross-chain-assets)
-* [NFTs](/blockchain/player-owned-assets)
+* [Cross Chain Assets](/on-chain/marketplace/cross-chain-assets)
+* [Player Owned Assets](/on-chain/player-owned-assets)
 
-[PreviousCOPIC Stake Pool](/blockchain/copic-stake-pool)[NextCross Chain Assets](/blockchain/marketplace/cross-chain-assets)
+[PreviousCOPIC Stake Pool](/on-chain/copic-stake-pool)[NextCross Chain Assets](/on-chain/marketplace/cross-chain-assets)
 
-Last updated 40 minutes ago
+Last updated 0 minutes ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
