@@ -9,39 +9,26 @@ Discord | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
 
     - [Blog](/gameplay/community/blog)
     - [Café RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)
     - [COPICafé Archive Videos](/gameplay/community/copicafe-archive-videos)
-    - [COPI Q-Wiki](/gameplay/community/copi-q-wiki)
-    - [COPILeaks](/gameplay/community/copileaks)
-    - [COPIShop](/gameplay/community/copishop)
-    - [COPIWatch](/gameplay/community/copiwatch)
-    - [COPIWiki](/gameplay/community/copiwiki)
     - [Discord](/gameplay/community/discord)
-    - [Dev Shorts](/gameplay/community/dev-shorts)
-    - [Social Media](/gameplay/community/social-media)
-    - [Video Specials](/gameplay/community/video-specials)
-    - [Status Updates Archive](/gameplay/community/status-updates-archive)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -52,7 +39,6 @@ Discord | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -66,7 +52,7 @@ On this page
 * [The Masterminds](#the-masterminds)
 * [[CORN] Moderator | [Language]](#corn-moderator-or-language)
 * [Mod In Training](#mod-in-training)
-* [[NFT] Holder](#nft-holder)
+* [[Player Owned Asset] Holder](#player-owned-asset-holder)
 * [Digital Architects](#digital-architects)
 * [Influencer](#influencer)
 
@@ -84,7 +70,7 @@ Discord has played an important part in the history of Infinity Rising and has b
 
 Occasionally there are official Voice AMA (Ask-Me-Anything) events where the creators of Infinity Rising are available to answer community questions.
 
-By being a member of the Infinity Rising Discord, users will be able to see announcements before they are shared on [Social Media](/gameplay/community/social-media). In addition, our backend NFT marketplace uses Discord roles for managing whitelists and website access.
+By being a member of the Infinity Rising Discord, users will be able to see announcements before they are shared on Social Media. In addition, our marketplace uses Discord roles for managing whitelists and website access.
 
 [![Logo](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2Fdiscord.com%2Fassets%2Ffavicon.ico&width=20&dpr=4&quality=100&sign=bbdf2000&sv=2)Join the Infinity Rising Discord Server!Discord](https://discord.gg/Xnb9Jxv2)
 
@@ -123,9 +109,9 @@ Community members helping to support new and existing community members receive 
 
 Community members training to become a full Discord Moderator receive this role.
 
-### **[NFT] Holder**
+### **[Player Owned Asset] Holder**
 
-There are many versions of this discord role and it is given to members who hold and verify individual Infinity Rising [NFTs](/blockchain/player-owned-assets). Some NFTs come with their own discord channel, and some perks of holding this role include a better chance of minting future NFTs.
+There are many versions of this discord role and it is given to members who hold and verify individual Infinity Rising player owned assets. Some assets come with their own discord channel.
 
 ### **Digital Architects**
 
@@ -135,9 +121,9 @@ Community members that have participated in community challenges and won may rec
 
 Community members that are also Social Media influencers, i.e. they run a popular YouTube or Twitter channel, etc, can receive this role.
 
-[PreviousCOPIWiki](/gameplay/community/copiwiki)[NextDev Shorts](/gameplay/community/dev-shorts)
+[PreviousPage 1](/gameplay/community/copicafe-archive-videos/video-to-text-summaries/page-1)[NextBlockchain Wallets](/on-chain/blockchain-wallets)
 
-Last updated 2 hours ago
+Last updated 1 hour ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
