@@ -9,42 +9,38 @@ Asset - Packs | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 
-    - [Asset - Apparel](/blockchain/player-owned-assets/asset-apparel)
-    - [Asset - Bobblehead Series](/blockchain/player-owned-assets/asset-bobblehead-series)
-    - [Asset - Custom Domes](/blockchain/player-owned-assets/asset-custom-domes)
-    - [Asset - File Node Access Key](/blockchain/player-owned-assets/asset-file-node-access-key)
-    - [Asset - Flying Vehicles](/blockchain/player-owned-assets/asset-flying-vehicles)
-    - [Asset - Tree Series](/blockchain/player-owned-assets/asset-tree-series)
-    - [Asset - Packs](/blockchain/player-owned-assets/asset-packs)
+    - [Asset - Apparel](/on-chain/player-owned-assets/asset-apparel)
+    - [Asset - Bobblehead Series](/on-chain/player-owned-assets/asset-bobblehead-series)
+    - [Asset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
+    - [Asset - File Node Access Key](/on-chain/player-owned-assets/asset-file-node-access-key)
+    - [Asset - Flying Vehicles](/on-chain/player-owned-assets/asset-flying-vehicles)
+    - [Asset - Tree Series](/on-chain/player-owned-assets/asset-tree-series)
+    - [Asset - Packs](/on-chain/player-owned-assets/asset-packs)
 
-      * [Blackhorn](/blockchain/player-owned-assets/asset-packs/blackhorn)
-      * [Corn Cutties](/blockchain/player-owned-assets/asset-packs/corn-cutties)
-      * [Kargo Outfitters](/blockchain/player-owned-assets/asset-packs/kargo-outfitters)
-      * [Zero G](/blockchain/player-owned-assets/asset-packs/zero-g)
-      * [Rando's Metalworks - Jetpacks](/blockchain/player-owned-assets/asset-packs/randos-metalworks-jetpacks)
-      * [GTi - Jetpacks](/blockchain/player-owned-assets/asset-packs/gti-jetpacks)
-    - [Asset - Themed Zones 1-3](/blockchain/player-owned-assets/asset-themed-zones-1-3)
-    - [Asset - Weapons](/blockchain/player-owned-assets/asset-weapons)
+      * [Blackhorn](/on-chain/player-owned-assets/asset-packs/blackhorn)
+      * [Corn Cutties](/on-chain/player-owned-assets/asset-packs/corn-cutties)
+      * [Kargo Outfitters](/on-chain/player-owned-assets/asset-packs/kargo-outfitters)
+      * [Zero G](/on-chain/player-owned-assets/asset-packs/zero-g)
+      * [Rando's Metalworks - Jetpacks](/on-chain/player-owned-assets/asset-packs/randos-metalworks-jetpacks)
+      * [GTi - Jetpacks](/on-chain/player-owned-assets/asset-packs/gti-jetpacks)
+    - [Asset - Themed Zones 1-3](/on-chain/player-owned-assets/asset-themed-zones-1-3)
+    - [Asset - Weapons](/on-chain/player-owned-assets/asset-weapons)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -55,7 +51,6 @@ Asset - Packs | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -67,8 +62,8 @@ On this page
 
 Copy
 
-1. [🌐BLOCKCHAIN](/blockchain)
-2. [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+1. [🌐ON CHAIN](/on-chain)
+2. [Player Owned Assets](/on-chain/player-owned-assets)
 
 Asset - Packs
 =============
@@ -80,21 +75,21 @@ There are many pack manufacturers within Cornucopias:
 Backpacks
 ---------
 
-* [Blackhorn](/blockchain/player-owned-assets/asset-packs/blackhorn)
-* [Corn Cutties](/blockchain/player-owned-assets/asset-packs/corn-cutties)
-* [Kargo Outfitters](/blockchain/player-owned-assets/asset-packs/kargo-outfitters)
+* [Blackhorn](/on-chain/player-owned-assets/asset-packs/blackhorn)
+* [Corn Cutties](/on-chain/player-owned-assets/asset-packs/corn-cutties)
+* [Kargo Outfitters](/on-chain/player-owned-assets/asset-packs/kargo-outfitters)
 
 Jetpacks
 --------
 
-* [ZeroG](/blockchain/player-owned-assets/asset-packs/zero-g)
-* [Rando's Metalworks](/blockchain/player-owned-assets/asset-packs/randos-metalworks-jetpacks)
+* [ZeroG](/on-chain/player-owned-assets/asset-packs/zero-g)
+* [Rando's Metalworks](/on-chain/player-owned-assets/asset-packs/randos-metalworks-jetpacks)
 
 [https://www.youtube.com/watch?v=t3OUYqVjyIswww.youtube.com](https://www.youtube.com/watch?v=t3OUYqVjyIs)
 
 Marketing video used for the First Edition Bubblejett Mint launch announcement
 
-[PreviousTree Series 3](/blockchain/player-owned-assets/asset-tree-series/tree-series-3)[NextBlackhorn](/blockchain/player-owned-assets/asset-packs/blackhorn)
+[PreviousTree Series 3](/on-chain/player-owned-assets/asset-tree-series/tree-series-3)[NextBlackhorn](/on-chain/player-owned-assets/asset-packs/blackhorn)
 
 Last updated 1 year ago
 
