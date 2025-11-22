@@ -9,39 +9,26 @@ Community | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
 
     - [Blog](/gameplay/community/blog)
     - [Café RISE - Latest Episodes](/gameplay/community/cafe-rise-latest-episodes)
     - [COPICafé Archive Videos](/gameplay/community/copicafe-archive-videos)
-    - [COPI Q-Wiki](/gameplay/community/copi-q-wiki)
-    - [COPILeaks](/gameplay/community/copileaks)
-    - [COPIShop](/gameplay/community/copishop)
-    - [COPIWatch](/gameplay/community/copiwatch)
-    - [COPIWiki](/gameplay/community/copiwiki)
     - [Discord](/gameplay/community/discord)
-    - [Dev Shorts](/gameplay/community/dev-shorts)
-    - [Social Media](/gameplay/community/social-media)
-    - [Video Specials](/gameplay/community/video-specials)
-    - [Status Updates Archive](/gameplay/community/status-updates-archive)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -52,7 +39,6 @@ Community | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -76,9 +62,9 @@ Community members, also known as Cornucopians, continue to increase every day. T
 
 Users with the most engagement earn OG status and are rewarded for their efforts.
 
-Find us on [Social Media](/gameplay/community/social-media), or read about us on our [Blog](/gameplay/community/blog) or [COPIWatch](/gameplay/community/copiwatch).
+Find us on Social Media, or read about us on our [Blog](/gameplay/community/blog) or COPIWatch.
 
-[PreviousCity - Life](/gameplay/city-life)[NextBlog](/gameplay/community/blog)
+[PreviousGame Launcher](/gameplay/game-launcher)[NextBlog](/gameplay/community/blog)
 
 Last updated 1 year ago
 
