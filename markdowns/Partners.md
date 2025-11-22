@@ -9,32 +9,27 @@ Partners | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
 
     - [Partner Network](/the-company/partners/partner-network)
     - [Partners - Blockchain](/the-company/partners/partners-blockchain)
     - [Partners - Learn-and-Earn](/the-company/partners/partners-learn-and-earn)
-    - [Partners - Metaverse](/the-company/partners/partners-metaverse)
     - [Partners - Strategic / Technology](/the-company/partners/partners-strategic-technology)
   + [Technology](/the-company/technology)
   + [Visions and Values](/the-company/visions-and-values)
@@ -44,12 +39,9 @@ Partners | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
-
-![Page cover](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FIxOCDHPHm3rFROgPJ7es%252FCOPI_Wiki_Titles_Partners.jpg%3Falt%3Dmedia%26token%3D6c7c8d3f-011d-4f04-a1d9-d0ede9645090&width=1248&dpr=4&quality=100&sign=6f9e59e3&sv=2)
 
 On this page
 
@@ -67,12 +59,12 @@ Infinity Rising has an ever-expanding network of partners to ensure success.
 * [Partner Network](/the-company/partners/partner-network)
 * [Partners - Blockchain](/the-company/partners/partners-blockchain)
 * [Partners - Learn-and-Earn](/the-company/partners/partners-learn-and-earn)
-* [Partners - Metaverse](/the-company/partners/partners-metaverse)
+* Partners - Metaverse
 * [Partners - Strategic / Technology](/the-company/partners/partners-strategic-technology)
 
 [PreviousGovernance](/the-company/governance)[NextPartner Network](/the-company/partners/partner-network)
 
-Last updated 1 hour ago
+Last updated 22 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
