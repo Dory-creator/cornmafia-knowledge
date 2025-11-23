@@ -15,10 +15,9 @@ Wood | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
 
       * [Wood](/gameplay/gameplay-pc/resources/wood)
@@ -29,25 +28,21 @@ Wood | RISEWiki
       * [Livestock](/gameplay/gameplay-pc/resources/livestock)
       * [Fish](/gameplay/gameplay-pc/resources/fish)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -58,7 +53,6 @@ Wood | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -77,9 +71,9 @@ Copy
 Wood
 ====
 
-Wood is an essential crafting resource in Cornucopias. This resource can be used to craft tools, buildings and technology within Cornucopias.
+Wood is an essential crafting resource in Infinity Rising. This resource can be used to craft tools, buildings and technology.
 
-The life cycle begins with trees in forests which are cut using axes and converted into logs. These logs are then taken to a [sawmill](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/carpenter) and converted into wood beams by using a table saw. Wood beams can then be taken to a lathe to be converted into specific crafting elements.
+The life cycle begins with trees in the Logging Forests which are cut using axes and converted into logs. These logs are then crafted into wood beams by using a table saw. Wood beams can then be taken to a lathe to be converted into specific crafting elements.
 
 Trees
 -----
@@ -91,11 +85,11 @@ Some trees can only be found in certain zones and can be level restricted. Diffe
 Wood Beams
 ----------
 
-Wood beams are versatile crafting materials which are sourced from various types of trees and are essential for [tools](/gameplay/gameplay-pc/equipment/tools) and building. They are acquired by processing logs at a [sawmill](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/carpenter).
+Wood beams are versatile crafting materials which are sourced from various types of trees and are essential for tools and building. They are acquired by processing logs at a [sawmill](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/carpenter).
 
 [PreviousResources](/gameplay/gameplay-pc/resources)[NextMetal](/gameplay/gameplay-pc/resources/metal)
 
-Last updated 1 year ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
