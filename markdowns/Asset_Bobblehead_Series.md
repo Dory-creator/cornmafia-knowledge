@@ -139,7 +139,7 @@ The sale was a sell out over 4 tiered sales within a few hours.
 
 [PreviousBurger Barn Deluxe #1 Hat](/on-chain/player-owned-assets/asset-apparel/burger-barn-deluxe-1-hat)[NextAsset - Custom Domes](/on-chain/player-owned-assets/asset-custom-domes)
 
-Last updated 59 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
