@@ -64,7 +64,7 @@ Thus, Infinity Rising created a functional version of the game sooner and has a 
 
 [PreviousTechnology](/the-company/technology)[NextNodes](/the-company/technology/nodes)
 
-Last updated 4 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
