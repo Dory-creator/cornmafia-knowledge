@@ -119,4 +119,8 @@ For the latest release schedule, see the [Roadmap](/gameplay/about-the-game/road
 
 [PreviousGame Devices](/the-company/technology/game-devices)[NextPublic Testing](/the-company/technology/game-devices/pc-desktop/public-testing)
 
-Last updated 2 hours ago
+Last updated 1 day ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
