@@ -81,7 +81,7 @@ Infinity Rising Player Owned Assets are designed to be utilized, and that is the
 
 [PreviousCOMPLIANCE](/the-company/compliance)[NextLanguage and Dictionaries](/the-company/compliance/language-and-dictionaries)
 
-Last updated 10 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
