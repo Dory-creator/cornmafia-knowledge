@@ -123,7 +123,7 @@ Community members that are also Social Media influencers, i.e. they run a popula
 
 [PreviousPage 1](/gameplay/community/copicafe-archive-videos/video-to-text-summaries/page-1)[NextBlockchain Wallets](/on-chain/blockchain-wallets)
 
-Last updated 1 hour ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
