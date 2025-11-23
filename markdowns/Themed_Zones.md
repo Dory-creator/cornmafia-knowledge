@@ -66,7 +66,7 @@ Of the twelve themed zones that will be built, three have been announced and ava
 
 [PreviousSeasons](/gameplay/gameplay-pc/seasons)[NextSectors](/gameplay/themed-zones/sectors)
 
-Last updated 1 hour ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
