@@ -89,7 +89,7 @@ The game world has been designed to be expanded upon as new features and functio
 
 [PreviousRoad Map](/gameplay/about-the-game/road-map)[NextThe Origin Story](/gameplay/gameplay-pc/the-origin-story)
 
-Last updated 3 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
