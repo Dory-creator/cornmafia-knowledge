@@ -75,7 +75,7 @@ In return for hosting a Game Node, players will be rewarded with $RISE and/or ot
 
 [PreviousFile Nodes](/the-company/technology/nodes/file-nodes)[NextData Node](/the-company/technology/nodes/data-node)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
