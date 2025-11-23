@@ -144,7 +144,7 @@ DISCLAIMER: These sizes are subject to change \*
 
 [PreviousCloud Gates](/gameplay/gameplay-pc/cloud-gates)[NextCustom Dome - Standard Templates](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
