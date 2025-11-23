@@ -9,7 +9,6 @@ Land Plot - Influence Sphere | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -32,21 +31,18 @@ Land Plot - Influence Sphere | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -57,7 +53,6 @@ Land Plot - Influence Sphere | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -80,7 +75,7 @@ Land Plot - Influence Sphere
 
 Be safe out there!
 
-The Influence Sphere game mechanic may not be implemented on launch day of Cornucopias.
+The Influence Sphere game mechanic has not yet been implemented
 
 ### Influence Sphere - also known as a "Safe Zone"
 
@@ -147,7 +142,7 @@ The Influence Sphere for each land plot resets at the start of each season
 
 [PreviousDistrict - Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots)[NextLand Plot - Property Rentals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-property-rentals)
 
-Last updated 2 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
