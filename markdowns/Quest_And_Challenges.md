@@ -74,7 +74,7 @@ Every [district](/gameplay/themed-zones/sectors/land-sector-districts) will have
 
 [PreviousGuilds](/gameplay/gameplay-pc/guilds)[NextResources](/gameplay/gameplay-pc/resources)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
