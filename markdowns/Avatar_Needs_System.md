@@ -98,7 +98,7 @@ It is possible for the avatar to faint if their energy is depleted. In this case
 
 [PreviousAvatar Creator](/gameplay/gameplay-pc/user-interface/avatar-creator)[NextCrafting](/gameplay/gameplay-pc/user-interface/crafting)
 
-Last updated 8 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
