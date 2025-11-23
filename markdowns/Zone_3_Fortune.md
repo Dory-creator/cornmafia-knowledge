@@ -9,7 +9,6 @@ Zone 3 - Fortune | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -21,21 +20,18 @@ Zone 3 - Fortune | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -46,7 +42,6 @@ Zone 3 - Fortune | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -79,7 +74,7 @@ Themed Zones are divided into 3x Sectors, each approximately 8km x 8km. Each Sec
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252F3gJNui8spMH9hcVAwpUV%252Ffortune.png%3Falt%3Dmedia%26token%3D72fe8105-31d2-4cc2-915b-5478bc1d5f84&width=768&dpr=4&quality=100&sign=1583c2e1&sv=2)
 
-There are 5 sizes of player-owned NFT land:
+There are 5 sizes of player owned land:
 
 * Small Land Plot - 16m x 24m (roughly the size of an NBA basketball court)
 * Medium Land Plot - 24m x 36m
@@ -99,7 +94,7 @@ Each of the Sector Domes within the same Themed Zone are similar in geography bu
 
 * Active volcanos are a huge tourist attraction.
 * Busy districts full of real life players enjoying the lively, friendly community.
-* Lots of [Non-Player-Characters](/gameplay/non-player-characters) (NPCs) to visit and offer daily quests.
+* Lots of Non-Player-Characters (NPCs) to visit and offer daily quests.
 * Town halls and notice boards offer even more quests.
 * Player-owned and free roaming themed farm/wild animals.
 * All sizes of player-owned and upgradeable houses are curated to fit the theme of the zone, with some even available to rent at the choice of the owner.
@@ -122,4 +117,8 @@ There is an underground transport system that will allow players to travel quick
 
 [PreviousZone 2 - Esperanza](/gameplay/themed-zones/sectors/zone-2-esperanza)[NextLand Sector - Districts](/gameplay/themed-zones/sectors/land-sector-districts)
 
-Last updated 1 year ago
+Last updated 1 day ago
+
+This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
+
+AcceptReject
