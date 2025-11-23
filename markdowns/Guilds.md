@@ -71,7 +71,7 @@ More information about guilds will be added here in the future. For now, the bes
 
 [PreviousFriends List](/gameplay/gameplay-pc/friends-list)[NextQuest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
