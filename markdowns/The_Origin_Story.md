@@ -71,7 +71,7 @@ The story awaits...
 
 [PreviousGameplay - PC](/gameplay/gameplay-pc)[NextUser Interface](/gameplay/gameplay-pc/user-interface)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
