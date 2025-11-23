@@ -66,7 +66,7 @@ Infinity Rising will be able to read blockchain wallets and view Player Owned As
 
 [PreviousData Node](/the-company/technology/nodes/data-node)[NextBASE Chain](/the-company/technology/cross-chain-technology/base-chain)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
