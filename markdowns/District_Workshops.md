@@ -9,7 +9,6 @@ District - Workshops | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -36,21 +35,18 @@ District - Workshops | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -61,7 +57,6 @@ District - Workshops | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -80,13 +75,11 @@ District - Workshops
 
 District workshops are buildings in the [Themed Zones](/gameplay/themed-zones), where items are [crafted](/gameplay/gameplay-pc/user-interface/crafting) or repaired. Players throughout the metaverse, can visit workshops when seeking a station to combine [resources](/gameplay/gameplay-pc/resources) to craft which have greater value than their parts. Each workshop will be subcategorized into specific craft-able items including; [blacksmiths](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/blacksmith), [carpenters](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/carpenter), [kitchens](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/kitchen), [tailors](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tailors), [brickworks](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/brickworks) and [tanneries](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tannery).
 
-Every district will have [NPC](/gameplay/non-player-characters) workshops located in proximity to the [Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall).
-
-Most workshops will be located on Player Owned [Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots).
+Every district will have NPC workshops located in proximity to the [Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall).
 
 [PreviousDistrict - Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall)[NextTailors](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tailors)
 
-Last updated 2 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
