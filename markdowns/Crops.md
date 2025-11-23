@@ -15,10 +15,9 @@ Crops | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
 
       * [Wood](/gameplay/gameplay-pc/resources/wood)
@@ -29,25 +28,21 @@ Crops | RISEWiki
       * [Livestock](/gameplay/gameplay-pc/resources/livestock)
       * [Fish](/gameplay/gameplay-pc/resources/fish)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -58,7 +53,6 @@ Crops | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -77,7 +71,7 @@ Copy
 Crops
 =====
 
-Crops are an essential crafting resource in Cornucopias. Their life cycles begin with seeds, which are then planted on farms to be nurtured and gathered as crops.
+Crops are an essential crafting resource in Infinity Rising. Their life cycles begin with seeds, which are then planted on farms to be nurtured and gathered as crops.
 
 This resource can be used to craft meals, essential to player sustenance.
 
@@ -86,7 +80,7 @@ The life cycle begins with seeds, which are planted on farms to be nurtured and 
 Seeds
 -----
 
-Seeds are items capable of developing into crops when planted on farms.
+Seeds are items capable of developing into crops when planted on player owned land farms.
 
 Seeds can be purchased on farms from farm owners if stock is available. The farmer's stock level is populated depending on his farm activity. For every harvest a percentage of the seeds are made available to the farm to sell to visitors.
 
@@ -97,7 +91,7 @@ Crops are food items cultivated from planting and nurturing [seeds](/gameplay/ga
 
 [PreviousPlants](/gameplay/gameplay-pc/resources/plants)[NextLivestock](/gameplay/gameplay-pc/resources/livestock)
 
-Last updated 2 years ago
+Last updated 10 hours ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
