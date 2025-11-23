@@ -78,7 +78,7 @@ From here, you will enter one of the Subway trams that will take you to one of t
 
 [PreviousThemed Zones](/gameplay/themed-zones)[NextZone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
