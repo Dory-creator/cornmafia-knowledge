@@ -61,7 +61,7 @@ Available World Wide, Infinity Rising is built on the latest Unreal Engine 5 gam
 
 [PreviousCudos](/the-company/partners/partners-strategic-technology/cudos)[NextAgile Methodology](/the-company/technology/agile-methodology)
 
-Last updated 58 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
