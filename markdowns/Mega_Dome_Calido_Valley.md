@@ -79,7 +79,7 @@ Max Lachance’s influence is still felt in every race, a testament to his endur
 
 [PreviousPublic Transport](/gameplay/themed-zones/transport/public-transport)[NextCalido Valley Resort](/gameplay/mega-dome-calido-valley/calido-valley-resort)
 
-Last updated 49 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
