@@ -9,7 +9,6 @@ Land Sector - Districts | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -28,21 +27,18 @@ Land Sector - Districts | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -53,7 +49,6 @@ Land Sector - Districts | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -76,15 +71,15 @@ Land Sector - Districts
 
 The place where your daily tasks begin ..
 
-Each Themed Zone Land Sector is subdivided into multiple districts which encompass player and non-player owned; houses, [merchants](/gameplay/themed-zones/sectors/land-sector-districts/district-merchants), [workshops](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops), farms, and other utility buildings. Each district is a community where players can socialize, [quest,](/gameplay/gameplay-pc/quest-and-challenges) craft [equipment](/gameplay/gameplay-pc/equipment) and trade.
+Each Themed Zone Land Sector is subdivided into multiple districts which encompass player and non-player owned; houses, [merchants](/gameplay/themed-zones/sectors/land-sector-districts/district-merchants), [workshops](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops), farms, and other utility buildings. Each district is a community where players can socialize, [quest,](/gameplay/gameplay-pc/quest-and-challenges) craft equipment and trade.
 
 ### Player Land Ownership
 
-Player ownership of land plots is achieved through the acquisition of [NFT Land](/blockchain/player-owned-assets/asset-themed-zones-1-3).
+Player ownership of land plots is achieved through the acquisition of [Player Owned Land](/on-chain/player-owned-assets/asset-themed-zones-1-3).
 
 ### **District Membership**
 
-Players are free to enter and wander around all the districts in the themed zones. Players just visiting one of the zones will be capped on their Play-and-Earn potential. Becoming a member of the district community opens the door to enhanced Play-and-Earn rewards. To become a member of the district, a player can either buy a district property, or [rent](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key) a bedroom in a district property owned by another player.
+Players are free to enter and wander around all the districts in the themed zones. Becoming a member of the district community opens the door to enhanced district quests and rewards. To become a member of the district, a player can either buy a district property, or [rent](/on-chain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key) a bedroom in a district property owned by another player.
 
 ### **The District Community**
 
@@ -100,7 +95,7 @@ There will be various ways to earn income in a district primary coming from trad
 
 [PreviousZone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)[NextDistrict - Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots)
 
-Last updated 1 year ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
