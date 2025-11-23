@@ -76,7 +76,7 @@ Base's off-chain processing model works to significantly reduce costs and the lo
 
 [PreviousCross Chain Technology](/the-company/technology/cross-chain-technology)[NextCardano Blockchain](/the-company/technology/cross-chain-technology/cardano-blockchain)
 
-Last updated 10 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
