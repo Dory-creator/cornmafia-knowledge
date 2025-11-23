@@ -9,7 +9,6 @@ Zone 2 - Esperanza | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -21,21 +20,18 @@ Zone 2 - Esperanza | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -46,7 +42,6 @@ Zone 2 - Esperanza | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -57,7 +52,6 @@ On this page
 * [How to get there](#how-to-get-there)
 * [Once Inside](#once-inside)
 * [Travel](#travel)
-* [COPI Leaks](#copi-leaks)
 
 Copy
 
@@ -80,7 +74,7 @@ Themed Zones are divided into 3x Sectors, each approximately 8km x 8km. Each Sec
 
 ![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FvF6bbFS1DXGRuQzSmINv%252Fesperanza.png%3Falt%3Dmedia%26token%3D648210fd-e59c-4998-a921-1506145d02e3&width=768&dpr=4&quality=100&sign=fa46cb30&sv=2)
 
-There are 5 sizes of player-owned NFT land:
+There are 5 sizes of player owned land:
 
 * Small Land Plot - 16m x 24m (roughly the size of an NBA basketball court)
 * Medium Land Plot - 24m x 36m
@@ -99,7 +93,7 @@ To travel to the Themed Zones from the Sector Hub, or to travel between each Dom
 Each of the Sector Domes within the same Themed Zone are similar in geography but have different map layouts. Features include:
 
 * Busy districts full of real life players enjoying the lively, friendly community.
-* [Non-Player-Characters](/gameplay/non-player-characters) (NPCs) to visit and offer daily quests.
+* Non-Player-Characters (NPCs) to visit and offer daily quests.
 * [Town halls](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall) and notice boards that offer quests.
 * Player-owned and free roaming farm/wild animals.
 * All sizes of player-owned and upgradeable houses are curated to fit the theme of the zone, with some even available to rent at the choice of the owner.
@@ -121,16 +115,9 @@ To speed up travels, there are many player-owned mounts that are available to us
 
 There is an underground transport system that will allow players to travel quickly from town to town.
 
-COPI Leaks
-----------
-
-![](https://copiwiki.cornucopias.io/~gitbook/image?url=https%3A%2F%2F4046923609-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FPQmCVki2WHg9QcW9pdrX%252Fuploads%252FFRH7cjXKXKdvSkciGHui%252Fimage.png%3Falt%3Dmedia%26token%3Ddfd05cfd-c9c4-4f85-80d8-619fb7f7b5b4&width=768&dpr=4&quality=100&sign=8708c748&sv=2)
-
-Early Leak of a large rock within the Esperanza Themed Zone
-
 [PreviousZone 1 - Solace](/gameplay/themed-zones/sectors/zone-1-solace)[NextZone 3 - Fortune](/gameplay/themed-zones/sectors/zone-3-fortune)
 
-Last updated 1 year ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
