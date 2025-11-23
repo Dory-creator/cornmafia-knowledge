@@ -9,7 +9,6 @@ Land Plot - Farming | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -38,21 +37,18 @@ Land Plot - Farming | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -63,7 +59,6 @@ Land Plot - Farming | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -96,9 +91,9 @@ Land Plot - Farming
 District - Farms
 ----------------
 
-All Farms are [NFT District Land](/blockchain/player-owned-assets/asset-themed-zones-1-3) which enable players to grow and harvest [crops](/gameplay/gameplay-pc/resources/crops). They are located in [Districts](/gameplay/themed-zones/sectors/land-sector-districts) on player land.
+All Farms are [District Land](/on-chain/player-owned-assets/asset-themed-zones-1-3) which enable players to grow and harvest [crops](/gameplay/gameplay-pc/resources/crops). They are located in [Districts](/gameplay/themed-zones/sectors/land-sector-districts) on player land.
 
-To have a working Farm the land owner needs to build up their facilities to a minimum level before the land can be farmed and other players can be invited to tend the land. The more facilities a landowner has on their property, the more attractive to other players their property becomes, as they will be able to offer services/raw goods that other competing farms may not yet offer. These services can be leveled up to increase productivity and crop yield.
+To have a working Farm the land owner needs to build up their facilities to a minimum level before the land can be farmed and other players can be invited to tend the land. The more facilities a landowner has on their property, the more attractive to other players their property becomes, as they will be able to offer services/raw goods that other competing farms may not yet offer. These services can be levelled up to increase productivity and crop yield.
 
 It is the land owners decision whether their facilities will be used by other players. Allowing other players to help tend their land will bring the land owner additional rewards that they could not achieve by farming alone.
 
@@ -134,12 +129,10 @@ At least one power supply is required to operate a farm and other buildings on t
 
 ### The Well
 
-The source of water for all farming endeavors, crops will require water to ensure they grow efficiently and the player will require tools to gather and use the water.
+The source of water for all farming endeavours, crops will require water to ensure they grow efficiently and the player will require tools to gather and use the water.
 
 Land Plots
 ----------
-
-Each Land Plot is a Progressive NFT and the location will be initially claimed by the players who own the Land Plot NFTs.
 
 Each Land Plot comes in one of 5 different sizes and one of 5 different rarities - see [District Land Plots](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming#land-plots).
 
@@ -176,7 +169,7 @@ The grade of the soil may deteriorate over time if it is not maintained.
 
 Some rarer crops will only be able to be grown on higher grades of soil.
 
-There will be crops that can be grown every season and some that are only capable of being grown in 1 or more seasons. These will be clearly explained in the crop details page which will be added to the COPIWiki.
+There will be crops that can be grown every season and some that are only capable of being grown in 1 or more seasons.
 
 **Harvest Quantity**
 --------------------
@@ -187,8 +180,6 @@ The quantity of the Harvest may be determined by how the crop was nurtured and h
 
 During harvesting of crops the player may have to use their skill to determine the success of the crop harvest. More skilled players may be able to achieve more rewards or crops based on how they perform in the harvest skill task. Different crops may require different player harvesting skills.
 
-Details of the harvest mechanics will be made available and some should be ready for the MVP version of farming within Cornucopias.
-
 [PreviousBuilding Maintenance](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/buildings-utility-and-vehicles/building-maintenance)[NextFarming - Animals](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-utility/land-plot-farming/farming-animals)
 
-Last updated 1 year ago
+Last updated 1 day ago
