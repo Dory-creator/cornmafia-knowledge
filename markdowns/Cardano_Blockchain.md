@@ -73,7 +73,7 @@ With a leading team of engineers, Cardano exists to redistribute power from unac
 
 [PreviousBASE Chain](/the-company/technology/cross-chain-technology/base-chain)[NextGame Devices](/the-company/technology/game-devices)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
