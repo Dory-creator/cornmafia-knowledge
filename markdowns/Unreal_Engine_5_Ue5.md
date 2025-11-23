@@ -73,7 +73,7 @@ All kinds of technology including VR, AR, Green Screens and [Real-Time Motion Ca
 
 [PreviousSmart TVs](/the-company/technology/game-devices/smart-tvs)[NextVisions and Values](/the-company/visions-and-values)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
