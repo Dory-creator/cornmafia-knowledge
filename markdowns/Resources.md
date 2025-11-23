@@ -91,7 +91,7 @@ Resources are then converted at workshops into the processed form of:
 
 [PreviousQuest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)[NextWood](/gameplay/gameplay-pc/resources/wood)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
