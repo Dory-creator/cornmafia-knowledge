@@ -83,7 +83,7 @@ Players can earn, buy and be rewarded with badges in Infinity Rising. These can 
 
 [PreviousSaving Location](/gameplay/gameplay-pc/user-interface/saving-location)[NextCloud Gates](/gameplay/gameplay-pc/cloud-gates)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
