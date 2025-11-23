@@ -64,7 +64,7 @@ Infinity Rising has an ever-expanding network of partners to ensure success.
 
 [PreviousGovernance](/the-company/governance)[NextPartner Network](/the-company/partners/partner-network)
 
-Last updated 22 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
