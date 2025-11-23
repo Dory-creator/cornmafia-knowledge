@@ -9,7 +9,6 @@ Land Plot - Property Rentals | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -35,21 +34,18 @@ Land Plot - Property Rentals | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -60,7 +56,6 @@ Land Plot - Property Rentals | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -78,18 +73,18 @@ Copy
 Land Plot - Property Rentals
 ============================
 
-All the district residential properties are plots of [NFT Land](/blockchain/player-owned-assets/asset-themed-zones-1-3) owned by players. These land plots come in set locations and have variations of size in order to form a curated layout within a district.
+All the district residential properties are plots of [Land](/on-chain/player-owned-assets/asset-themed-zones-1-3) owned by players. These land plots come in set locations and have variations of size in order to form a curated layout within a district.
 
 District land plots are sold individually to players giving them ownership of the land. The owner of the land plot can choose to build a residential property in the form of a house.
 
-The level of the district house determines how many residents that property can house and can be upgraded to increase the number of tenants. Other players now have the choice to rent the property. This is done on a season per season basis and is managed with the use of a [Seasonal Tenant Key NFT](/blockchain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key).
+The level of the district house determines how many residents that property can house and can be upgraded to increase the number of tenants. Other players now have the choice to rent the property. This is done on a season per season basis and is managed with the use of a [Seasonal Tenant Keys](/on-chain/player-owned-assets/asset-themed-zones-1-3/asset-seasonal-tenant-key).
 
 Sleeping in residential houses allows players to save their location.
 
 Upgrading District Residential Property
 ---------------------------------------
 
-Players who own district property can upgrade their house, using in-game currency or $COPI to increase its size and residential capacity.
+Players who own district property can upgrade their house, using in-game currency to increase its size and residential capacity.
 
 Each property can be upgraded to increase the number of tenants that are permitted within that property. This also has the effect of increasing the potential population of the district. Upgrading the level of the house also changes the appearance of the property.
 
@@ -102,7 +97,7 @@ Rooms/beds within the following player owned properties can be rented to other p
 
 [PreviousLand Plot - Influence Sphere](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-influence-sphere)[NextProperty Rentals - Farmhouse](/gameplay/themed-zones/sectors/land-sector-districts/district-land-plots/land-plot-property-rentals/property-rentals-farmhouse)
 
-Last updated 2 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
