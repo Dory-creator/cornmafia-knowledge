@@ -87,7 +87,7 @@ From an owners point of view we will ensure you are paid your rent on time.
 
 [PreviousCustom Dome - Motion Capture/Custom Avatars](/gameplay/gameplay-pc/custom-domes/custom-dome-motion-capture-custom-avatars)[NextCustom Dome - Size your Event](/gameplay/gameplay-pc/custom-domes/custom-dome-size-your-event)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
