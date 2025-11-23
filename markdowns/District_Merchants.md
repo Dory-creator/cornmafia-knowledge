@@ -9,7 +9,6 @@ District - Merchants | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -28,21 +27,18 @@ District - Merchants | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -53,7 +49,6 @@ District - Merchants | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -72,13 +67,13 @@ District - Merchants
 
 District merchants are buyers or sellers of commodities in the [Themed Zones](/gameplay/themed-zones). Players throughout the metaverse can visit merchants when in need of [resources](/gameplay/gameplay-pc/resources). Each merchant will be subcategorized into specific commodities including; [crops](/gameplay/gameplay-pc/resources/crops), [wood](/gameplay/gameplay-pc/resources/wood), [metal](/gameplay/gameplay-pc/resources/metal), and [plants](/gameplay/gameplay-pc/resources/plants).
 
-Every district will have merchants located in proximity to the [Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall) owned and managed by [NPCs](/gameplay/non-player-characters).
+Every district will have merchants located in proximity to the [Town Hall](/gameplay/themed-zones/sectors/land-sector-districts/district-town-hall) owned and managed by NPCs.
 
-Merchants can also be player owned through the purchase of [NFT Land](/blockchain/player-owned-assets/asset-themed-zones-1-3), and managed by the players who own them.
+Merchants can also be player owned through the purchase of [Player Owned Land](/on-chain/player-owned-assets/asset-themed-zones-1-3), and managed by the players who own them.
 
 [PreviousDistrict - Leagues and Leader board](/gameplay/themed-zones/sectors/land-sector-districts/district-leagues-and-leader-board)[NextDistrict - Season Evolution](/gameplay/themed-zones/sectors/land-sector-districts/district-season-evolution)
 
-Last updated 3 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
