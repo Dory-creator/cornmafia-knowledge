@@ -61,7 +61,7 @@ Other ways we will be offering land and other Player Owned Assets to players is 
 
 [PreviousPlayers Safety](/the-company/compliance/players-safety)[NextPartners](/the-company/partners)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
