@@ -87,7 +87,7 @@ More Information can be found on our website
 
 [PreviousNode Hosting](/gameplay/about-the-game/node-hosting)[NextRoad Map](/gameplay/about-the-game/road-map)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
