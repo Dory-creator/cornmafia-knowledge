@@ -15,10 +15,9 @@ Metal | RISEWiki
     - [Clothing](/gameplay/gameplay-pc/clothing)
     - [Cloud Gates](/gameplay/gameplay-pc/cloud-gates)
     - [Custom Domes](/gameplay/gameplay-pc/custom-domes)
-    - [Equipment](/gameplay/gameplay-pc/equipment)
     - [Friends List](/gameplay/gameplay-pc/friends-list)
     - [Guilds](/gameplay/gameplay-pc/guilds)
-    - [Quest and challenges](/gameplay/gameplay-pc/quest-and-challenges)
+    - [Quest and Challenges](/gameplay/gameplay-pc/quest-and-challenges)
     - [Resources](/gameplay/gameplay-pc/resources)
 
       * [Wood](/gameplay/gameplay-pc/resources/wood)
@@ -29,25 +28,21 @@ Metal | RISEWiki
       * [Livestock](/gameplay/gameplay-pc/resources/livestock)
       * [Fish](/gameplay/gameplay-pc/resources/fish)
     - [Seasons](/gameplay/gameplay-pc/seasons)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -58,7 +53,6 @@ Metal | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -77,9 +71,9 @@ Copy
 Metal
 =====
 
-Metal is an essential crafting resource in Cornucopias. Its life cycle begins with ore found in rocks or mines, which is extracted using pickaxes. Ore is then processed at a [blacksmiths](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/blacksmith) and converted into metal ingots.
+Metal is an essential crafting resource in Infinity Rising. Its life cycle begins with ore found in rocks or mines, which is extracted using pickaxes. Ore is then processed at a [blacksmiths](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/blacksmith) and converted into metal ingots.
 
-This resource can be used to craft tools, buildings and technology within Cornucopias.
+This resource can be used to craft tools, buildings and technology within Infinity Rising.
 
 The life cycle begins with ore, found in rocks or mines, which is extracted using pickaxes. Ore is then taken to a Metalworks and converted into metal ingots by using a furnace. Metal Ingots can the be taken to a Blacksmiths for crafting.
 
@@ -97,7 +91,7 @@ Metal ingots are resource elements essential for crafting. Found as raw [ore](/g
 
 [PreviousWood](/gameplay/gameplay-pc/resources/wood)[NextRock](/gameplay/gameplay-pc/resources/rock)
 
-Last updated 3 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
