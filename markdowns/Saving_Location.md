@@ -72,7 +72,7 @@ The penalty for not sleeping will make the player return to their Sector Hub.
 
 [PreviousInventory](/gameplay/gameplay-pc/user-interface/inventory)[NextClothing](/gameplay/gameplay-pc/clothing)
 
-Last updated 9 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
