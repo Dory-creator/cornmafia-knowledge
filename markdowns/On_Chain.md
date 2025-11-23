@@ -59,7 +59,7 @@ Infinity Rising has its own secure wallet built into the [Launcher](/gameplay/ga
 
 [PreviousDiscord](/gameplay/community/discord)[NextCOPI Stake Pool](/on-chain/copi-stake-pool)
 
-Last updated 21 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
