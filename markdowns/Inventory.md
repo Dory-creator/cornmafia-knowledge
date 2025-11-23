@@ -74,7 +74,7 @@ Players can then transfer items to their [Mount](/gameplay/themed-zones/transpor
 
 [PreviousCrafting](/gameplay/gameplay-pc/user-interface/crafting)[NextSaving Location](/gameplay/gameplay-pc/user-interface/saving-location)
 
-Last updated 9 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
