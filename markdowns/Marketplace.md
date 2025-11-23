@@ -58,7 +58,7 @@ This is where you players will find player owned assets for purchase to use in-g
 
 [PreviousCOPIC Stake Pool](/on-chain/copic-stake-pool)[NextCross Chain Assets](/on-chain/marketplace/cross-chain-assets)
 
-Last updated 0 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
