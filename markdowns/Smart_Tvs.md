@@ -75,7 +75,7 @@ We believe SmartTV apps will have a key part to play in the future of gaming, wh
 
 [PreviousGames Consoles](/the-company/technology/game-devices/games-consoles)[NextUnreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
 
-Last updated 7 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
