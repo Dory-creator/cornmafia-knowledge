@@ -81,7 +81,7 @@ Traveling by air will be the most common way to travel, players can own their ow
 
 [PreviousTannery](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tannery)[NextFlying Vehicles](/gameplay/themed-zones/transport/flying-vehicles)
 
-Last updated 9 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
