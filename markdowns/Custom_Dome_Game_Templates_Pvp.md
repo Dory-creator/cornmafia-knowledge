@@ -90,7 +90,7 @@ Further more, there will be the opportunity in the future to use your own token 
 
 [PreviousCustom Dome Template - Educational Centers](/gameplay/gameplay-pc/custom-domes/custom-dome-standard-templates/custom-dome-template-educational-centers)[NextCustom Dome - Building Kits & Gameplay Kits](/gameplay/gameplay-pc/custom-domes/custom-dome-building-kits-and-gameplay-kits)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
