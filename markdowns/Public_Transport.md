@@ -61,7 +61,7 @@ The city has its own type of public transport - the city bus.
 
 [PreviousFlying Vehicle - Fuel](/gameplay/themed-zones/transport/flying-vehicles/flying-vehicle-fuel)[NextMega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
