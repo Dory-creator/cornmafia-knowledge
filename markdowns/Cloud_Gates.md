@@ -73,7 +73,7 @@ Image of the Cloud Gate - the first UE5 image that was shared back in 2022 (this
 
 [PreviousClothing](/gameplay/gameplay-pc/clothing)[NextCustom Domes](/gameplay/gameplay-pc/custom-domes)
 
-Last updated 2 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
