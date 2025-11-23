@@ -82,7 +82,7 @@ The Launcher will be updated and will grow into an invaluable piece of critical 
 
 [PreviousGameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)[NextCommunity](/gameplay/community)
 
-Last updated 37 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
