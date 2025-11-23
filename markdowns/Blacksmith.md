@@ -9,7 +9,6 @@ Blacksmith | RISEWiki
 
   + [About the game](/gameplay/about-the-game)
   + [Gameplay - PC](/gameplay/gameplay-pc)
-  + [Non-Player Characters](/gameplay/non-player-characters)
   + [Themed Zones](/gameplay/themed-zones)
 
     - [Sectors](/gameplay/themed-zones/sectors)
@@ -36,21 +35,18 @@ Blacksmith | RISEWiki
     - [Transport](/gameplay/themed-zones/transport)
   + [Mega Dome - Calido Valley](/gameplay/mega-dome-calido-valley)
   + [Gameplay - eSports Racing League](/gameplay/gameplay-esports-racing-league)
-  + [Gameplay - Mobile](/gameplay/gameplay-mobile)
   + [Game Launcher](/gameplay/game-launcher)
-  + [City - Life](/gameplay/city-life)
   + [Community](/gameplay/community)
-* 🌐BLOCKCHAIN
+* 🌐ON CHAIN
 
-  + [Blockchain Wallets](/blockchain/blockchain-wallets)
-  + [COPI Stake Pool](/blockchain/copi-stake-pool)
-  + [COPIC Stake Pool](/blockchain/copic-stake-pool)
-  + [Marketplace](/blockchain/marketplace)
-  + [PLAYER OWNED ASSETS](/blockchain/player-owned-assets)
+  + [Blockchain Wallets](/on-chain/blockchain-wallets)
+  + [COPI Stake Pool](/on-chain/copi-stake-pool)
+  + [COPIC Stake Pool](/on-chain/copic-stake-pool)
+  + [Marketplace](/on-chain/marketplace)
+  + [Player Owned Assets](/on-chain/player-owned-assets)
 * 🧑‍🤝‍🧑THE COMPANY
 
   + [COMPLIANCE](/the-company/compliance)
-  + [Founders](/the-company/founders)
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
@@ -61,7 +57,6 @@ Blacksmith | RISEWiki
   + [Nodes](/documentation/nodes)
 * 🔗LINKS
 
-  + [Link Tree](https://linktr.ee/cornucopias.game)
   + [Official Website](https://www.infinityrising.com/)
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=PQmCVki2WHg9QcW9pdrX)
@@ -83,19 +78,19 @@ Copy
 Blacksmith
 ==========
 
-The workstation necessary for [crafting](/gameplay/gameplay-pc/user-interface/crafting) [tools](/gameplay/gameplay-pc/equipment/tools) and [weapons](/gameplay/gameplay-pc/equipment/melee-weapons). Players combine [resources](/gameplay/gameplay-pc/resources) at the forge to begin the crafting process.
+The workstation necessary for [crafting](/gameplay/gameplay-pc/user-interface/crafting) tools and weapons. Players combine [resources](/gameplay/gameplay-pc/resources) at the forge to begin the crafting process.
 
 Blacksmith stations can be found in every district and include a forge and smelting furnace.
 
 Armor Table
 -----------
 
-The workstation, which enables players to combine [resources](/gameplay/gameplay-pc/resources) to craft [armor](/gameplay/gameplay-pc/equipment/armor).
+The workstation, which enables players to combine [resources](/gameplay/gameplay-pc/resources) to craft armor.
 
 Weapons Table
 -------------
 
-The workstation, which enables players to combine [resources](/gameplay/gameplay-pc/resources) to craft [weapons](/gameplay/gameplay-pc/equipment/melee-weapons) and [tools](/gameplay/gameplay-pc/equipment/tools).
+The workstation, which enables players to combine [resources](/gameplay/gameplay-pc/resources) to craft weapons and tools.
 
 Engineers Table
 ---------------
@@ -104,7 +99,7 @@ The workstation, which enables players to combine [resources](/gameplay/gameplay
 
 [PreviousTailors](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/tailors)[NextCarpenter](/gameplay/themed-zones/sectors/land-sector-districts/district-workshops/carpenter)
 
-Last updated 3 years ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
