@@ -27,21 +27,15 @@ Nodes | RISEWiki
   + [Governance](/the-company/governance)
   + [Partners](/the-company/partners)
   + [Technology](/the-company/technology)
-
-    - [Agile Methodology](/the-company/technology/agile-methodology)
-    - [Nodes](/the-company/technology/nodes)
-
-      * [File Nodes](/the-company/technology/nodes/file-nodes)
-      * [Game Node](/the-company/technology/nodes/game-node)
-      * [Data Node](/the-company/technology/nodes/data-node)
-    - [Cross Chain Technology](/the-company/technology/cross-chain-technology)
-    - [Game Devices](/the-company/technology/game-devices)
-    - [Unreal Engine 5 (UE5)](/the-company/technology/unreal-engine-5-ue5)
   + [Visions and Values](/the-company/visions-and-values)
 * 📖Documentation
 
   + [Game](/documentation/game)
   + [Nodes](/documentation/nodes)
+
+    - [Guide: How to Set Up a File Node Pool](/documentation/nodes/guide-how-to-set-up-a-file-node-pool)
+    - [Public Pools Dashboard](/documentation/nodes/public-pools-dashboard)
+    - [Node Delegation](/documentation/nodes/node-delegation)
 * 🔗LINKS
 
   + [Official Website](https://www.infinityrising.com/)
@@ -52,21 +46,16 @@ On this page
 
 Copy
 
-1. [🧑‍🤝‍🧑THE COMPANY](/the-company)
-2. [Technology](/the-company/technology)
+1. [📖Documentation](/documentation)
 
 Nodes
 =====
 
-There are and will be different types of Host-and-Earn nodes available :
+[Guide: How to Set Up a File Node Pool](/documentation/nodes/guide-how-to-set-up-a-file-node-pool)[Public Pools Dashboard](/documentation/nodes/public-pools-dashboard)[Node Delegation](/documentation/nodes/node-delegation)
 
-* [File Nodes](/the-company/technology/nodes/file-nodes)
-* [Game Nodes](/the-company/technology/nodes/game-node) (tba)
-* [Data Nodes](/the-company/technology/nodes/data-node) (tba)
+[PreviousVideo Settings](/documentation/game/video-settings)[NextGuide: How to Set Up a File Node Pool](/documentation/nodes/guide-how-to-set-up-a-file-node-pool)
 
-[PreviousAgile Methodology](/the-company/technology/agile-methodology)[NextFile Nodes](/the-company/technology/nodes/file-nodes)
-
-Last updated 3 hours ago
+Last updated 4 months ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
