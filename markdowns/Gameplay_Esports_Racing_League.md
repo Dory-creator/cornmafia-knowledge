@@ -80,7 +80,7 @@ Lots more gameplay information will be released soon...
 
 [PreviousCalido City](/gameplay/mega-dome-calido-valley/calido-city)[NextGame Launcher](/gameplay/game-launcher)
 
-Last updated 46 minutes ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
