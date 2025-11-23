@@ -57,7 +57,7 @@ Infinity Rising is an open‑world sandbox set between Cornucopias—the Nation 
 
 [PreviousINFINITY RISING](/)[NextArtwork](/gameplay/about-the-game/artwork)
 
-Last updated 21 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
