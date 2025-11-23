@@ -71,7 +71,7 @@ In return for hosting, players will be rewarded with $RISE and/or other rewards.
 
 [PreviousGame Node](/the-company/technology/nodes/game-node)[NextCross Chain Technology](/the-company/technology/cross-chain-technology)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
