@@ -68,7 +68,7 @@ In the future Infinity Rising will be available on various devices capable of pl
 
 [PreviousCardano Blockchain](/the-company/technology/cross-chain-technology/cardano-blockchain)[NextPC Desktop](/the-company/technology/game-devices/pc-desktop)
 
-Last updated 3 hours ago
+Last updated 1 day ago
 
 This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
 
