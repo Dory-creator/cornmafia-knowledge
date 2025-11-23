@@ -365,8 +365,4 @@ Planning a roadmap is really hard - this roadmap is subject to change.
 
 [PreviousRISE Tokenomics](/gameplay/about-the-game/rise-tokenomics)[NextGameplay - PC](/gameplay/gameplay-pc)
 
-Last updated 43 minutes ago
-
-This site uses cookies to deliver its service and to analyze traffic. By browsing this site, you accept the [privacy policy](https://infinityrising.com/legal/privacy-policy).
-
-AcceptReject
+Last updated 1 day ago
